@@ -51,5 +51,5 @@ Increasing preharvest sprouting tolerance in Northeast wheat through:
 ### Contact  
 Email: [sam594@cornell.edu](mailto:sam594@cornell.edu) or [shantel.a.martinez@gmail.com](mailto:shantel.a.martinez@gmail.com)  
 Twitter: [s_amealia](https://twitter.com/s_amealia)   
-LinkedIn: [shantel-a-martinez](https://www.linkedin.com/in/shantel-a-martinez/)
+LinkedIn: [shantel-a-martinez](https://www.linkedin.com/in/shantel-a-martinez/)  
 Office: [Bradfield Hall](https://goo.gl/maps/Yfk3XHpH1wk) Rm 420 | Cornell University
