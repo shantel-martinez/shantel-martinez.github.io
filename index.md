@@ -2,13 +2,7 @@
 
 Welcome to my hub of wheat science resources, links to presentations, CV, and basic info on all the ways to contact me.  
 
-### Current Resources: 
-
-|**2019 Falling Number Workshop [Resources](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/README.md) and Slide Deck:** |**2018 GWA [Study](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141/full) on Preharvest Sprouting and Falling Numbers** |  
-|:---|:---|  
-| [![FN_talk_slides](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/SMartinez%20FN%20Workshop%2001.30.2019.png?raw=true)](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/SMartinez%20FN%20Workshop%2001.30.2019.pdf)|[![PHS_GWAS](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/Figure%203.v7.jpg?raw=true)](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141/full)|  
-
-
+### Current Resources:  
 **2019 Falling Number Workshop [Resources](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/README.md) and Slide Deck:**
 [![FN_talk_slides](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/SMartinez%20FN%20Workshop%2001.30.2019.png?raw=true)](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/SMartinez%20FN%20Workshop%2001.30.2019.pdf)  
 
