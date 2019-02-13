@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Hello Fellow Plant Enthusiasts
 
 Welcome to my hub of wheat science resources, links to presentations, CV, and basic info on all the ways to contact me.  
