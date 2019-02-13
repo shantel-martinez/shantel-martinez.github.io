@@ -1,6 +1,4 @@
-## S Martinez CV 
-
-[Download PDF](./SMartinez_CV_Jan2019.pdf)  
+S Martinez CV PDF [Download](./SMartinez_CV_Jan2019.pdf)  
 
 ## Postdoctoral Fellow in Plant Breeding and Genetics  
 
