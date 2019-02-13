@@ -12,7 +12,7 @@ Seed dormancy is when a seed in unable to germinate, even under favorable condit
 > a) have to sell their grain for feed because it no longer can be used for food (losing food)    
 > b) can only sell the wheat for a reduced price, because the quality is too low for industry standards (losing $$$)  
 
-![PHS](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/LabMeeting%202019.02.12%20PHS%20GS%20and%20CC%20update.jpg?raw=true)  
+![PHS](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/PHS.jpg?raw=true)  
 
 Now as a wheat breeder in an area where it is possible for rain to occur around wheat maturity, we want to tackle this problem head on. There are no common farming applications where a farmer can 'spray' some sort of chemical to prevent PHS from happening, and fields are way too large to cover the crop with a physical barrier (like a tarp) to prevent the rain from reaching the seed. So that leaves us with only one option, growing wheat varieties that are tolerance to PHS genetically.  
 
@@ -22,4 +22,5 @@ In order to find genetic resistance, we need to screen many many types of wheat 
 
 
 
+![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/ScreenPHS.jpg?raw=true)  
 
