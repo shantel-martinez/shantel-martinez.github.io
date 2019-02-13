@@ -5,7 +5,7 @@
 ## Public  
 ### Grow NYC   
 Breeders, chefs, and the public came together to network, learn, & taste. Sharing my knowledge/work with the public in one way or another will always be a career priority  
->> ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/GrowNYC.jpg)  
+>> ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/GrowNYC.jpg?raw=true)  
 
 ## Stakeholders
 ### Field Day 2019
