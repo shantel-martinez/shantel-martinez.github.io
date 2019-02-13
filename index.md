@@ -3,8 +3,7 @@
 Wheat Molecular Genetics  
 
 ### Research & Resources: 
-**2019 Falling Number Workshop [Resources](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/README.md)**
-**2019 Falling Number Workshop Slide Deck**
+**2019 Falling Number Workshop [Resources](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/README.md) and Slide Deck:**
 [![FN_talk_slides](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/SMartinez%20FN%20Workshop%2001.30.2019.png?raw=true)](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/SMartinez%20FN%20Workshop%2001.30.2019.pdf)  
 
 **2018 GWA Study on Preharvest Sprouting and Falling Numbers**
