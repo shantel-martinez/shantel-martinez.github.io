@@ -3,7 +3,7 @@
 **Communicating Research to the Ones That Matter**  
 
 ## Public  
-###Grow NYC   
+### Grow NYC   
 Breeders, chefs, and the public came together to network, learn, & taste. Sharing my knowledge/work with the public in one way or another will always be a career priority  
 >> ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/GrowNYC.jpg)  
 
@@ -14,9 +14,9 @@ Updating farmers about wheat preharvest sprouting in front of a barley trial, we
 
 ## Industry 
 ###Falling Numbers Workshop 2019   
-   
-Find resources and the presentation slides [here](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/README.md)  
+A workshop with great intellectual & intense discussion on how to solve the low FN problem. People attending such as 30+yr farmers, the person selling the wheat to Japan, and the breeders creating the wheat... all in one room  
+Find resources and the presentation slides [here](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/README.md)   
 >> [![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/FNWorkshopTweet.PNG?raw=true)](https://twitter.com/thewheatwoman/status/1090680556524720128)   
 
-###Falling Numbers Summit 2017  
+### Falling Numbers Summit 2017  
 
