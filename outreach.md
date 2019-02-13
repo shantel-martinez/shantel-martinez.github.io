@@ -3,7 +3,7 @@
 ## Communicating Research to the Ones That Matter
 ## Stakeholders
 Field Day 2019
->   
+>   Updating farmers about wheat preharvest sprouting in front of a barley trial, we do conduct sprout tests on barley too, so it works!  
 > ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/FieldDay2019.jpg?raw=true)  
 
 ## Industry 
