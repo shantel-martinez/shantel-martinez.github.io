@@ -26,17 +26,16 @@ Increasing preharvest sprouting tolerance in Northeast wheat through:
 
 
 ### Awards & Funding 
-▪ USDA-AFRI ELI Postdoctoral Grant 2018   
-▪ MPS Travel Grant 2016  
+▪ NIFA-AFRI Education and Literacy Initiative Grant 2018-2020   
+▪ International Seed Science Society Conference Travel Grant 2017   
 ▪ Research Assistantship - AFRI-NIFA Plant Breeding Grant 2016-2017  
 ▪ GPSA Senator Excellence Award 2015-2016  
 ▪ GPSA Research Expo - Agriculture & Natural Science 1st place 2016  
+▪ Crop and Soil Science Department Travel Grant 2016 
 ▪ Teaching Assistantship for Plant Breeding 2015  
 ▪ Lindahl Memorial Scholarship 2014-2015  
 ▪ ASPB Plant Biology Travel Grant 2014  
 ▪ Distinguished Research Assistantship for Diverse Scholars 2013-2014  
-▪ Crop and Soil Science Department Travel Grant 2013, 2016  
-▪ Graduate and Professional Student Association Travel Grant 2013  
 
 ### Teaching & Outreach   
 **Effective Teaching Strategies**, CIRTL Massive Open Online Courses. *Student*. Advanced Learning Through Evidence-Bases STEM Teaching. (Currently Enrolled)  
@@ -50,6 +49,7 @@ In addition to my work in my academic field, I’ve also developed numerous skil
 
 ### Department Services  
 ▪ Corteva Plant Breeding Symposium Committee 2019  
+▪ MPS Annual Recruitment Symposium Presenter 2017 
 ▪ GPSA Director of Professional Development 2016-2017  
 ▪ GPSA MPS Senator 2015-2016  
 ▪ Molecular Plant Science GSO Vice President 2014-2015  
