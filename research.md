@@ -4,7 +4,7 @@ Shantel’s research career, so far, has been trying to identify genetics contri
 
 ---------
 
-(Preharvest Sprouting)[#PHS] | (Screening Methods)[#screen] | (Breeding Methods)[#breeding]
+(Preharvest Sprouting)[#PREHARVEST SPROUTING] | (Screening Methods)[#screen] | (Breeding Methods)[#breeding]
 
 ---------
 
