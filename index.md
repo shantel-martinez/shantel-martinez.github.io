@@ -4,7 +4,7 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 
 ### Current Resources:  
 **2019 Falling Number Workshop [Resources](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/README.md) and Slide Deck:**
-[![FN_talk_slides](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/SMartinez%20FN%20Workshop%2001.30.2019.png?raw=true)](./SMartinez FN Workshop 01.30.2019.pdf)   
+[![FN_talk_slides](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/SMartinez%20FN%20Workshop%2001.30.2019.png?raw=true)](/SMartinez FN Workshop 01.30.2019.pdf)   
 
 
 
