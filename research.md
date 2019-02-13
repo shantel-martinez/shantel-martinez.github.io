@@ -10,8 +10,8 @@ Seed dormancy is when a seed in unable to germinate, even under favorable condit
 
 **PREHARVEST SPROUTING**  
 If the wheat has already reached maturity and a rain event were to occur before the farmers could harvest/combine the field, the wheat seeds may sprout, causing **preharvest sprouting** (PHS). When seeds sprout, they break down those beautifully long starch chains for energy to begin the germination process. A key enzyme that helps break fown the starch is a-amylase.  And as we can imagine, broken down starch can lead to a very poor quality sized bread, cake, or cookie. Typically when a wheat farm succombs to preharvest sprouting, they either  
-> a) have to sell their grain for feed because it no longer can be used for food (losing food)    
-> b) can only sell the wheat for a reduced price, because the quality is too low for industry standards (losing $$$)  
+**a)** have to sell their grain for feed because it no longer can be used for food (losing food)    
+**b)** can only sell the wheat for a reduced price, because the quality is too low for industry standards (losing $$$)  
 
 ![PHS](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/PHS.jpg?raw=true)  
 
