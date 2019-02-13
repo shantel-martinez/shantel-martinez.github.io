@@ -17,6 +17,6 @@ Wheat Molecular Genetics
 ---------
 
 ### Contact  
-Email: [sam594@cornell.edu](sam594@cornell.edu) or [shantel.a.martinez@gmail.com](shantel.a.martinez@gmail.com)  
+Email: [sam594@cornell.edu](mailto:sam594@cornell.edu) or [shantel.a.martinez@gmail.com](mailto:shantel.a.martinez@gmail.com)  
 Twitter: [s_amealia](https://twitter.com/s_amealia)   
 Office: Bradfield Hall Rm 420 | Cornelly University
