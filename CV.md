@@ -10,18 +10,24 @@ M.S., 2013: Crop Science, Washington State University, Pullman WA
 B.S., 2011: Bioengineering, Washington State University, Pullman WA  
 
 ### Research  
-**Postdoctoral Fellow**   
-*May 2018 - Present* | *Cornell University*  
+**Wheat Molecular Genetics in Preharvest Sprouting**   
+*May 2018 - Present* | *Cornell University* | Dr. Mark E. Sorrells Lab   
 Increasing preharvest sprouting tolerance in Northeast wheat through:   
 > GWAS of PHS traits  
 > Genomic selection modeling of PHS traits  
 > Endogenous seed hormone profiling  
 > Fine mapping dormancy gene(s) & Confirming candidate dormancy genes  
 
+**Improving Germplasm Resources for the PNW**   
+*2013 - 2018* | *Washington State University* | Dr. Camille M. Steber  and Dr. Kimberly Garland Campbell Labs  
+Identify novel loci contributing to PHS (preharvest sprouting) and drought tolerance in wheat (Triticum aestivum L.) with an emphasis on the role of the plant hormone ABA (abscisic acid) in controlling these processes. Conducting linkage analysis to map the Zak ERA8 mutation in a RIL population along with bulk segregation analysis to fine map ERA8 in a backcross population with wild-type Zak. Examining loci contributing to preharvest sprouting and Falling Numbers through association mapping. The goal of this research is to improve PHS and drought tolerance in Washington wheat using both ABA mutants and the existing variation for these traits through three different approaches:   
+> Identify loci providing PHS tolerance in northwest germplasm by association mapping  
+> Map the ERA8 locus that causes the ABA hypersensitive seed germination and PHS tolerance phenotypes of soft white spring Zak ERA8 wheat  
+> Produce a drought tolerant mapping population between two PNW soft white spring wheat cultivars  
 
-
-
-
+**Investigating an ABA Hypersensitive Mutant**   
+*2011 - 2013* | *Washington State University* | Dr. Camille M. Steber and Dr. Arron H. Carter Labs  
+Studied the characteristics of an ABA hypersensitive mutant, Zak ERA8. Wild-type and mutant endogenous hormone levels within the seed were compared as well as the germination response in the presence and absence of exogenously applied hormones ABA and GA. Segregation analysis, preharvest sprouting trials, agronomic and end-use quality traits were also compared between wild type and mutant. Skills in statistical analysis using SAS, comprehensive R use, and field experiments were also obtained.   
 
 ### Awards & Funding 
 ▪ NIFA-AFRI Education and Literacy Initiative Grant 2018-2020   
