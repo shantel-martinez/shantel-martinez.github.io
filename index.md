@@ -27,6 +27,6 @@ Office: [Bradfield Hall](https://goo.gl/maps/Yfk3XHpH1wk) Rm 420 | Cornell Unive
 Email: [sam594@cornell.edu](mailto:sam594@cornell.edu) or [shantel.a.martinez@gmail.com](mailto:shantel.a.martinez@gmail.com)   
 Twitter: [s_amealia](https://twitter.com/s_amealia)    
 Google Scholar: [publications](https://scholar.google.com/citations?user=70kEKNsAAAAJ&hl=en&oi=ao)  
-CV: [Updated Jan 2019](/Docs/SMartinez_CV_Jan2019.pdf)  
+CV: [Updated Jan 2019](./CV.html)
 LinkedIn: [shantel-a-martinez](https://www.linkedin.com/in/shantel-a-martinez/)    
 Github: [shantel-a-martinez](https://github.com/shantel-martinez?tab=repositories)  
