@@ -1,20 +1,4 @@
-# Site settings
 theme: jekyll-theme-minimal
 title: Shantel A. Martinez
 description: Wheat Molecular Genetics
 logo : https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/wheatBWcrop.jpg?raw=true
-
-
-twitter_username: s_amealia
-name: Shantel A. Martinez
-#User specific content
-#Links that will appear in the navbar
-primarylinks:
- - title: Home
-   url: shantel-martinez.github.io
- - title: GitHub
-   url: https://github.com/shantel-martinez
- - title: Research
-   url: shantel-martinez.github.io
- - title: Talk Resources
-   url: shantel-martinez.github.io
