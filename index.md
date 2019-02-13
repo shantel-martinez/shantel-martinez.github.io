@@ -17,14 +17,14 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 [Outreach](./outreach.html)<br/>
 [Media](./media.html)<br/>
 
-### CV: [Updated Jan 2019](./CV.html)  
+[CV](./CV.html) *Updated Jan 2019*   
 
 ---------
 
 ### Contact   
-Office: [Bradfield Hall](https://goo.gl/maps/Yfk3XHpH1wk) Rm 420 | Cornell University  
+Office: [Bradfield Hall](https://goo.gl/maps/Yfk3XHpH1wk) Rm 420 | Cornell University   
 Email: [sam594@cornell.edu](mailto:sam594@cornell.edu) or [shantel.a.martinez@gmail.com](mailto:shantel.a.martinez@gmail.com)   
 Twitter: [s_amealia](https://twitter.com/s_amealia)    
-Google Scholar: [publications](https://scholar.google.com/citations?user=70kEKNsAAAAJ&hl=en&oi=ao)  
+Google Scholar: [publications](https://scholar.google.com/citations?user=70kEKNsAAAAJ&hl=en&oi=ao)   
 LinkedIn: [shantel-a-martinez](https://www.linkedin.com/in/shantel-a-martinez/)    
 Github: [shantel-a-martinez](https://github.com/shantel-martinez?tab=repositories)  
