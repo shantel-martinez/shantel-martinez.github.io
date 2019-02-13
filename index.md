@@ -2,11 +2,16 @@
 
 Wheat Molecular Genetics  
 
-[![FN_talk_slides](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/SMartinez%20FN%20Workshop%2001.30.2019.png?raw=true)](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/SMartinez%20FN%20Workshop%2001.30.2019.pdf)  [![PHS_GWAS](https://www.frontiersin.org/files/Articles/325955/fpls-09-00141-HTML/image_m/fpls-09-00141-g005.jpg)](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141/full)  
+### Research & Resources: 
+**2019 FAlling Number Workshop Slide Deck**
+[![FN_talk_slides](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/SMartinez%20FN%20Workshop%2001.30.2019.png?raw=true)](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/SMartinez%20FN%20Workshop%2001.30.2019.pdf)  
+
+**2018 GWA Study on Preharvest Sprouting and Falling Numbers**
+[![PHS_GWAS](https://www.frontiersin.org/files/Articles/325955/fpls-09-00141-HTML/image_m/fpls-09-00141-g005.jpg)](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141/full)  
 
 ----------
 
-### Recent Post
+### Recent Post:
 [![Twitter](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/RecentTwitterPosts.PNG?raw=true)](https://twitter.com/s_amealia/status/1093861130286571520)  
 
 ---------
