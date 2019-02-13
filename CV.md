@@ -55,15 +55,15 @@ In addition to my work in my academic field, I’ve also developed numerous skil
 ▪ WSU Upward Bound Internship Program Volunteer and Recruiter 2009-2015   
 
 ### Conference Presentations & Workshops   
-▪ 1.	Martinez, S.A., Shorinola, O., Conselman, S.R., Skinner D.Z., See, D., Garland Campbell, K., Uauy, C., and Steber, C.M. (2017). Identification of a Locus Corresponding to the Preharvest Sprouting Tolerance Mutant, ERA8, in Wheat (Triticum aestivum L.). 12th Triennial International Seed Science Society Conference, Sept 14, Monterey, CA. ***Presentation***   
-▪ Martinez, S.A., Beck, S.R., Skinner D.Z., See D., Carter, A.H., Garland-Campbell, K., and Steber, C.M. (2017). Identification of a Locus Corresponding to the Preharvest Sprouting Tolerance Gene ERA8 in Wheat (Triticum aestivum L.). Dryland Field Day Abstracts, Highlights of ***Research Progress***, Jun 15, Lind, WA.  
-▪ Martinez, S.A., Jernigan, K.L., Parveen, R.S., Garland-Campbell, K., and Steber, C.M. (2016). Genome-wide Association Mapping of Preharvest Sprouting in PNW White Winter Wheat. ASA, CSSA, SSSA International Annual Meeting, Phenoix, AZ. ***Presentation***  
-▪ Martinez, S.A., Tuttle, K., Seo, M., Garland-Campbell, K., and Steber, C.M. (2016). Higher Seed Dormancy and ABA Sensitivity Improves Wheat Preharvest Sprouting Tolerance. PAG, Jan 12 San Diego, CA. ***Presentation***  
-▪ Martinez, S.A., Jernigan, K.L., Parveen, R.S., Garland-Campbell, K., and Steber, C.M. (2016). Genome-wide Association Mapping of Preharvest Sprouting in PNW White Winter Wheat. PAG, Jan 11, San Diego, CA. ***Poster***  
-▪ Martinez, S.A., Tuttle, K., Steber, C.M., and Garland-Campbell, K. (2013). Evaluating Seed Dormancy, Hormone Response, and Pre-Harvest Sprouting Tolerance of an ABA Hypersensitive Mutant Zak ERA8. ASA, CSSA, SSSA International Annual Meeting, Tampa, FL. ***Presentation***  
-▪ Martinez, S., Schramm, E.C., Garland-Campbell, K., and Steber, C.M. (2012). Evaluating Seed Dormancy and Pre-Harvest Sprouting Resistance of an ABA Hypersensitive Mutant ZakERA0. WSCS Western Regional Wheat Workers Meeting, Pullman, WA. ***Presentation***
-▪ Genome-Wide Association Mapping Workshop Attendee 2015  
-▪ Software Carpentry Workshop Attendee 2014  
+1. Martinez, S.A., Shorinola, O., Conselman, S.R., Skinner D.Z., See, D., Garland Campbell, K., Uauy, C., and Steber, C.M. (2017). Identification of a Locus Corresponding to the Preharvest Sprouting Tolerance Mutant, ERA8, in Wheat (Triticum aestivum L.). 12th Triennial International Seed Science Society Conference, Sept 14, Monterey, CA. ***Presentation***   
+2. Martinez, S.A., Beck, S.R., Skinner D.Z., See D., Carter, A.H., Garland-Campbell, K., and Steber, C.M. (2017). Identification of a Locus Corresponding to the Preharvest Sprouting Tolerance Gene ERA8 in Wheat (Triticum aestivum L.). Dryland Field Day Abstracts, Highlights of ***Research Progress***, Jun 15, Lind, WA.  
+3. Martinez, S.A., Jernigan, K.L., Parveen, R.S., Garland-Campbell, K., and Steber, C.M. (2016). Genome-wide Association Mapping of Preharvest Sprouting in PNW White Winter Wheat. ASA, CSSA, SSSA International Annual Meeting, Phenoix, AZ. ***Presentation***  
+4. Martinez, S.A., Tuttle, K., Seo, M., Garland-Campbell, K., and Steber, C.M. (2016). Higher Seed Dormancy and ABA Sensitivity Improves Wheat Preharvest Sprouting Tolerance. PAG, Jan 12 San Diego, CA. ***Presentation***  
+5. Martinez, S.A., Jernigan, K.L., Parveen, R.S., Garland-Campbell, K., and Steber, C.M. (2016). Genome-wide Association Mapping of Preharvest Sprouting in PNW White Winter Wheat. PAG, Jan 11, San Diego, CA. ***Poster***  
+6. Martinez, S.A., Tuttle, K., Steber, C.M., and Garland-Campbell, K. (2013). Evaluating Seed Dormancy, Hormone Response, and Pre-Harvest Sprouting Tolerance of an ABA Hypersensitive Mutant Zak ERA8. ASA, CSSA, SSSA International Annual Meeting, Tampa, FL. ***Presentation***  
+7. Martinez, S., Schramm, E.C., Garland-Campbell, K., and Steber, C.M. (2012). Evaluating Seed Dormancy and Pre-Harvest Sprouting Resistance of an ABA Hypersensitive Mutant ZakERA0. WSCS Western Regional Wheat Workers Meeting, Pullman, WA. ***Presentation***
+8. Genome-Wide Association Mapping Workshop Attendee 2015  
+9. Software Carpentry Workshop Attendee 2014  
 
 ### Publications  
 1.	Martinez, S.A., Godoy J., Huang M., Zhang Z., Carter A.H., Garland Campbell, K.A., and Steber, C.M. (2018). Genome-Wide Association Mapping for Tolerance to Preharvest Sprouting and Low Falling Numbers in Wheat. Frontiers in Plant Science. 9, 1-16.  
