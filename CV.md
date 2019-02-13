@@ -49,7 +49,7 @@ In addition to my work in my academic field, I’ve also developed numerous skil
 
 ### Department Services  
 ▪ Corteva Plant Breeding Symposium Committee 2019  
-▪ MPS Annual Recruitment Symposium Presenter 2017 
+▪ MPS Annual Recruitment Symposium Presenter 2017   
 ▪ GPSA Director of Professional Development 2016-2017  
 ▪ GPSA MPS Senator 2015-2016  
 ▪ Molecular Plant Science GSO Vice President 2014-2015  
