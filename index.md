@@ -15,7 +15,7 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 
 ---------
 
-**To find out more about Shantel's work:**<br/>
+### To find out more about Shantel's work:  
 [Research](./research.html)<br/>
 [Mentoring](./mentoring.html)<br/>
 [Media](./media.html)<br/>
