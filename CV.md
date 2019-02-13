@@ -2,7 +2,7 @@ S Martinez CV PDF [Download](./SMartinez_CV_Jan2019.pdf)
 
 ## Postdoctoral Fellow in Plant Breeding and Genetics  
 
-Shantel A. Martinez is currently a USDA-NIFA post-doctorate fellow at Cornell University. She is continuing her research focus of improving wheat preharvest sprouting through genomic selection and QTL mapping. Shantel's career aims are to advance and contribute novel genetic research towards the wheat field of study.    
+Shantel A. Martinez is currently a USDA-NIFA post-doctorate fellow at Cornell University working in the [Sorrells lab](https://plbrgen.cals.cornell.edu/people/mark-sorrells/). She is continuing her research focus of improving wheat preharvest sprouting through genomic selection and QTL mapping. Shantel's career aims are to advance and contribute novel genetic research towards the wheat field of study.    
 
 ### Education 
 Ph.D., 2018: Molecular Plant Science, Washington State University, Pullman WA   
