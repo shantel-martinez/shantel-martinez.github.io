@@ -15,7 +15,7 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 **Recent Post:**  
 [![Twitter](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/RecentTwitterPosts.PNG?raw=true)](https://twitter.com/s_amealia/status/1093861130286571520)  
 
-**Wheat podcast episodes to get lost in:**
+**Wheat podcast episodes to get lost in:**  
 Wheat All About It: Falling Numbers, Rising Optimism [Episode 73](http://wagrains.org/podcast/episode-73-falling-numbers-rising-optimism/)   
 > Crisis hit the PNW in 2016, and thanks to the hard work of the grain commission and many others, we can now devote more money, time and resources to tacking low FNs. Listen to the more policital side of funding that, I as a researcher often forget, is extremely crucial. 
 > Find all of the episodes online or on itunes [here](http://wagrains.org/cast/)  
