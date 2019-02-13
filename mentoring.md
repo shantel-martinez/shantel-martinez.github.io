@@ -22,5 +22,5 @@ Awards: Showcase for Undergraduate Research and Creative Avticities (SURCA) 1st 
 ![]()  
 **Dustan Cwuick**  | Fa 2015 - Sp 2016   
 LSAMP Internship Program, Washington State University, Pullman WA  
-Research: Exploring wheat seed responses to different hormones and incubation temperatures while identifying cultivars susceptible to PHS
+Research: Exploring wheat seed responses to different hormones and incubation temperatures while identifying cultivars susceptible to PHS  
 Awards: SURCA 2nd Place   
