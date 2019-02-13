@@ -3,7 +3,7 @@
 ---------------
 
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/KRoberts.jpg?raw=true)  
-**Katherine Roberts**  | Fa 2015 - Sp 2016   
+**Katherine Roberts**  | Su 2018     
 High School Science Program, Cornell University, Ithaca NY  
 Research: Fine mapping preharvest sprouting tolerant QTL in wheat on chromosome 2B using the spike-wetting test   
 
