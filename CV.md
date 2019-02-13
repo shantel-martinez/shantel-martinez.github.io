@@ -7,21 +7,23 @@
 Shantel A. Martinez is currently a USDA-NIFA post-doctorate fellow at Cornell University. She is continuing her research focus of improving wheat preharvest sprouting through genomic selection and QTL mapping. Shantel's career aims are to advance and contribute novel genetic research towards the wheat field of study.    
 
 ### Education 
-
 Ph.D., 2018: Molecular Plant Science, Washington State University, Pullman WA   
 M.S., 2013: Crop Science, Washington State University, Pullman WA  
 B.S., 2011: Bioengineering, Washington State University, Pullman WA  
 
 ### Research  
-
-*May 2018 - Present*  
-*Cornell University*  
+**Postdoctoral Fellow**   
+*May 2018 - Present* | *Cornell University*  
 Increasing preharvest sprouting tolerance in Northeast wheat through:   
-
 > GWAS of PHS traits  
 > Genomic selection modeling of PHS traits  
 > Endogenous seed hormone profiling  
 > Fine mapping dormancy gene(s) & Confirming candidate dormancy genes  
+
+
+
+
+
 
 ### Awards & Funding 
 ▪ *2018* USDA-AFRI ELI Postdoctoral Grant  
@@ -47,7 +49,7 @@ Increasing preharvest sprouting tolerance in Northeast wheat through:
 In addition to my work in my academic field, I’ve also developed numerous skills within my position as Graduate and Professional Student Association (GPSA) Director of Professional Development. In one year, I’ve implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 GPSA senators, and sat on both the Professional Development Initiative and GPSA executive board. This role outside of the laboratory has provided me with skills such as communication, collaboration, conflict resolution, leadership, professionalism, and organization.  
 
 ### Department Services  
-▪ GPSA Director of Professional Development 2019  
+▪ Corteva Plant Breeding Symposium Committee 2019  
 ▪ GPSA Director of Professional Development 2016-2017  
 ▪ GPSA MPS Senator 2015-2016  
 ▪ Molecular Plant Science GSO Vice President 2014-2015  
