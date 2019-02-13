@@ -4,13 +4,21 @@
 
 ## Public  
 ### Grow NYC   
-Breeders, chefs, and the public came together to network, learn, & taste. Sharing my knowledge/work with the public in one way or another will always be a career priority  
+*Sept 2018*  
+The Variety Showcase in NYC is an interactive mixer designed to build community among plant breeders, seed growers, farmers, chefs, produce buyers, food journalists, consumers and more.  
 >> ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/GrowNYC.jpg?raw=true)  
+
+### Plant Science Day  
+*March 2018*   
+Engaging students in the Eastern WA area of all ages to a free interactive plant science fair with PhD students across many disciplines.  
 
 ## Stakeholders
 ### Field Day 2019
-Updating farmers about wheat preharvest sprouting in front of a barley trial, we do conduct sprout tests on barley too, so it works!  
+Updating farmers about the current research on wheat preharvest sprouting during the Cornell Small Grains Field Day and the Aurora NY Field Day
 >> ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/FieldDay2019.jpg?raw=true)  
+
+### Wheat Academy 2016  
+Farmers and industry employees attend a 2 day workshop with scientists to discuss current topics and issues being addressed by the WSU wheat breeding program.  
 
 ## Industry 
 ### Falling Numbers Workshop 2019   
