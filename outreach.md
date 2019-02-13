@@ -1,6 +1,6 @@
 # Outreach & SciComm
 
-## Communicating Research to the Ones That Matter
+**Communicating Research to the Ones That Matter:**  
 
 ## Public  
 ###Grow NYC   
