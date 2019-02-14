@@ -52,7 +52,7 @@ Studied the characteristics of an ABA hypersensitive mutant, Zak ERA8. Wild-type
 **Future Professors Institute** 2018  
 The focus of the series I attended was: Advancing Diversity in Academia. Skillsets were introduced which include understanding what the search committee is looking for, career plans, researh plans, publication plans, negotiating a contract, and starting up your first lab.            
 **Director of Professional Development** 2016-2017   
-In addition to my work in my academic field, I’ve also developed numerous skills within my position as Graduate and Professional Student Association (GPSA) Director of Professional Development. In one year, I’ve implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 GPSA senators, and sat on both the Professional Development Initiative and GPSA executive board. This role outside of the laboratory has provided me with skills such as communication, collaboration, conflict resolution, leadership, professionalism, and organization.  
+In addition to my work in the academic field, I’ve also developed numerous skills within my position as Graduate and Professional Student Association (GPSA) Director of Professional Development. In one year, I’ve implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 GPSA senators, and sat on both the Professional Development Initiative and GPSA Executive Board. This role outside of the laboratory has provided me with exceptional soft skills such as communication, collaboration, conflict resolution, leadership, professionalism, and organization.  
 
 ### DEPARTMENTAL SERVICES 
 ▪ Corteva Plant Breeding Symposium Committee 2019  
