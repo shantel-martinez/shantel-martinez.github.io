@@ -29,7 +29,7 @@ Identify novel loci contributing to PHS (preharvest sprouting) and drought toler
 *2011 - 2013* | *Washington State University* | Dr. Camille M. Steber and Dr. Arron H. Carter Labs  
 Studied the characteristics of an ABA hypersensitive mutant, Zak ERA8. Wild-type and mutant endogenous hormone levels within the seed were compared as well as the germination response in the presence and absence of exogenously applied hormones ABA and GA. Segregation analysis, preharvest sprouting trials, agronomic and end-use quality traits were also compared between wild type and mutant. Skills in statistical analysis using SAS, comprehensive R use, and field experiments were also obtained.   
 
-### Awards & Funding 
+### AWARDS & FUNDING 
 ▪ NIFA-AFRI Education and Literacy Initiative Grant 2018-2020   
 ▪ International Seed Science Society Conference Travel Grant 2017   
 ▪ Research Assistantship - AFRI-NIFA Plant Breeding Grant 2016-2017  
@@ -41,20 +41,20 @@ Studied the characteristics of an ABA hypersensitive mutant, Zak ERA8. Wild-type
 ▪ ASPB Plant Biology Travel Grant 2014  
 ▪ Distinguished Research Assistantship for Diverse Scholars 2013-2014  
 
-### Teaching   
+### TEACHING  
 **Effective Teaching Strategies**, CIRTL Massive Open Online Courses. *Student*. Advanced Learning Through Evidence-Bases STEM Teaching. (Currently Enrolled)  
 **CAHNRS Internship Program**, Washington State University, Pullman WA. *Mentor*. Fine mapping a locus corresponding to the Enhanced Response to Abscisic acid, ERA8, gene of wheat (Triticum aestivum L.). SURCA 1st Place. Samantha Beck (Su 2016- Sp 2017)  
 **LSAMP Internship Program**, Washington State University, Pullman WA. LSAMP *Mentor*. Exploring wheat seed responses to different hormones and incubation temperatures while identifying cultivars susceptible to PHS. SURCA 2nd Place. Dustin Cwuick (Fa 2015 - Sp 2016)  
 **Plant Breeding (CropS 445)**, Washington State University, Pullman WA. *Teaching assistant*. Course Purpose: Understand the genetic principles underlying plant breeding and gain an introduction to the principles and practices of plant breeding. (Sp 2015)  
 **Graduate Teaching Workshop**, Washington State University, Pullman WA. *Attendee*. Session titles “Leadership in Science Instruction” and “Teaching Large Classes: Challenges and Tips”. (Sp 2014)  
 
-### Professional Development
+### PROFESSIONAL DEVELOPMENT
 **Future Professors Institute** 2018  
 The focus of the series I attended was: Advancing Diversity in Academia. Skillsets were introduced which include understanding what the search committee is looking for, career plans, researh plans, publication plans, negotiating a contract, and starting up your first lab.            
 **Director of Professional Development** 2016-2017   
 In addition to my work in my academic field, I’ve also developed numerous skills within my position as Graduate and Professional Student Association (GPSA) Director of Professional Development. In one year, I’ve implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 GPSA senators, and sat on both the Professional Development Initiative and GPSA executive board. This role outside of the laboratory has provided me with skills such as communication, collaboration, conflict resolution, leadership, professionalism, and organization.  
 
-### Departmental Services  
+### DEPARTMENTAL SERVICES 
 ▪ Corteva Plant Breeding Symposium Committee 2019  
 ▪ Molecular Plant Sciences (MPS) Annual Recruitment Symposium Presenter 2017   
 ▪ GPSA Director of Professional Development 2016-2017  
@@ -63,7 +63,7 @@ In addition to my work in my academic field, I’ve also developed numerous skil
 ▪ Molecular Plant Science Student Seminar Coordinating Committee 2013-2014, 2015-2016  
 ▪ WSU Upward Bound Internship Program Volunteer and Recruiter 2009-2015   
 
-### Conference Presentations & Workshops   
+### CONFERENCE PRESENTATIONS & WORKSHOPS
 1. Martinez, S.A., Godoy J., Huang M., Zhang Z., Carter A.H., Garland Campbell, K.A., and Steber, C.M. (2019). The First Step to Tacklilng the FN Problem: Identifying Tolerant Genes/QTL in PNW Germplasm. Western Quality Meeting: Falling Numbers Workshop, Jan 30, Portland, OR. ***Presentation***   
 2. Martinez, S.A., Shorinola, O., Conselman, S.R., Skinner D.Z., See, D., Garland Campbell, K., Uauy, C., and Steber, C.M. (2017). Identification of a Locus Corresponding to the Preharvest Sprouting Tolerance Mutant, ERA8, in Wheat (Triticum aestivum L.). 12th Triennial International Seed Science Society Conference, Sept 14, Monterey, CA. ***Presentation***   
 3. Martinez, S.A., Beck, S.R., Skinner D.Z., See D., Carter, A.H., Garland-Campbell, K., and Steber, C.M. (2017). Identification of a Locus Corresponding to the Preharvest Sprouting Tolerance Gene ERA8 in Wheat (Triticum aestivum L.). Dryland Field Day Abstracts, Highlights of ***Research Progress***, Jun 15, Lind, WA.  
@@ -74,7 +74,7 @@ In addition to my work in my academic field, I’ve also developed numerous skil
 8. Genome-Wide Association Mapping Workshop Attendee 2015  
 9. Software Carpentry Workshop Attendee 2014  
 
-### Publications  
+### PUBLICATIONS  
 1.	Martinez, S.A., Godoy J., Huang M., Zhang Z., Carter A.H., Garland Campbell, K.A., and Steber, C.M. (2018). Genome-Wide Association Mapping for Tolerance to Preharvest Sprouting and Low Falling Numbers in Wheat. Frontiers in Plant Science. 9, 1-16.  
 2.	Martinez, S.A., Thompson A.L., Wen N., Murphy L., Sanquinet K.A., M., Steber, C.M., and Garland Campbell, K. (2018). Registration of the Louise/Alpowa Wheat Recombinant Inbred Line Mapping Population. Journal of Plant Registrations.   
 3.	Martinez, S.A., Tuttle, K., Takebayashi, Y., Seo, M., Garland Campbell, K., and Steber, C.M. (2016). The Wheat ABA Hypersensitive ERA8 Mutant is Associated with Increased Preharvest Sprouting Tolerance and Altered Hormone Accumulation. Euphytica. 212, 229-245.  
