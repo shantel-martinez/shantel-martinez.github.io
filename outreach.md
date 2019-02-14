@@ -14,7 +14,7 @@ Engaging students in the Eastern WA area of all ages to a free interactive plant
 
 ## Stakeholders
 ### Field Day 2019
-Updating farmers about the current research on wheat preharvest sprouting during the Cornell Small Grains Field Day and the Aurora NY Field Day
+Updating farmers about the current research on wheat (and barley) preharvest sprouting during the Cornell Small Grains Field Day and the Aurora NY Field Day
 >> ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/FieldDay2019.jpg?raw=true)  
 
 ### Wheat Academy 2016  
