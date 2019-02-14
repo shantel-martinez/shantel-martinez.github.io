@@ -26,7 +26,7 @@ The Falling Numbers (FN) test was created in 1964 by Hagberg and Perten with a p
 
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/ScreenPHS.jpg?raw=true)  
 
-The Spike Wetting test has a primary goal of seeing if the intact wheat spike has the ability to germinate or not when you introduce simulated rain. 
+The Spike Wetting test has a primary goal of seeing if the intact wheat spike has the ability to germinate or not when you introduce simulated rain.  
 
 
 
@@ -34,6 +34,12 @@ The Spike Wetting test has a primary goal of seeing if the intact wheat spike ha
 >> A great resource to view real PNW wheat Falling Numbers data can be found on Dr. Camille Steber's [website](http://steberlab.org/project7599data.php), a project proudly funded by the WA Grain Commission.  
 
 #### BREEDING <a id="breeding"></a>  
+
+Okay, now lets get to the nitty gritty.  
+
+
+
+#### GOALS  
 
 
 
