@@ -33,13 +33,6 @@ The Spike Wetting test has a primary goal of seeing if the intact wheat spike ha
 
 >> A great resource to view real PNW wheat Falling Numbers data can be found on Dr. Camille Steber's [website](http://steberlab.org/project7599data.php), a project proudly funded by the WA Grain Commission.  
 
-#### BREEDING <a id="breeding"></a>  
-
-Okay, now lets get to the nitty gritty.  
-
-
-
-#### GOALS  
 
 
 
