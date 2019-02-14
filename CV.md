@@ -10,24 +10,20 @@ M.S., 2013: Crop Science, Washington State University, Pullman WA
 B.S., 2011: Bioengineering, Washington State University, Pullman WA  
 
 ### RESEARCH EXPERIENCE 
-<span style="color:#4F94CD">**Wheat Molecular Genetics in Preharvest Sprouting**</span>   
-*May 2018 - Present* | *Cornell University* | Dr. Mark E. Sorrells Lab   
-Increasing preharvest sprouting tolerance in Northeast wheat through:   
-> GWAS of PHS traits  
-> Genomic selection modeling of PHS traits  
-> Endogenous seed hormone profiling  
-> Fine mapping dormancy gene(s) & Confirming candidate dormancy genes  
+**Wheat Molecular Genetics in Preharvest Sprouting**    
+Dr. Mark E. Sorrells Lab  
+*May 2018 - Present* | *Cornell University*    
+Increasing preharvest sprouting (PHS) tolerance through genome-wide association study of PHS traits followed by producing genomic selection models for Northeast wheat germplasm. In tandem, characterization of a dormant QTL will be done through endogenous seed hormone profiling. The end goal is to fine map the dormant QTL and confirm a candidate dormancy gene(s). Skills in computational genetics, comprehensive markdown and git use, tissue regeneration, and LCMS biochemistry are being obtained.   
 
-**Improving Germplasm Resources for the PNW**   
-*2013 - 2018* | *Washington State University* | Dr. Camille M. Steber  and Dr. Kimberly Garland Campbell Labs  
-Identify novel loci contributing to PHS (preharvest sprouting) and drought tolerance in wheat (Triticum aestivum L.) with an emphasis on the role of the plant hormone ABA (abscisic acid) in controlling these processes. Conducting linkage analysis to map the Zak ERA8 mutation in a RIL population along with bulk segregation analysis to fine map ERA8 in a backcross population with wild-type Zak. Examining loci contributing to preharvest sprouting and Falling Numbers through association mapping. The goal of this research is to improve PHS and drought tolerance in Washington wheat using both ABA mutants and the existing variation for these traits through three different approaches:   
-> Identify loci providing PHS tolerance in northwest germplasm by association mapping  
-> Map the ERA8 locus that causes the ABA hypersensitive seed germination and PHS tolerance phenotypes of soft white spring Zak ERA8 wheat  
-> Produce a drought tolerant mapping population between two PNW soft white spring wheat cultivars  
+**Improving Germplasm Resources for the PNW**  
+Dr. Camille M. Steber  and Dr. Kimberly Garland Campbell Labs  
+*2013 - 2018* | *Washington State University*   
+Identify novel loci contributing to PHS and drought tolerance in wheat (*Triticum aestivum* L.) with an emphasis on the role of the plant hormone ABA (abscisic acid) in controlling these processes. This was done by identify loci providing PHS tolerance in northwest germplasm through association mapping of spike-wetting tests and falling number traits (Martinez et al., 2018a). I also mapped an ABA hypersensitive mutant, *ERA8*, locus that also causes a PHS tolerance phenotype through conducting linkage analysis in a RIL population along with bulk segregation analysis to fine map ERA8 in a backcross population with wild-type (*manuscript in preparation*). And finally, I produced a drought tolerant mapping population between two PNW soft white spring wheat cultivars (Martinez et al., 2018b). Skills in comprehensive R use, large-scale field experiment coordination, manuscript preparation, and mutation genetics were also aquired.    
 
-**Investigating an ABA Hypersensitive Mutant**   
-*2011 - 2013* | *Washington State University* | Dr. Camille M. Steber and Dr. Arron H. Carter Labs  
-Studied the characteristics of an ABA hypersensitive mutant, Zak ERA8. Wild-type and mutant endogenous hormone levels within the seed were compared as well as the germination response in the presence and absence of exogenously applied hormones ABA and GA. Segregation analysis, preharvest sprouting trials, agronomic and end-use quality traits were also compared between wild type and mutant. Skills in statistical analysis using SAS, comprehensive R use, and field experiments were also obtained.   
+**Investigating an ABA Hypersensitive Mutant**  
+ Dr. Camille M. Steber and Dr. Arron H. Carter Labs   
+*2011 - 2013* | *Washington State University*   
+During this project I studied the characteristics of an ABA hypersensitive mutant, *Zak ERA8*. Wild-type and mutant endogenous hormone levels within the seed were compared as well as the germination response in the presence and absence of exogenously applied hormones ABA and GA (Martinez et al., 2016). Segregation analysis, preharvest sprouting trials, agronomic and end-use quality traits were also compared between wild type and mutant (Martinez et al., 2014). Skills were refined in SAS and hormone seed biology.   
 
 ### AWARDS & FUNDING 
 ▪ NIFA-AFRI Education and Literacy Initiative Grant 2018-2020   
