@@ -6,15 +6,22 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 **2019 Falling Number Workshop [Resources](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/README.md) and Slide Deck:**
 [![FN_talk_slides](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/SMartinez%20FN%20Workshop%2001.30.2019.png?raw=true)](https://github.com/shantel-martinez/FNWorkshop2019/raw/master/SMartinez%20FN%20Workshop%2001.30.2019.pdf)   
 
+{::options parse_block_html="false" /}
 
+<div class="center">
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Beautiful how-to&#39;s in <a href="https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw">@hadleywickham</a> slide deck. I love my <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> graphics, and yet I&#39;m still learning new tricks to this day. P.S. data management via code is everything! <a href="https://t.co/KUl55giS05">https://t.co/KUl55giS05</a></p>&mdash; Shantel A. Martinez (@s_amealia) <a href="https://twitter.com/s_amealia/status/1096768116800000000?ref_src=twsrc%5Etfw">February 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
 ---------
 
 ### To find out more about Shantel's work:  
 [Research](./research.html)<br/>
 [Mentoring](./mentoring.html)<br/>
 [Outreach](./outreach.html)<br/>
-[Media](./media.html)<br/>
+
+---------
 
 [Lab Protocols](https://nbviewer.jupyter.org/github/shantel-martinez/Lab_Resources/blob/master/Lab%20Protocols.ipynb)   
 [CV](./CV.html) *Updated Jan 2019*   
