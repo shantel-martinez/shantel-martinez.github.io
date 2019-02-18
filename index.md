@@ -20,7 +20,6 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 [Research](./research.html)<br/>
 [Mentoring](./mentoring.html)<br/>
 [Outreach](./outreach.html)<br/>
-[Collaboration](./collaborators.html)<br/>
 
 ---------
 
