@@ -1,0 +1,158 @@
+---
+title: "Genomic Prediction Models"
+output: html_notebook
+---
+
+**Author:** Shantel A. Martinez  
+**Purpose:** Analyze the PHS data under mutliple GS models and determine which model bests fits out data.   
+**Last updated:** 2019.02.19  
+
+The majority of the tutorials I learned basics of genomic selection came from the wheat [cimmyt tutorial](http://bglr.r-forge.r-project.org/BGLR-tutorial.pdf) and [validation examples](https://github.com/gdlc/BGLR-R/blob/master/inst/md/Validation.md) and for rrBLUP I started with this [tutorial](http://pbgworks.org/sites/pbgworks.org/files/Introduction%20to%20Genomic%20Selection%20in%20R.pdf) and the [rrBLUP CRAN page](https://cran.r-project.org/web/packages/rrBLUP/rrBLUP.pdf).   
+
+#### Input dataset:
+For example purposes, we will use the example dataset using Campos et al., 2010 rather than my project dataset.   
+```{r}
+# install.packages("BGLR") #Install package if not already installed
+library(BGLR)
+data(wheat)
+y <- wheat.Y #Phenotypic data
+X <- wheat.X #Genotypic data
+y[1:4,] #Each column is a different phenotype; lines/varieties (rows)
+X[1:5,1:5] #lines/varieties(rows) and markers (col)
+```
+
+Load all packages for the entire script and set the working directory   
+*Remember to install all packages once before loading them below*  
+```{r}
+library(BGLR)
+library(rrBLUP)
+# library(doMC)  # Used for running the loops on multiple cores (example here, 5 cores)
+# registerDoMC(cores=5) 
+
+library(ggplot2)
+font<-element_text(face = "bold",  size = 16)  #ggplot graphical preferences
+font2<-element_text(size = 16)
+
+setwd("D:/PHS Genomic Selection Project/Data Analysis/GS/20190219")
+
+```
+
+-------------
+
+#### Running rrBLUP  
+
+
+```{r}
+#Parameters defined  
+folds=5              
+run=5
+
+#Analysis
+test_CV_parallel<-function(x,folds){   
+  set.seed(x)
+  results=c()
+  K=A.mat(X) 
+  for(i in 1:folds){   
+    tst <-  sample(rep(1:folds,length.out=n))
+    yNA<-y
+    yNA[which(i==tst)]<-NA 
+    ans <- mixed.solve(yNA,K=K)
+    yHat_1=ans$u[-tst]
+    results <- append(results,cor(yHat_1,y[-tst]))
+  }
+  return(results)
+}
+phs_cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)
+
+#Data Organization
+accuracy80 = as.data.frame(matrix(phs_cv_results6)) 
+accuracy80$model<-"rrBLUP"
+names(accuracy80) <- c("PA",  "model")      
+accuracyrr<-accuracy80
+
+
+
+```
+
+**To break this chunk of code down, lets go over it step by step:**  
+
+
+
+
+
+yNA[tst] is the training dataset while yNA[-tst] is the testing dataset  
+
+
+
+
+
+----------
+#### Running RKHS  
+
+
+```{r}
+#Parameters defined
+nIter = 12000
+
+#Analysis
+test_CV_parallel<-function(x,folds){   
+  set.seed(x)
+  results=c()
+  D<-(as.matrix(dist(X,method='euclidean'))^2)/p
+  U<-exp(-h*D) 
+  for(i in 1:folds){                           #Train  = 4/5 population; 80% of the lines
+    tst <-  sample(rep(1:folds,length.out=n))
+    yNA<-y
+    yNA[which(i==tst)]<-NA 
+    ETA<-list(list(K=U,model='RKHS'))
+    fm<-BGLR(y=yNA,ETA=ETA,nIter=nIter, burnIn=2000)
+    yHat_1=fm$yHat[-tst]
+    results <- append(results,cor(yHat_1,y[-tst]))
+  }
+  return(results)
+}
+phs_cv_results5=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)
+
+#Data Organization
+accuracy80 = as.data.frame(matrix(phs_cv_results5)) 
+accuracy80$model<-"RKHS"
+names(accuracy80) <- c("PA", "model")        
+accuracyrk<-accuracy80
+
+```
+
+----------
+#### Running LASSO  
+
+
+
+```{r}
+#Parameters defined
+nIter = 12000
+
+
+#Analysis
+test_CV_parallel<-function(x,folds){   
+  set.seed(x)
+  results=c()
+  for(i in 1:folds){   
+    tst <-  sample(rep(1:folds,length.out=n))
+    yNA<-y
+    yNA[which(i==tst)]<-NA 
+    ETA<-list(list(X=X,model='BL'))
+    fm<-BGLR(y=yNA, response_type = "gaussian", ETA = ETA, nIter=nIter, burnIn=2000) 
+    yHat_1=fm$yHat[-tst]
+    results <- append(results,cor(yHat_1,y[-tst]))
+  }
+  return(results)
+}
+phs_cv_results7=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)
+
+#Data Organization
+accuracy80 = as.data.frame(matrix(phs_cv_results7)) 
+accuracy80$model<-"LASSO"
+names(accuracy80) <- c("PA", "model")      
+accuracyBL<-accuracy80
+
+
+
