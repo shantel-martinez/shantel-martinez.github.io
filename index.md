@@ -22,7 +22,7 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 [Outreach](./outreach.html)<br/>
 
 ---------
-[R Protocols](https://nbviewer.jupyter.org/github/shantel-martinez/Lab_Resources/blob/master/R%20Protocols.ipynb)  
+[R Protocols](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/R%20Protocols.ipynb)  
 [Lab Protocols](https://nbviewer.jupyter.org/github/shantel-martinez/Lab_Resources/blob/master/Lab%20Protocols.ipynb)   
 [CV](./CV.html) *Updated Jan 2019*   
 
