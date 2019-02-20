@@ -17,8 +17,10 @@ library(BGLR)
 data(wheat)
 y <- wheat.Y #Phenotypic data
 X <- wheat.X #Genotypic data
+n<-nrow(X); p<-ncol(X) #defining n as the row number of matrix `X` and p as the col number of matrix `X`
 y[1:4,] #Each column is a different phenotype; lines/varieties (rows)
 X[1:5,1:5] #lines/varieties(rows) and markers (col)
+
 ```
 
 Load all packages for the entire script and set the working directory   
@@ -42,14 +44,12 @@ font2<-element_text(size = 16)
 
 #### Running rrBLUP  
 
-
 ```{r}
 #Parameters defined  
 folds=5              
 run=5
-n<-nrow(X); p<-ncol(X)
 
-#Analysis
+#Function
 test_CV_parallel<-function(x,folds){   
   set.seed(x)
   results=c()
@@ -64,20 +64,21 @@ test_CV_parallel<-function(x,folds){
   }
   return(results)
 }
+
+#Analysis
 # cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5) #5 (multi) core computer; dopar will do the command in parallel
 cv_results6=foreach(cores=1:5, .combine='c') %do% test_CV_parallel(x=cores, folds=5) #one core computer
 
 #Data Organization
-accuracy80 = as.data.frame(matrix(cv_results6)) 
-accuracy80$model<-"rrBLUP"
-names(accuracy80) <- c("PA",  "model")      
-accuracyrr<-accuracy80
+accuracy5 = as.data.frame(matrix(cv_results6)) 
+accuracy5$model<-"rrBLUP"
+names(accuracy5) <- c("PA",  "model")      
+accuracyrr<-accuracy5
 ``` 
 
 ** Lets go over the script step by step**:  
 `folds=5` define the number of folds you want to do  
 `run=5` define the number of times you want to run the CV  
-`n<-nrow(X); p<-ncol(X)` defining n as the row number of matrix `X` and p as the col number of matrix `X`    
 
 **Lets start from the basics within all the loops and work outwards.**  
 Running genomic prediction for a phenotype `y` while using a kinship matrix `K` consists of the following commands:  
@@ -119,22 +120,28 @@ Now, `yNA[tst]` is a vector of the training dataset while `yNA[-tst]` is a vecto
 ```
 
 **Replicate CV and Randomization**  
-`test_CV_parallel<-function(x,folds){`   
-`}`
+Creating a function for the rrBLUP analysis helps with replication, but also keeps your code more simple downstream. Also,  I use the `%dopar%` command to distribute the computation over 5 cores at a time.   
 
-`  set.seed(x)`
-`  results=c()`
-`  K=A.mat(X)` 
+Define a function called `test_CV_parallel` with variable `x` and `folds` that need to be defined.  
+```{r}
+test_CV_parallel<-function(x,folds){    
+}  
+```
 
-`  return(results)`
 
-`cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)` 5 (multi) core computer; dopar will do the command in parallel whereas %do% can be used for a one core computer
+`set.seed(x)` setting the randomization based on `x` which will change through the function. As shown below, x is based on the number of cores used to run the function `x=cores` and we will define `cores=1:5`. So as the function is using 1, 2, 3, 4, 5 cores, the random seed will change to `seed(1)` ... `seed(5)`. This is very useful when you have a heavy computational load.  
+`results=c()`  
+`K=A.mat(X)`   
 
+`return(results)`  
+
+**foreach command**  
+`cv_results6 = foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)` 5 (multi) core computer; dopar will do the command in parallel whereas %do% can be used for a one core computer
 
 
 And this completes the whole **Genomic Prediction Analysis**:  
 ```{r}
-#Analysis
+#Function
 test_CV_parallel<-function(x,folds){   
   set.seed(x)
   results=c()
@@ -149,6 +156,7 @@ test_CV_parallel<-function(x,folds){
   }
   return(results)
 }
+#Analysis
 cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5) #5 (multi) core computer; dopar will do the command in parallel
 # cv_results6=foreach(cores=1:5, .combine='c') %do% test_CV_parallel(x=cores, folds=5) #one core computer
 ```
@@ -156,11 +164,26 @@ cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, f
 **Data Organization**  
 The last portion is organizing the output into a workable dataframe the I can use to plot of combined with other results downstream.  
 
-`accuracy80 = as.data.frame(matrix(cv_results6))` the matrix `cv_results6` is made into a dataframe called `aaccuracy80`    
-`accuracy80$model<-"rrBLUP"` add in a new column `model` into the df and fill the column with the characters `rrBLUP`  
-`names(accuracy80) <- c("PA",  "model")` rename the column names to `PA` and `model`         
-`accuracyrr<-accuracy80` rename the df to `accuracyrr`    
+`accuracy5 = as.data.frame(matrix(cv_results6))` the matrix `cv_results6` is made into a dataframe called `aaccuracy5`    
+`accuracy5$model<-"rrBLUP"` add in a new column `model` into the df and fill the column with the characters `rrBLUP`  
+`names(accuracy5) <- c("PA",  "model")` rename the column names to `PA` and `model`         
+`accuracyrr<-accuracy5` rename the df to `accuracyrr`    
 
+
+Now if you've already defined your function upstream, all you need to write for each run is:  
+
+```{r}
+#Analysis
+cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5) #5 (multi) core computer; dopar will do the command in parallel
+
+#Data Organization
+accuracy5 = as.data.frame(matrix(cv_results6)) 
+accuracy5$model<-"rrBLUP"; names(accuracy5) <- c("PA",  "model")      
+accuracyrr<-accuracy5
+
+```
+
+Note: `folds=5; run=5` does not need to be defined anymore, since it is integrated into the function as `x` and `folds`. 
 
 ----------
 
@@ -171,8 +194,9 @@ The 5-fold cross validation subsetting and data organization is all the same as 
 ```{r} 
 #Parameters defined
 nIter = 12000
+burnIn=2000
 
-#Analysis
+#Function
 test_CV_parallel<-function(x,folds){   
   set.seed(x)
   results=c()
@@ -183,19 +207,21 @@ test_CV_parallel<-function(x,folds){
     yNA<-y
     yNA[which(i==tst)]<-NA 
     ETA<-list(list(K=U,model='RKHS'))
-    fm<-BGLR(y=yNA,ETA=ETA,nIter=nIter, burnIn=2000)
+    fm<-BGLR(y=yNA,ETA=ETA,nIter=nIter, burnIn=burnIn)
     yHat_1=fm$yHat[-tst]
     results <- append(results,cor(yHat_1,y[-tst]))
   }
   return(results)
 }
+
+#Analysis
 cv_results5=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)
 
 #Data Organization
-accuracy80 = as.data.frame(matrix(cv_results5)) 
-accuracy80$model<-"RKHS"
-names(accuracy80) <- c("PA", "model")        
-accuracyrk<-accuracy80 
+accuracy5 = as.data.frame(matrix(cv_results5)) 
+accuracy5$model<-"RKHS"
+names(accuracy5) <- c("PA", "model")        
+accuracyrk<-accuracy5 
 
 ```
 
@@ -203,7 +229,7 @@ accuracyrk<-accuracy80
 `U<-exp(-h*D)`   
 
 `ETA<-list(list(K=U,model='RKHS'))`  
-`fm<-BGLR(y=yNA,ETA=ETA,nIter=nIter, burnIn=2000)`  
+`fm<-BGLR(y=yNA,ETA=ETA,nIter=nIter, burnIn=burnIn)`  
 `fm$yHat[-tst]`  
  
 ----------
@@ -215,9 +241,9 @@ The 5-fold cross validation subsetting and data organization is all the same as 
 ```{r}
 #Parameters defined
 nIter = 12000
+burnIn=2000
 
-
-#Analysis
+#Function
 test_CV_parallel<-function(x,folds){   
   set.seed(x)
   results=c()
@@ -226,25 +252,27 @@ test_CV_parallel<-function(x,folds){
     yNA<-y
     yNA[which(i==tst)]<-NA 
     ETA<-list(list(X=X,model='BL'))
-    fm<-BGLR(y=yNA, response_type = "gaussian", ETA = ETA, nIter=nIter, burnIn=2000) 
+    fm<-BGLR(y=yNA, response_type = "gaussian", ETA = ETA, nIter=nIter, burnIn=burnIn) 
     yHat_1=fm$yHat[-tst]
     results <- append(results,cor(yHat_1,y[-tst]))
   }
   return(results)
 }
+
+#Analysis
 cv_results7=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)
 
 #Data Organization
-accuracy80 = as.data.frame(matrix(cv_results7)) 
-accuracy80$model<-"LASSO"
-names(accuracy80) <- c("PA", "model")      
-accuracyBL<-accuracy80
+accuracy5 = as.data.frame(matrix(cv_results7)) 
+accuracy5$model<-"LASSO"
+names(accuracy5) <- c("PA", "model")      
+accuracyBL<-accuracy5
 
 ``` 
 
 
 `    ETA<-list(list(X=X,model='BL'))`  
-`    fm<-BGLR(y=yNA, response_type = "gaussian", ETA = ETA, nIter=nIter, burnIn=2000) `  
+`    fm<-BGLR(y=yNA, response_type = "gaussian", ETA = ETA, nIter=nIter, burnIn=burnIn) `  
 
 ----------
 #### Plots  
