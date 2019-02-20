@@ -42,18 +42,18 @@ font2<-element_text(size = 16)
 
 -------------
 
-#### Running rrBLUP  
+#### rrBLUP  
 
 ```{r}
 #Parameters defined  
 folds=5              
-run=5
+K=A.mat(X)
+y = y[,2]
 
 #Function
 test_CV_parallel<-function(x,folds){   
   set.seed(x)
   results=c()
-  K=A.mat(X) 
   for(i in 1:folds){   
     tst <-  sample(rep(1:folds,length.out=n))
     yNA<-y
@@ -76,9 +76,7 @@ names(accuracy5) <- c("PA",  "model")
 accuracyrr<-accuracy5
 ``` 
 
-** Lets go over the script step by step**:  
-`folds=5` define the number of folds you want to do  
-`run=5` define the number of times you want to run the CV  
+**The script step by step:**    
 
 **Lets start from the basics within all the loops and work outwards.**  
 Running genomic prediction for a phenotype `y` while using a kinship matrix `K` consists of the following commands:  
@@ -93,20 +91,22 @@ However, this is using all 100% of your data, to calculate the GEBVs, so since y
 To cross validate, you can divide you dataset into 5 subset, train your model on 4/5 of the subsets, and test for accuracy on the remaining 1/5 of the subset.   
 **NOTE**: There are many ways to subset your data, depending on the question you are asking for your project and also depending on how you wish to write your script. Below is how I initially learned to subset for 5-folds based on the CIMMYT tutorials, but it is not the only way. 
 
-Lets start with a for loop, for `i` from 1 to folds (and we already defined `folds=5`:  
+Lets start with a for loop, for `i` from 1 to folds (and we can define as `folds=5` for tutorial purposes):  
 `  for(i in 1:folds){`     
 `  }`   
   
 Within that loop, we want to subset the dataset:  
 `tst <-  sample(rep(1:folds,length.out=n))` create a vector `tst` that has the values `1:folds` (in our case 1:5) and a `length` of `n` which is the number of lines in `X` which should be the same number of lines in `y`     
+
 `yNA<-y` define a new vector `yNA` with the same values as `y`    
 `yNA[which(i==tst)]<-NA` make 1/5 of the pheno data NA, or omitted, so that later on when we calculate the mixed.solve model, we are only using 4/5 of the dataset. More specifically, this command    
 
-Now, `yNA[tst]` is a vector of the training dataset while `yNA[-tst]` is a vector of the testing dataset   
+**Now, `yNA[tst]` is a vector of the training dataset while `yNA[-tst]` is a vector of the testing dataset**   
+which means you can specifically pull out the GEBVs `u` from the test set `-tsts` to use in your prediction accuracy (PA) calculation. Here `yHat_1=ans$u[-tst]` we call the test sets GEBVs `yHat_1`   
 
-
-`    yHat_1=ans$u[-tst]`
-`    results <- append(results,cor(yHat_1,y[-tst]))`
+**Predicion Accuracy**  
+The PA of the observed variable `y` to the predicted variable `u`. However, since we are doing CV, we want the observed values of the test group `y[-tst]` to the predicted values/GEBVs, which we just defined above as `yHat_1`.    
+`results <- append(results,cor(yHat_1,y[-tst]))` Add/append this new PA calculated to the results vector 
 
 ```{r}
   for(i in 1:folds){   
@@ -130,8 +130,7 @@ test_CV_parallel<-function(x,folds){
 
 
 `set.seed(x)` setting the randomization based on `x` which will change through the function. As shown below, x is based on the number of cores used to run the function `x=cores` and we will define `cores=1:5`. So as the function is using 1, 2, 3, 4, 5 cores, the random seed will change to `seed(1)` ... `seed(5)`. This is very useful when you have a heavy computational load.  
-`results=c()`  
-`K=A.mat(X)`   
+`results=c()`  create an empty vector called `results`
 
 `return(results)`  
 
@@ -145,7 +144,6 @@ And this completes the whole **Genomic Prediction Analysis**:
 test_CV_parallel<-function(x,folds){   
   set.seed(x)
   results=c()
-  K=A.mat(X) 
   for(i in 1:folds){   
     tst <-  sample(rep(1:folds,length.out=n))
     yNA<-y
@@ -183,11 +181,11 @@ accuracyrr<-accuracy5
 
 ```
 
-Note: `folds=5; run=5` does not need to be defined anymore, since it is integrated into the function as `x` and `folds`. 
+Note: `folds=5` does not need to be defined anymore, since it is integrated into the function as `x` and `folds`. 
 
 ----------
 
-#### Running RKHS  
+#### RKHS  
 
 The 5-fold cross validation subsetting and data organization is all the same as explained in the rrBLUP section, however the model within the CV is now changed. An explanation of the RKHS model is below. 
 
@@ -195,13 +193,15 @@ The 5-fold cross validation subsetting and data organization is all the same as 
 #Parameters defined
 nIter = 12000
 burnIn=2000
+h <- 0.5
+D<-(as.matrix(dist(X,method='euclidean'))^2)/p
+U<-exp(-h*D) 
+# y = y[,2]
 
 #Function
 test_CV_parallel<-function(x,folds){   
   set.seed(x)
   results=c()
-  D<-(as.matrix(dist(X,method='euclidean'))^2)/p
-  U<-exp(-h*D) 
   for(i in 1:folds){    
     tst <-  sample(rep(1:folds,length.out=n))
     yNA<-y
@@ -225,9 +225,20 @@ accuracyrk<-accuracy5
 
 ```
 
+
+As stated in the [Campos Lab document](https://jvanderw.une.edu.au/GdlCHandouts.pdf): 
+
+> h is a bandwidth parameter controlling how fast the kernel decay as the two points, (xi , xi' ), get further apart
+
+I have attempted to determine `h` with my dataset founf in this [R Notebook](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/BandwidthParameter_RKHS.nb.html?flush_cache=true)  
+
+`h <- 0.5` just for tutorial purposes, we will set h to 0.5. However I suggest reading the [Campos Lab document](https://jvanderw.une.edu.au/GdlCHandouts.pdf) section 4 and [Campos et al., 2010](https://www.cambridge.org/core/journals/genetics-research/article/semiparametric-genomicenabled-prediction-of-genetic-values-using-reproducing-kernel-hilbert-spaces-methods/2B823916CF4D76FAE6BC81455FD73ABB/core-reader) to better understand `h`   
+
+**Distance function and reproducing kernel**  
 `D<-(as.matrix(dist(X,method='euclidean'))^2)/p`  
 `U<-exp(-h*D)`   
 
+**Fitting the RKHS Model**  
 `ETA<-list(list(K=U,model='RKHS'))`  
 `fm<-BGLR(y=yNA,ETA=ETA,nIter=nIter, burnIn=burnIn)`  
 `fm$yHat[-tst]`  
@@ -242,6 +253,7 @@ The 5-fold cross validation subsetting and data organization is all the same as 
 #Parameters defined
 nIter = 12000
 burnIn=2000
+y = y[,2]
 
 #Function
 test_CV_parallel<-function(x,folds){   
@@ -270,13 +282,13 @@ accuracyBL<-accuracy5
 
 ``` 
 
-
-`    ETA<-list(list(X=X,model='BL'))`  
-`    fm<-BGLR(y=yNA, response_type = "gaussian", ETA = ETA, nIter=nIter, burnIn=burnIn) `  
+**Fitting the RKHS Model**  
+`ETA<-list(list(X=X,model='BL'))`    
+`fm<-BGLR(y=yNA, response_type = "gaussian", ETA = ETA, nIter=nIter, burnIn=burnIn) `    
 
 ----------
 #### Plots  
-A simple ggplot boxplot  of Prediction Accuracies (PA) across the three models.  
+A simple ggplot boxplot  of Prediction Accuracies (PA) across the three models  
 ```{r}
 accuracy <- rbind( accuracyrk, accuracyrr, accuracyBL) #headers: PA model 
 # write.csv(accuracy, file="Accuracy_PHSBLUP_20181221.csv", row.names = FALSE)
