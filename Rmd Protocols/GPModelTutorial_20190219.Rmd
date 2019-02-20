@@ -64,17 +64,17 @@ test_CV_parallel<-function(x,folds){
   }
   return(results)
 }
-# phs_cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5) #5 (multi) core computer; dopar will do the command in parallel
-phs_cv_results6=foreach(cores=1:5, .combine='c') %do% test_CV_parallel(x=cores, folds=5) #one core computer
+# cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5) #5 (multi) core computer; dopar will do the command in parallel
+cv_results6=foreach(cores=1:5, .combine='c') %do% test_CV_parallel(x=cores, folds=5) #one core computer
 
 #Data Organization
-accuracy80 = as.data.frame(matrix(phs_cv_results6)) 
+accuracy80 = as.data.frame(matrix(cv_results6)) 
 accuracy80$model<-"rrBLUP"
 names(accuracy80) <- c("PA",  "model")      
 accuracyrr<-accuracy80
 ``` 
 
-#### Lets go over the script step by step:  
+** Lets go over the script step by step**:  
 `folds=5` define the number of folds you want to do  
 `run=5` define the number of times you want to run the CV  
 `n<-nrow(X); p<-ncol(X)` defining n as the row number of matrix `X` and p as the col number of matrix `X`    
@@ -101,7 +101,7 @@ Within that loop, we want to subset the dataset:
 `yNA<-y` define a new vector `yNA` with the same values as `y`    
 `yNA[which(i==tst)]<-NA` make 1/5 of the pheno data NA, or omitted, so that later on when we calculate the mixed.solve model, we are only using 4/5 of the dataset. More specifically, this command    
 
-Now, yNA[tst] is the training dataset while yNA[-tst] is the testing dataset   
+Now, `yNA[tst]` is a vector of the training dataset while `yNA[-tst]` is a vector of the testing dataset   
 
 
 `    yHat_1=ans$u[-tst]`
@@ -118,32 +118,55 @@ Now, yNA[tst] is the training dataset while yNA[-tst] is the testing dataset
   }
 ```
 
+**Replicate CV and Randomization**  
 `test_CV_parallel<-function(x,folds){`   
+`}`
+
 `  set.seed(x)`
 `  results=c()`
 `  K=A.mat(X)` 
-`  for(i in 1:folds){`   
-`    tst <-  sample(rep(1:folds,length.out=n))`
- `   yNA<-y`
-`    yNA[which(i==tst)]<-NA `
-`    ans <- mixed.solve(yNA,K=K)`
-`    yHat_1=ans$u[-tst]`
-`    results <- append(results,cor(yHat_1,y[-tst]))`
-`  }`
-`  return(results)`
-`}`
-`phs_cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)` 5 (multi) core computer; dopar will do the command in parallel whereas %do% can be used for a one core computer
 
-`accuracy80 = as.data.frame(matrix(phs_cv_results6))` 
-`accuracy80$model<-"rrBLUP"`
-`names(accuracy80) <- c("PA",  "model") `     
-`accuracyrr<-accuracy80`
+`  return(results)`
+
+`cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)` 5 (multi) core computer; dopar will do the command in parallel whereas %do% can be used for a one core computer
+
+
+
+And this completes the whole **Genomic Prediction Analysis**:  
+```{r}
+#Analysis
+test_CV_parallel<-function(x,folds){   
+  set.seed(x)
+  results=c()
+  K=A.mat(X) 
+  for(i in 1:folds){   
+    tst <-  sample(rep(1:folds,length.out=n))
+    yNA<-y
+    yNA[which(i==tst)]<-NA 
+    ans <- mixed.solve(yNA,K=K)
+    yHat_1=ans$u[-tst]
+    results <- append(results,cor(yHat_1,y[-tst]))
+  }
+  return(results)
+}
+cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5) #5 (multi) core computer; dopar will do the command in parallel
+# cv_results6=foreach(cores=1:5, .combine='c') %do% test_CV_parallel(x=cores, folds=5) #one core computer
+```
+
+**Data Organization**  
+The last portion is organizing the output into a workable dataframe the I can use to plot of combined with other results downstream.  
+
+`accuracy80 = as.data.frame(matrix(cv_results6))` the matrix `cv_results6` is made into a dataframe called `aaccuracy80`    
+`accuracy80$model<-"rrBLUP"` add in a new column `model` into the df and fill the column with the characters `rrBLUP`  
+`names(accuracy80) <- c("PA",  "model")` rename the column names to `PA` and `model`         
+`accuracyrr<-accuracy80` rename the df to `accuracyrr`    
 
 
 ----------
 
 #### Running RKHS  
 
+The 5-fold cross validation subsetting and data organization is all the same as explained in the rrBLUP section, however the model within the CV is now changed. An explanation of the RKHS model is below. 
 
 ```{r} 
 #Parameters defined
@@ -155,7 +178,7 @@ test_CV_parallel<-function(x,folds){
   results=c()
   D<-(as.matrix(dist(X,method='euclidean'))^2)/p
   U<-exp(-h*D) 
-  for(i in 1:folds){                           #Train  = 4/5 population; 80% of the lines
+  for(i in 1:folds){    
     tst <-  sample(rep(1:folds,length.out=n))
     yNA<-y
     yNA[which(i==tst)]<-NA 
@@ -166,16 +189,18 @@ test_CV_parallel<-function(x,folds){
   }
   return(results)
 }
-phs_cv_results5=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)
+cv_results5=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)
 
 #Data Organization
-accuracy80 = as.data.frame(matrix(phs_cv_results5)) 
+accuracy80 = as.data.frame(matrix(cv_results5)) 
 accuracy80$model<-"RKHS"
 names(accuracy80) <- c("PA", "model")        
 accuracyrk<-accuracy80 
 
 ```
 
+`D<-(as.matrix(dist(X,method='euclidean'))^2)/p`  
+`U<-exp(-h*D)`   
 
 `ETA<-list(list(K=U,model='RKHS'))`  
 `fm<-BGLR(y=yNA,ETA=ETA,nIter=nIter, burnIn=2000)`  
@@ -185,7 +210,7 @@ accuracyrk<-accuracy80
 
 #### Running LASSO  
 
-
+The 5-fold cross validation subsetting and data organization is all the same as explained in the rrBLUP section, however the model within the CV is now changed. An explanation of the LASSO model is below. 
 
 ```{r}
 #Parameters defined
@@ -207,10 +232,10 @@ test_CV_parallel<-function(x,folds){
   }
   return(results)
 }
-phs_cv_results7=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)
+cv_results7=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)
 
 #Data Organization
-accuracy80 = as.data.frame(matrix(phs_cv_results7)) 
+accuracy80 = as.data.frame(matrix(cv_results7)) 
 accuracy80$model<-"LASSO"
 names(accuracy80) <- c("PA", "model")      
 accuracyBL<-accuracy80
@@ -218,11 +243,22 @@ accuracyBL<-accuracy80
 ``` 
 
 
-
 `    ETA<-list(list(X=X,model='BL'))`  
 `    fm<-BGLR(y=yNA, response_type = "gaussian", ETA = ETA, nIter=nIter, burnIn=2000) `  
-`    yHat_1=fm$yHat[-tst]`  
-
-
 
 ----------
+#### Plots  
+A simple ggplot boxplot  of Prediction Accuracies (PA) across the three models.  
+```{r}
+accuracy <- rbind( accuracyrk, accuracyrr, accuracyBL) #headers: PA model 
+# write.csv(accuracy, file="Accuracy_PHSBLUP_20181221.csv", row.names = FALSE)
+# accuracy <- read.csv("Accuracy_PHSBLUP_20181221.csv")
+
+ggplot(accuracy, aes(accuracy$model, accuracy$PA, fill = factor(model))) +
+  geom_boxplot()+ theme_bw() +
+  theme(axis.text = font2,  axis.title = font, strip.text.x = font, plot.title = font)+
+  ylab("PA") + xlab("")+ ylim(0, 1) +
+  ggtitle("Wheat | Model Comparison")
+```
+
+
