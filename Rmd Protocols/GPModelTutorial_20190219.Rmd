@@ -26,6 +26,7 @@ Load all packages for the entire script and set the working directory
 ```{r}
 library(BGLR)
 library(rrBLUP)
+library(foreach)
 # library(doMC)  # Used for running the loops on multiple cores (example here, 5 cores)
 # registerDoMC(cores=5) 
 
@@ -33,7 +34,7 @@ library(ggplot2)
 font<-element_text(face = "bold",  size = 16)  #ggplot graphical preferences
 font2<-element_text(size = 16)
 
-setwd("D:/PHS Genomic Selection Project/Data Analysis/GS/20190219")
+# setwd("D:/PHS Genomic Selection Project/Data Analysis/GS/20190219")
 
 ```
 
@@ -46,6 +47,7 @@ setwd("D:/PHS Genomic Selection Project/Data Analysis/GS/20190219")
 #Parameters defined  
 folds=5              
 run=5
+n<-nrow(X); p<-ncol(X)
 
 #Analysis
 test_CV_parallel<-function(x,folds){   
@@ -62,35 +64,88 @@ test_CV_parallel<-function(x,folds){
   }
   return(results)
 }
-phs_cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)
+# phs_cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5) #5 (multi) core computer; dopar will do the command in parallel
+phs_cv_results6=foreach(cores=1:5, .combine='c') %do% test_CV_parallel(x=cores, folds=5) #one core computer
 
 #Data Organization
 accuracy80 = as.data.frame(matrix(phs_cv_results6)) 
 accuracy80$model<-"rrBLUP"
 names(accuracy80) <- c("PA",  "model")      
 accuracyrr<-accuracy80
+``` 
+
+#### Lets go over the script step by step:  
+`folds=5` define the number of folds you want to do  
+`run=5` define the number of times you want to run the CV  
+`n<-nrow(X); p<-ncol(X)` defining n as the row number of matrix `X` and p as the col number of matrix `X`    
+
+**Lets start from the basics within all the loops and work outwards.**  
+Running genomic prediction for a phenotype `y` while using a kinship matrix `K` consists of the following commands:  
+`K=A.mat(X)` The A.mat function in rrBLUP will calculate the addititve relationship matrix  
+`y = y[,2]` define which phenotype you want to predict (this will leave y as just a vector of n x 1)  
+`pred <- mixed.solve(y,K=K)` mixed.solve salculates maximum-likelihood (ML/REML) solutions for mixed models, but since you are using `K` in your model, it will also calculate the GEBVs  
+`pred$u[]` the output `pred` will contain a dataframe `u` that containts the GEBVs
+  
+However, this is using all 100% of your data, to calculate the GEBVs, so since you arent training on a subset of the data to predict another subset, the prediction accuracy of the observed variable `y` to the predicted variable `u` is not useful.  
+
+**5-fold cross validation **  
+To cross validate, you can divide you dataset into 5 subset, train your model on 4/5 of the subsets, and test for accuracy on the remaining 1/5 of the subset.   
+**NOTE**: There are many ways to subset your data, depending on the question you are asking for your project and also depending on how you wish to write your script. Below is how I initially learned to subset for 5-folds based on the CIMMYT tutorials, but it is not the only way. 
+
+Lets start with a for loop, for `i` from 1 to folds (and we already defined `folds=5`:  
+`  for(i in 1:folds){`     
+`  }`   
+  
+Within that loop, we want to subset the dataset:  
+`tst <-  sample(rep(1:folds,length.out=n))` create a vector `tst` that has the values `1:folds` (in our case 1:5) and a `length` of `n` which is the number of lines in `X` which should be the same number of lines in `y`     
+`yNA<-y` define a new vector `yNA` with the same values as `y`    
+`yNA[which(i==tst)]<-NA` make 1/5 of the pheno data NA, or omitted, so that later on when we calculate the mixed.solve model, we are only using 4/5 of the dataset. More specifically, this command    
+
+Now, yNA[tst] is the training dataset while yNA[-tst] is the testing dataset   
 
 
+`    yHat_1=ans$u[-tst]`
+`    results <- append(results,cor(yHat_1,y[-tst]))`
 
+```{r}
+  for(i in 1:folds){   
+    tst <-  sample(rep(1:folds,length.out=n))
+    yNA<-y
+    yNA[which(i==tst)]<-NA 
+    ans <- mixed.solve(yNA,K=K)
+    yHat_1=ans$u[-tst]
+    results <- append(results,cor(yHat_1,y[-tst]))
+  }
 ```
 
-**To break this chunk of code down, lets go over it step by step:**  
+`test_CV_parallel<-function(x,folds){`   
+`  set.seed(x)`
+`  results=c()`
+`  K=A.mat(X)` 
+`  for(i in 1:folds){`   
+`    tst <-  sample(rep(1:folds,length.out=n))`
+ `   yNA<-y`
+`    yNA[which(i==tst)]<-NA `
+`    ans <- mixed.solve(yNA,K=K)`
+`    yHat_1=ans$u[-tst]`
+`    results <- append(results,cor(yHat_1,y[-tst]))`
+`  }`
+`  return(results)`
+`}`
+`phs_cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5)` 5 (multi) core computer; dopar will do the command in parallel whereas %do% can be used for a one core computer
 
-
-
-
-
-yNA[tst] is the training dataset while yNA[-tst] is the testing dataset  
-
-
-
+`accuracy80 = as.data.frame(matrix(phs_cv_results6))` 
+`accuracy80$model<-"rrBLUP"`
+`names(accuracy80) <- c("PA",  "model") `     
+`accuracyrr<-accuracy80`
 
 
 ----------
+
 #### Running RKHS  
 
 
-```{r}
+```{r} 
 #Parameters defined
 nIter = 12000
 
@@ -117,11 +172,17 @@ phs_cv_results5=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=core
 accuracy80 = as.data.frame(matrix(phs_cv_results5)) 
 accuracy80$model<-"RKHS"
 names(accuracy80) <- c("PA", "model")        
-accuracyrk<-accuracy80
+accuracyrk<-accuracy80 
 
 ```
 
+
+`ETA<-list(list(K=U,model='RKHS'))`  
+`fm<-BGLR(y=yNA,ETA=ETA,nIter=nIter, burnIn=2000)`  
+`fm$yHat[-tst]`  
+ 
 ----------
+
 #### Running LASSO  
 
 
@@ -154,5 +215,14 @@ accuracy80$model<-"LASSO"
 names(accuracy80) <- c("PA", "model")      
 accuracyBL<-accuracy80
 
+``` 
 
 
+
+`    ETA<-list(list(X=X,model='BL'))`  
+`    fm<-BGLR(y=yNA, response_type = "gaussian", ETA = ETA, nIter=nIter, burnIn=2000) `  
+`    yHat_1=fm$yHat[-tst]`  
+
+
+
+----------
