@@ -1,0 +1,71 @@
+---
+title: "h: Bandwidth Parameter"
+output: html_notebook
+---
+
+[Determining bandwidth parameter for RKHS](https://github.com/shantel-martinez/Cornell_PHS/blob/master/PHS%20Genomic%20Selection%20Project/Data%20Analysis/GS/20181217/PHS%20GS%20v10.R)
+
+For RKHS, h is bandwidth parameter. NOT heritibility.  
+
+Based on [Campos et al., 2010](https://www.cambridge.org/core/journals/genetics-research/article/semiparametric-genomicenabled-prediction-of-genetic-values-using-reproducing-kernel-hilbert-spaces-methods/2B823916CF4D76FAE6BC81455FD73ABB/core-reader),    
+
+> "As shown in Fig. 4, the value of the bandwidth parameter that gave the best predictive ability was in the range (2,4), except for environment E2 in which values of h near one performed slightly better."   
+
+where figure 4 is the Estimated MSE (mean-squared error) between CV predictions (yHat) and observations (y) versus values of the bandwidth parameter, h, from 0.1 - 10. The bandwidth parameter with the lowest MSE gave the best predictive ability.   
+So as we look the the `PMSE` plot against `h`, we should select the bandwidth parameter `h` that gives the lowest MSE for each of your pheno datasets.   
+
+**RERUN** using an estimated h=0.5 for each combined, red, and white KC datasets. I need to determine what is the optimal bandwidth parameter to use for each dataset. [Campos et al., 2010](https://www.cambridge.org/core/journals/genetics-research/article/semiparametric-genomicenabled-prediction-of-genetic-values-using-reproducing-kernel-hilbert-spaces-methods/2B823916CF4D76FAE6BC81455FD73ABB/core-reader) shouls shed some light on how to select the h.   
+
+```{R} 
+## Determining bandwidth parameter for RKHS ----------------
+setwd("D:/PHS Genomic Selection Project/Data Analysis/GS/20181218")
+# setwd("/Users/shantel/Desktop/20181218 GS Mac")
+folds=5              
+run=5
+nIter = 12000
+burnIn=2000
+
+#Bandwidth parameters to commpare
+h=c(.01,.1,.4,.8,1.5,3,5)
+
+#Your Data ~~~~~~~~~~~~~~~~
+myY = myYc; myGD = myGDc
+y = myY[,2] 
+X = myGD; n<-nrow(X); p<-ncol(X)
+D<-(as.matrix(dist(X,method='euclidean'))^2)/p
+
+#Statistic Parameters
+PMSE<-numeric() ; VARE<-numeric(); VARU<-numeric() ;
+pD<-numeric(); DIC<-numeric()
+fmList<-list()
+
+#RKHS Calculation ~~~~~~~
+for(i in 1:length(h)){
+  K<-exp(-h[i]*D)
+  ETA<-list(list(K=K,model='RKHS'))
+  prefix<- paste(h[i], "_",sep="")
+  fm<-BGLR(y=yNA,ETA=ETA, nIter=nIter,burnIn=burnIn,saveAt=prefix)
+  fmList[[i]]<-fm
+  PMSE[i]<-mean((y[tst]-fm$yHat[tst])^2)
+  VARE[i]<-fm$varE
+  VARU[i]<-fm$ETA[[1]]$varU
+  DIC[i]<-fm$fit$DIC
+  pD[i]<-fm$fit$pD
+}
+
+R2<-1-PMSE/mean((y[tst]-mean(y[-tst]))^2)
+
+plot(VARE~h,xlab="Bandwidth", 
+     ylab="Residual Variance",type="o",col=4)
+plot(I(VARE/VARU)~h,xlab="Bandwidth",
+     ylab="variance ratio (noise/signal)",type="o",col=4)
+plot(pD~h,xlab="Bandwidth", ylab="pD",type="o",col=2)
+plot(DIC~h,xlab="Bandwidth", ylab="DIC",type="o",col=2)
+plot(R2~h,xlab="Bandwidth", ylab="R-squared",type="o",col=2)
+plot(PMSE~h,xlab="Bandwidth", ylab="PMSE",type="o",col=2)
+
+```
+
+Also, I just found another article discussing selection of the bandwidth parameter [Pérez-Elizalde et al., 2015](https://link.springer.com/article/10.1007/s13253-015-0229-y). Need to review, but for now, I think we have a good start for h.
+
+
