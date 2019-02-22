@@ -35,3 +35,15 @@ Find resources and the presentation slides [here](https://github.com/shantel-mar
 </div>
 
 
+### Falling Numbers Summit 2016  
+As a result of a low FN crisis in the Pacific Northwest in 2016, the wheat community gathered together to tackle the low FN problem. Scientists, farmers, commissioners, bakers, and breeders all attended and as a result, wrote a white paper sent to congress to request additional funding to research this issue more in depth. Listen to one of the great achievements from this summit on Wheat All About It's Episode 
+
+{::options parse_block_html="false" /}
+
+<div class="center">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When so many farmers were hit hard by low FN in 2016, you better believe they wanted to be sure the test was the best it could be.<br>One region speaking up resulted in a national change... I&#39;m so proud of my fellow <a href="https://twitter.com/hashtag/wheat?src=hash&amp;ref_src=twsrc%5Etfw">#wheat</a> community!<a href="https://t.co/XHGel4GFnu">https://t.co/XHGel4GFnu</a> <a href="https://twitter.com/uswheatassoc?ref_src=twsrc%5Etfw">@uswheatassoc</a> <a href="https://t.co/IrQf9bswBu">pic.twitter.com/IrQf9bswBu</a></p>&mdash; Shantel A. Martinez (@s_amealia) <a href="https://twitter.com/s_amealia/status/1098724481059692545?ref_src=twsrc%5Etfw">February 21, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+
+
