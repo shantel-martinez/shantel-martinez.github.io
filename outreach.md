@@ -36,7 +36,7 @@ Find resources and the presentation slides [here](https://github.com/shantel-mar
 
 
 ### Falling Numbers Summit 2016  
-As a result of a low FN crisis in the Pacific Northwest in 2016, the wheat community gathered together to tackle the low FN problem. Scientists, farmers, commissioners, bakers, and breeders all attended and as a result, wrote a white paper sent to congress to request additional funding to research this issue more in depth. Listen to one of the great achievements from this summit on Wheat All About It's Episode 
+As a result of a low FN crisis in the Pacific Northwest in 2016, the wheat community gathered together to tackle the low FN problem. Scientists, farmers, commissioners, bakers, and breeders all attended and as a result, wrote a white paper sent to congress to request additional funding to research this issue more in depth. Listen to one of the great achievements from this summit on Wheat All About It's [Episode 73](http://wagrains.org/podcast/episode-73-falling-numbers-rising-optimism/) 
 
 {::options parse_block_html="false" /}
 
