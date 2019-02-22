@@ -23,19 +23,19 @@ Farmers and industry employees attend a 2 day workshop with scientists to discus
 ## Industry 
 ### Falling Numbers Workshop 2019   
 A workshop with great intellectual & intense discussion on how to solve the low FN problem. People attending such as 30+yr farmers, the person selling the wheat to Japan, and the breeders creating the wheat... all in one room  
-Find resources and the presentation slides [here](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/README.md)   
+Find resources and the presentation slides [here](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/README.md)    
 
 {::options parse_block_html="false" /}
 
-<div class="center">
+<div class="center">  
  
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The ‘depth’ of <a href="https://twitter.com/hashtag/seed?src=hash&amp;ref_src=twsrc%5Etfw">#seed</a> dormancy happens prior to physiological maturity (the highest point of dormancy). Here <a href="https://twitter.com/s_amealia?ref_src=twsrc%5Etfw">@s_amealia</a> shows how the environment during plant growth plays a role in the sprout variation within genotypes - comparing WA (left) and NY (right) here. <a href="https://twitter.com/hashtag/FNWorkshop2019?src=hash&amp;ref_src=twsrc%5Etfw">#FNWorkshop2019</a> <a href="https://t.co/fYu5ddl2BG">pic.twitter.com/fYu5ddl2BG</a></p>&mdash; EMILY KLARQUIST 🍞 (@thewheatwoman) <a href="https://twitter.com/thewheatwoman/status/1090680556524720128?ref_src=twsrc%5Etfw">January 30, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The ‘depth’ of <a href="https://twitter.com/hashtag/seed?src=hash&amp;ref_src=twsrc%5Etfw">#seed</a> dormancy happens prior to physiological maturity (the highest point of dormancy). Here <a href="https://twitter.com/s_amealia?ref_src=twsrc%5Etfw">@s_amealia</a> shows how the environment during plant growth plays a role in the sprout variation within genotypes - comparing WA (left) and NY (right) here. <a href="https://twitter.com/hashtag/FNWorkshop2019?src=hash&amp;ref_src=twsrc%5Etfw">#FNWorkshop2019</a> <a href="https://t.co/fYu5ddl2BG">pic.twitter.com/fYu5ddl2BG</a></p>&mdash; EMILY KLARQUIST 🍞 (@thewheatwoman) <a href="https://twitter.com/thewheatwoman/status/1090680556524720128?ref_src=twsrc%5Etfw">January 30, 2019</a></blockquote>  
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
-</div>
+</div>  
 
-### Falling Numbers Summit 2016  
-As a result of a low FN crisis in the Pacific Northwest in 2016, the wheat community gathered together to tackle the low FN problem. Scientists, farmers, commissioners, bakers, and breeders all attended and as a result, wrote a white paper sent to congress to request additional funding to research this issue more in depth. Listen to one of the great achievements from this summit on Wheat All About It's [Episode 73](http://wagrains.org/podcast/episode-73-falling-numbers-rising-optimism/) 
+### Falling Numbers Summit 2016   
+As a result of a low FN crisis in the Pacific Northwest in 2016, the wheat community gathered together to tackle the low FN problem. Scientists, farmers, commissioners, bakers, and breeders all attended and as a result, wrote a white paper sent to congress to request additional funding to research this issue more in depth. Listen to one of the great achievements from this summit on Wheat All About It's [Episode 73](http://wagrains.org/podcast/episode-73-falling-numbers-rising-optimism/)   
 
 <div class="center">
 
