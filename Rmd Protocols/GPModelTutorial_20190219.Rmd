@@ -1,11 +1,13 @@
 ---
 title: "Genomic Prediction Models"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 **Author:** Shantel A. Martinez  
 **Purpose:** Analyze the PHS data under mutliple GS models and determine which model bests fits out data.   
-**Last updated:** 2019.02.19  
+**Last updated:** 2019.02.19   
 
 The majority of the tutorials I learned basics of genomic selection came from the wheat [cimmyt tutorial](http://bglr.r-forge.r-project.org/BGLR-tutorial.pdf) and [validation examples](https://github.com/gdlc/BGLR-R/blob/master/inst/md/Validation.md) and for rrBLUP I started with this [tutorial](http://pbgworks.org/sites/pbgworks.org/files/Introduction%20to%20Genomic%20Selection%20in%20R.pdf) and the [rrBLUP CRAN page](https://cran.r-project.org/web/packages/rrBLUP/rrBLUP.pdf).   
 
@@ -29,8 +31,8 @@ Load all packages for the entire script and set the working directory
 library(BGLR)
 library(rrBLUP)
 library(foreach)
-# library(doMC)  # Used for running the loops on multiple cores (example here, 5 cores)
-# registerDoMC(cores=5) 
+library(doMC)  # Used for running the loops on multiple cores (example here, 5 cores)
+registerDoMC(cores=5)
 
 library(ggplot2)
 font<-element_text(face = "bold",  size = 16)  #ggplot graphical preferences
@@ -66,8 +68,8 @@ test_CV_parallel<-function(x,folds){
 }
 
 #Analysis
-# cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5) #5 (multi) core computer; dopar will do the command in parallel
-cv_results6=foreach(cores=1:5, .combine='c') %do% test_CV_parallel(x=cores, folds=5) #one core computer
+cv_results6=foreach(cores=1:5, .combine='c') %dopar% test_CV_parallel(x=cores, folds=5) #5 (multi) core computer; dopar will do the command in parallel
+# cv_results6=foreach(cores=1:5, .combine='c') %do% test_CV_parallel(x=cores, folds=5) #one core computer
 
 #Data Organization
 accuracy5 = as.data.frame(matrix(cv_results6)) 
@@ -253,7 +255,7 @@ The 5-fold cross validation subsetting and data organization is all the same as 
 #Parameters defined
 nIter = 12000
 burnIn=2000
-y = y[,2]
+# y = y[,2]
 
 #Function
 test_CV_parallel<-function(x,folds){   
@@ -297,8 +299,8 @@ accuracy <- rbind( accuracyrk, accuracyrr, accuracyBL) #headers: PA model
 ggplot(accuracy, aes(accuracy$model, accuracy$PA, fill = factor(model))) +
   geom_boxplot()+ theme_bw() +
   theme(axis.text = font2,  axis.title = font, strip.text.x = font, plot.title = font)+
-  ylab("PA") + xlab("")+ ylim(0, 1) +
+  ylab("PA") + xlab("")+ ylim(0.6, 0.9) +
   ggtitle("Wheat | Model Comparison")
 ```
 
-
+Remember to fix you `ylim` range to `(0,1)` at first, then minimize it if its hard to see the differences  
