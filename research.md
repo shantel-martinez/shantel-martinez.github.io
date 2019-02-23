@@ -4,6 +4,12 @@ Shantel’s research career, so far, has been trying to identify genetics contri
 
 ---------
 
+[Background]()
+[Objectives](./objectives.html)  
+[Progress Updates](./updates.html)
+
+----------
+
 Before we can get knees deep into the genetics of my favorite trait, we need to understand the basic mechanisms of preharvest sprouting.  
 
 Seed dormancy is when a seed in unable to germinate, even under favorable conditions. There are times when we want a seed to germinate, and times when we do not want seeds to germinate, and dormancy helps the latter. A wheat seed reaches its highest level of dormancy at physiological maturity. Dormancy can be lost over a period of time, called after-ripening. Once the whole field of wheat has uniformly matured, farmers go out with a combine to harvest the wheat. The wheat is then sent off to be milled into flour, and bake into your favorite bread, cake, or cookie.   
