@@ -9,3 +9,10 @@ Objective 2. Study the endogenous hormone levels on a wheat isoline with and wit
 Objective 3. Develop and use a genomic selection model for preharvest sprouting tolerance in Northeast wheat   
 
 A detailed review of the overall objectives can be found [here](https://shantel-martinez.github.io/objectives.html)  
+
+--------
+
+**UPDATE SUBTITLE**  
+*Date*  
+[Description]  
+
