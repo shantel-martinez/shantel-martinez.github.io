@@ -23,7 +23,9 @@ Farmers and industry employees attend a 2 day workshop with scientists to discus
 ## Industry 
 ### Falling Numbers Workshop 2019   
 A workshop with great intellectual & intense discussion on how to solve the low FN problem. People attending such as 30+yr farmers, the person selling the wheat to Japan, and the breeders creating the wheat... all in one room  
-Find resources and the presentation slides [here](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/README.md)    
+Find resources and the presentation slides [here](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/README.md)   
+
+Listen to the summary of the workshop in a three part series (Episodes 113-115) from the WA Grain Commissions: [Wheat All About it](http://wagrains.org/series/wheat-all-about-it/). A brief overview of my talk can be found at the end of [episode 114](http://wagrains.org/podcast/episode-114-when-scientist-speak-falling-numbers-farmers-should-listen/).  
 
 {::options parse_block_html="false" /}
 
@@ -34,7 +36,7 @@ Find resources and the presentation slides [here](https://github.com/shantel-mar
 
 </div>  
 
-### Falling Numbers Summit 2016   
+### Falling Numbers Summit 2017   
 As a result of a low FN crisis in the Pacific Northwest in 2016, the wheat community gathered together to tackle the low FN problem. Scientists, farmers, commissioners, bakers, and breeders all attended and as a result, wrote a white paper sent to congress to request additional funding to research this issue more in depth. Listen to one of the great achievements from this summit on Wheat All About It's [Episode 73](http://wagrains.org/podcast/episode-73-falling-numbers-rising-optimism/)   
 
 <div class="center">
