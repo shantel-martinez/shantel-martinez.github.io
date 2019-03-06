@@ -10,8 +10,9 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 
 <div class="center">
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Beautiful how-to&#39;s in <a href="https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw">@hadleywickham</a> slide deck. I love my <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> graphics, and yet I&#39;m still learning new tricks to this day. P.S. data management via code is everything! <a href="https://t.co/KUl55giS05">https://t.co/KUl55giS05</a></p>&mdash; Shantel A. Martinez (@s_amealia) <a href="https://twitter.com/s_amealia/status/1096768116800000000?ref_src=twsrc%5Etfw">February 16, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Enjoyed hosting Jens Lein from <a href="https://twitter.com/KWS_Group?ref_src=twsrc%5Etfw">@KWS_Group</a> today. While he taught us all about Sugar Beet breeding, we gifted him with an Ithaca winter<a href="https://twitter.com/san_dweeney?ref_src=twsrc%5Etfw">@san_dweeney</a> <a href="https://twitter.com/CornellCALS?ref_src=twsrc%5Etfw">@CornellCALS</a> <a href="https://t.co/a2wUCE97t8">pic.twitter.com/a2wUCE97t8</a></p>&mdash; Shantel A. Martinez (@s_amealia) <a href="https://twitter.com/s_amealia/status/1103114013532192771?ref_src=twsrc%5Etfw">March 6, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 </div>
 ---------
