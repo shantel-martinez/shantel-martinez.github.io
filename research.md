@@ -6,7 +6,6 @@ Shantel’s research career, so far, has been trying to identify genetics contri
 
 [Background]()  
 [Objectives](./objectives.html)  
-[Progress Updates](./updates.html)  
 
 ----------
 
