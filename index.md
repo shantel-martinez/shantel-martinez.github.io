@@ -10,7 +10,7 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 
 <div class="center">
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Enjoyed hosting Jens Lein from <a href="https://twitter.com/KWS_Group?ref_src=twsrc%5Etfw">@KWS_Group</a> today. While he taught us all about Sugar Beet breeding, we gifted him with an Ithaca winter<a href="https://twitter.com/san_dweeney?ref_src=twsrc%5Etfw">@san_dweeney</a> <a href="https://twitter.com/CornellCALS?ref_src=twsrc%5Etfw">@CornellCALS</a> <a href="https://t.co/a2wUCE97t8">pic.twitter.com/a2wUCE97t8</a></p>&mdash; Shantel A. Martinez (@s_amealia) <a href="https://twitter.com/s_amealia/status/1103114013532192771?ref_src=twsrc%5Etfw">March 6, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">By using the word &#39;genetics&#39; I was trying to simplify GWAS, genomic selection and QTL mapping, into a generalization and it was perceived a different way than I expected.<br>I expected: DNA/genes/difference between two samples <br><br>(Something I need to remember!)</p>&mdash; Shantel A. Martinez (@s_amealia) <a href="https://twitter.com/s_amealia/status/1101891094277697536?ref_src=twsrc%5Etfw">March 2, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
