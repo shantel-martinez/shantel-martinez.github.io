@@ -19,8 +19,8 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 
 ### To find out more about Shantel's work:  
 [Research](./research.html)<br/>
-[Mentoring](./mentoring.html)<br/>
 [Outreach](./outreach.html)<br/>
+[Mentoring](./mentoring.html)<br/>
 
 ---------
 [R Protocols](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/R%20Protocols.ipynb?flush_cache=true)  
