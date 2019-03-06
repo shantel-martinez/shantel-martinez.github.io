@@ -2,6 +2,8 @@
 
 **Communicating Research to the Ones That Matter**  
 
+------
+
 ## Public  
 ### Grow NYC   
 *Sept 2018*  
@@ -12,6 +14,8 @@ The Variety Showcase in NYC is an interactive mixer designed to build community 
 *March 2018*   
 Engaging students in the Eastern WA area of all ages to a free interactive plant science fair with PhD students across many disciplines.  
 
+------
+
 ## Stakeholders
 ### Field Day 2019
 Updating farmers about the current research on wheat (and barley) preharvest sprouting during the Cornell Small Grains Field Day and the Aurora NY Field Day
@@ -19,6 +23,8 @@ Updating farmers about the current research on wheat (and barley) preharvest spr
 
 ### Wheat Academy 2016  
 Farmers and industry employees attend a 2 day workshop with scientists to discuss current topics and issues being addressed by the WSU wheat breeding program.  
+
+------
 
 ## Industry 
 ### Falling Numbers Workshop 2019   
