@@ -6,7 +6,8 @@
 **Katherine Roberts**  | Su 2018     
 High School Science Program, Cornell University, Ithaca NY  
 Research: Fine mapping preharvest sprouting tolerant QTL in wheat on chromosome 2B using the spike-wetting test   
-Awards: 1st Place in the Plant Science category of Westchester Science & Engineering Fair (Wesef)
+Awards: 1st Place in the Plant Science category of Westchester Science & Engineering Fair (Wesef)  
+
 Katherine is in her Junior year of high school and will return to Cornell University in the summer of 2019 to continue her research.  
 
 ---------------
