@@ -11,7 +11,7 @@
 ## Resources 
 
 
-**The Falling Numbers** [**Website**](http://steberlab.org/project7599.php)  
+**The Falling Numbers** [Website](http://steberlab.org/project7599.php)   
 
 **PHS/Dormancy Genes and RefSeqv1.0 Positions**    
 A number of genes in wheat have been cloned and characterized for PHS tolerance or grain dormancy. Since the wheat reference genome is now [publically available](https://www.wheatgenome.org/News/Latest-news/Reference-Sequence), we can [BLAST](https://urgi.versailles.inra.fr/blast_iwgsc/blast.php) the PHS gene sequences (below) against the RefSeqv1.0 alignment and identify the positions on the chromosome. Below are the estimated start and end positions based on the gene sequences available by the authors, in the publication, or public databases. The positions and links to the gene sequences may be useful to cross-reference with future PHS QTL or GWAS analyses.  
