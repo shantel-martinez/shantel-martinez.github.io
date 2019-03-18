@@ -1,11 +1,9 @@
 # Research <a id="top"></a>   
 
-Shantel’s research career, so far, has been trying to identify genetics contributing the preharvest sprouting tolerance in wheat. Her PhD work was looking at Pacific Northwest wheat germplasm, whereas her post-doctoral studies are looking at Northeast germplasm.      
-
 ---------
 
 [Background](./research.html)  
-[Objectives](./objectives.html)  
+[Objectives]()  
 [Resources](./resources.html)  
 
 ----------
