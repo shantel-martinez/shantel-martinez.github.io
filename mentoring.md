@@ -16,7 +16,7 @@ Katherine is in her Junior year of high school and will return to Cornell Univer
 **Samantha Beck**  | Su 2016- Sp 2017  
 CAHNRS Internship Program, Washington State University, Pullman WA  
 Research: Fine mapping a locus corresponding to the Enhanced Response to Abscisic acid, ERA8, gene of wheat (*Triticum aestivum* L.)  
-Awards: Showcase for Undergraduate Research and Creative Avticities (SURCA) 1st Place   
+Awards: 1st Place at the Washington State University Showcase for Undergraduate Research and Creative Activities (SURCA) Poster Competition   
   
 [Samantha](https://www.linkedin.com/in/samantha-conselman-09aa1a10b/) now works at Marrone Bio Innovations as an Assistant Crop Scientist for the past 2 years.  
 
@@ -26,6 +26,6 @@ Awards: Showcase for Undergraduate Research and Creative Avticities (SURCA) 1st 
 **Dustan Cwuick**  | Fa 2015 - Sp 2016   
 LSAMP Internship Program, Washington State University, Pullman WA  
 Research: Exploring wheat seed responses to different hormones and incubation temperatures while identifying cultivars susceptible to PHS  
-Awards: SURCA 2nd Place   
+Awards: 2nd Place at the Washington State University SURCA Poster Competition      
 
 [Dustan](https://www.linkedin.com/in/dustan-cwick-ab457a157/) is currently a 3rd year Material Science and Engineering student at Washington State University.  
