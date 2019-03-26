@@ -2,7 +2,7 @@ S Martinez CV PDF [Download](./SMartinez_CV_Jan2019.pdf)
 
 ## Postdoctoral Fellow in Plant Breeding and Genetics  
 
-Shantel A. Martinez is currently a USDA-NIFA post-doctorate fellow at Cornell University working in the [Sorrells lab](https://plbrgen.cals.cornell.edu/research-extension/small-grains/personnel/). She is continuing her research focus of improving wheat preharvest sprouting through genomic selection and QTL mapping. Shantel's career aims are to advance and contribute novel genetic research towards the wheat field of study.    
+Shantel A. Martinez is currently a USDA-NIFA [post-doctorate fellow](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) at Cornell University working in the [Sorrells lab](https://plbrgen.cals.cornell.edu/research-extension/small-grains/personnel/). She is continuing her research focus of improving wheat preharvest sprouting through genomic selection and QTL mapping. Shantel's career aims are to advance and contribute novel genetic research towards the wheat field of study.    
 
 ### EDUCATION
 Ph.D., 2018: Molecular Plant Science, Washington State University, Pullman WA   
@@ -26,7 +26,7 @@ Identify novel loci contributing to PHS and drought tolerance in wheat (*Triticu
 During this project I studied the characteristics of an ABA hypersensitive mutant, *Zak ERA8*. Wild-type and mutant endogenous hormone levels within the seed were compared as well as the germination response in the presence and absence of exogenously applied hormones ABA and GA (Martinez et al., 2016). Segregation analysis, preharvest sprouting trials, agronomic and end-use quality traits were also compared between wild type and mutant (Martinez et al., 2014). Skills were refined in SAS and hormone seed biology.   
 
 ### AWARDS & FUNDING 
-▪ NIFA-AFRI Education and Literacy Initiative Grant 2018-2020   
+▪ NIFA-AFRI Education and Literacy Initiative [Grant](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) 2018-2020   
 ▪ International Seed Science Society Conference Travel Grant 2017   
 ▪ Research Assistantship - AFRI-NIFA Plant Breeding Grant 2016-2017  
 ▪ GPSA Senator Excellence Award 2015-2016  
@@ -46,7 +46,7 @@ During this project I studied the characteristics of an ABA hypersensitive mutan
 
 ### PROFESSIONAL DEVELOPMENT
 **Peer Reviewer** 
-Agronomy, Molecular Breeding, TAG: Theoretical and Applied Genetics  
+Agronomy, Molecular Breeding, Theoretical and Applied Genetics  
 **Future Professors Institute** 2018  
 The focus of the series I attended was: Advancing Diversity in Academia. Skillsets were introduced which include understanding what the search committee is looking for, career plans, research plans, publication plans, negotiating a contract, and starting up your first lab.            
 **Director of Professional Development** 2016-2017   
