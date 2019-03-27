@@ -32,7 +32,7 @@ During this project I studied the characteristics of an ABA hypersensitive mutan
 ▪ GPSA Senator Excellence Award 2015-2016  
 ▪ GPSA Research Expo - Agriculture & Natural Science 1st place 2016  
 ▪ Crop and Soil Science Department Travel Grant 2016 
-▪ Teaching Assistantship for Plant Breeding 2015  
+▪ Teaching Assistantship for Plant Breeding 2015    
 ▪ Lindahl Memorial Scholarship 2014-2015  
 ▪ ASPB Plant Biology Travel Grant 2014  
 ▪ Distinguished Research Assistantship for Diverse Scholars 2013-2014  
