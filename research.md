@@ -5,6 +5,7 @@ Shantel’s research career, so far, has been trying to identify genes contribut
 ---------
 
 [Background]()  
+[Genetics](./Genetics.html)  
 [Objectives](./objectives.html)  
 [Resources](./resources.html)  
 
@@ -42,13 +43,11 @@ Millers, bakers, distributors, and so on, all along the industry food chain, hav
 
 The Spike Wetting test has a primary goal of seeing if the intact wheat spike has the ability to germinate or not when you introduce simulated rain.  
 
+-----
 
+This is where I will end my story for now. The second half of my research is focused on the genes within wheat, trying to understand what genes are the source of PHS tolerance, and using statistical models. Feel free to read about that portion of the project on the [Genetics](./Genetics.html) page.  
 
-
->> A great resource to view real PNW wheat Falling Numbers data can be found on Dr. Camille Steber's [website](http://steberlab.org/project7599data.php), a project proudly funded by the WA Grain Commission.  
-
-
-
+>> Also, a great resource to view real PNW wheat Falling Numbers data can be found on Dr. Camille Steber's [website](http://steberlab.org/project7599data.php), a project proudly funded by the WA Grain Commission.  
 
 
 ---------
