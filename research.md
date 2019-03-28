@@ -27,6 +27,7 @@ If the wheat has already reached that beautiful golden color defining maturity a
 ![PHS](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/PHS.jpg?raw=true)  
 
 Now as a wheat breeder in an area where it is possible for rain to occur around that golden wheat maturity, we want to do our best to make sure the wheat does not germinate while still on the plant in the field, but still has the capacity to germinate if you needed to plant it in the ground for next years crop (its all about balance). There are no common/logistical farming practice where a farmer can 'spray' some sort of solution to prevent sprouting from happening, and fields are way too large to cover the plants with a physical barrier (like a tarp) to prevent the rain from reaching the seed. So that only leaves us with one option: **growing types of wheat, varieties, that are tolerant to sprouting genetically.**    
+> Disclaimer: what I mean by "genetically" is a wheat with natural wheat genes that has some sort of natural internal mechanism that allows the wheat seed to not sprout too early. No inter-species GMOs here. 
 
 In order to find genetic tolerance, we need to screen many many types of wheat varieties to determine what is tolerant and what is susceptible.  
 
