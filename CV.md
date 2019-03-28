@@ -62,7 +62,8 @@ During my PhD, I also spent a year as the Director of Professional Development f
 ▪ Molecular Plant Science Student Seminar Coordinating Committee 2013-2014, 2015-2016  
 ▪ WSU Upward Bound Internship Program Volunteer and Recruiter 2009-2015   
 
-### INVITED TALKS  
+### COMMUNICATION  
+#### INVITED TALKS - *Technical Audiences*  
 1. Soft Wheat Quality Council Meeting, Raleigh, NC (2019) Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs  
 2. Western Wheat Quality Meeting: Falling Numbers Workshop, Portland, OR (2019) The First Step to Tackling the FN Problem: Identifying Tolerant Genes/QTL in PNW Germplasm
 3. 12th Triennial International Seed Science Society Conference, Monterey, CA (2017) Identification of a Locus Corresponding to the Preharvest Sprouting Tolerance Mutant, ERA8, in Wheat (Triticum aestivum L.)
