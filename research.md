@@ -13,16 +13,16 @@ Shantel’s research career, so far, has been trying to identify genes contribut
 > If you've lived in the northeast for a summer, you know how much it can rain in Jul/Aug. My research is looking at what types of fully mature wheat seeds will or will not germinate during a rain event. Hint: we don't want seeds to germinate if we want to make flour later  
 
 ### The Full Story  
-Before we can get knees deep into the genetics of my favorite trait, we need to understand the basics of what preharvest sprouting even is:  
+Before we can get knees deep into the genetics of my favorite trait / preharvest sprouting, lets paint the background picture of what typically goes on at the farm and within a wheat seed:  
 
 When a seed in unable to germinate, even under favorable conditions, the seed is considered dormant. There are times when we want a seed to germinate, and times when we do not want seeds to germinate, and dormancy helps the latter. A wheat seed reaches its highest level of dormancy at physiological maturity (PM). Dormancy can be lost over a period of time, called after-ripening.  
 
 Shifting gears to a wheat farm: Once the entire field of wheat has uniformly matured (the plant is yellow and dry), farmers go out with a combine to harvest the wheat seeds from the dried up plant (typically a couple weeks after physiological maturity). The wheat is then sent off to be milled into flour, and bake into your favorite bread, cake, or cookie.   
 
 #### PREHARVEST SPROUTING   
-If the wheat has already reached maturity and a rain event were to occur before the farmers could harvest/combine the field, the wheat seeds may sprout, causing **preharvest sprouting** (PHS). When seeds sprout, they break down those beautifully long starch chains for energy to begin the germination process. A key enzyme that helps break down the starch is a-amylase.  And as we can imagine, broken down starch can lead to a very poor quality bread, cake, or cookie products. Typically when a wheat farm succumbs to preharvest sprouting, they either  
-**a)** have to sell their grain for feed because it no longer can be used for food (losing food)    
-**b)** can only sell the wheat for a reduced price, because the quality is too low for industry standards (losing $$$)  
+If the wheat has already reached that beautiful golden color defining maturity and a rain event were to occur before the farmers could harvest/combine the field, the wheat seeds may germinate (or sprout), causing **preharvest sprouting** (PHS). When seeds sprout, they break down long starch chains that were stored in the seed to be used up for energy when the seed needed to begin the germination process. A key enzyme that helps break down the starch is a-amylase. And broken down starch in flour will lead to very poor quality bread, cake, or cookie products. Typically when a wheat farm succumbs to bad preharvest sprouting,   
+**a)** they may have to sell their grain for feed because it no longer can be used for food (losing food resources)     
+**b)** this also is tied to having to sell the wheat for a reduced price, because the quality is too low for industry standards (losing $$$)  
 
 ![PHS](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/PHS.jpg?raw=true)  
 
@@ -51,3 +51,4 @@ The Spike Wetting test has a primary goal of seeing if the intact wheat spike ha
 
 
 ---------
+*v2019.03.27*  
