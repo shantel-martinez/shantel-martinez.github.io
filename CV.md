@@ -48,9 +48,9 @@ During this project I studied the characteristics of an ABA hypersensitive mutan
 **Peer Reviewer** 
 Agronomy, Molecular Breeding, Theoretical and Applied Genetics  
 **Future Professors Institute** 2018  
-The focus of the series I attended was: Advancing Diversity in Academia. Skillsets were introduced which include understanding what the search committee is looking for, career plans, research plans, publication plans, negotiating a contract, and starting up your first lab.            
+Theme: Advancing Diversity in Academia. Introduction to understanding what the search committee is looking for, career plans, research plans, publication plans, negotiating a contract, and starting up your first lab.            
 **Director of Professional Development** 2016-2017   
-In addition to my work in the academic field, I’ve also developed numerous skills within my position as Graduate and Professional Student Association (GPSA) Director of Professional Development. In one year, I’ve implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 GPSA senators, and sat on both the Professional Development Initiative and GPSA Executive Board. This role outside of the laboratory has provided me with exceptional soft skills such as communication, collaboration, conflict resolution, leadership, professionalism, and organization.  
+During my PhD, I also spent a year as the Director of Professional Development for the Graduate and Professional Student Association (GPSA) and developed numerous transferable skills in this position. I implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 GPSA senators, and sat on both the Professional Development Initiative and GPSA Executive Board. This role outside of the laboratory provided me with exceptional soft skills such as communication, collaboration, conflict resolution, leadership, professionalism, and organization.  
 
 ### DEPARTMENTAL SERVICES 
 ▪ Corteva Plant Breeding Symposium Committee 2019  
