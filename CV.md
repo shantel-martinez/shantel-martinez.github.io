@@ -62,13 +62,13 @@ In addition to my work in the academic field, I’ve also developed numerous ski
 ▪ WSU Upward Bound Internship Program Volunteer and Recruiter 2009-2015   
 
 ### INVITED TALKS  
-1. Soft Wheat Quality Council Meeting, Apr 23, Raleigh, NC (2019) Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs  
-2. Western Wheat Quality Meeting: Falling Numbers Workshop, Jan 30, Portland, OR (2019) The First Step to Tackling the FN Problem: Identifying Tolerant Genes/QTL in PNW Germplasm
-3. 12th Triennial International Seed Science Society Conference, Sept 14, Monterey, CA (2017) Identification of a Locus Corresponding to the Preharvest Sprouting Tolerance Mutant, ERA8, in Wheat (Triticum aestivum L.)
-4. ASA, CSSA, SSSA International Annual Meeting, Nov 7, Phoenix, AZ (2016) Genome-wide Association Mapping of Preharvest Sprouting in PNW White Winter Wheat  
-5. Plant and Animal Genome Conference, Jan 12, San Diego, CA (2016) Higher Seed Dormancy and ABA Sensitivity Improves Wheat Preharvest Sprouting Tolerance  
-6.  ASA, CSSA, SSSA International Annual Meeting, Nov 4, Tampa, FL (2013) Evaluating Seed Dormancy, Hormone Response, and Pre-Harvest Sprouting Tolerance of an ABA Hypersensitive Mutant Zak ERA8  
-7. WSCS Western Regional Wheat Workers Meeting, Jul 12, Pullman, WA (2012) Evaluating Seed Dormancy and Pre-Harvest Sprouting Resistance of an ABA Hypersensitive Mutant ZakERA0
+1. Soft Wheat Quality Council Meeting, Raleigh, NC (2019) Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs  
+2. Western Wheat Quality Meeting: Falling Numbers Workshop, Portland, OR (2019) The First Step to Tackling the FN Problem: Identifying Tolerant Genes/QTL in PNW Germplasm
+3. 12th Triennial International Seed Science Society Conference, Monterey, CA (2017) Identification of a Locus Corresponding to the Preharvest Sprouting Tolerance Mutant, ERA8, in Wheat (Triticum aestivum L.)
+4. ASA, CSSA, SSSA International Annual Meeting, Phoenix, AZ (2016) Genome-wide Association Mapping of Preharvest Sprouting in PNW White Winter Wheat  
+5. Plant and Animal Genome Conference, San Diego, CA (2016) Higher Seed Dormancy and ABA Sensitivity Improves Wheat Preharvest Sprouting Tolerance  
+6.  ASA, CSSA, SSSA International Annual Meeting, Tampa, FL (2013) Evaluating Seed Dormancy, Hormone Response, and Pre-Harvest Sprouting Tolerance of an ABA Hypersensitive Mutant Zak ERA8  
+7. WSCS Western Regional Wheat Workers Meeting, Pullman, WA (2012) Evaluating Seed Dormancy and Pre-Harvest Sprouting Resistance of an ABA Hypersensitive Mutant ZakERA0
 
 ### PUBLICATIONS  
 1.	Martinez, S.A., Godoy J., Huang M., Zhang Z., Carter A.H., Garland Campbell, K.A., and Steber, C.M. (2018). Genome-Wide Association Mapping for Tolerance to Preharvest Sprouting and Low Falling Numbers in Wheat. Frontiers in Plant Science. 9, 1-16.  
