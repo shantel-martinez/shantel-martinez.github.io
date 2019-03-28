@@ -9,10 +9,10 @@ Shantel’s research career, so far, has been trying to identify genetics contri
 [Resources](./resources.html)  
 
 ----------
-**Simply**  
-> If you've lived in the northeast for a summer, you know how much it can rain in Ju/Aug. My research is looking at what types of fully mature wheat seeds will or will not germinate during a rain event. Hint: we don't want seeds to germinate if we want to make flour later
+### Simply  
+> If you've lived in the northeast for a summer, you know how much it can rain in Jul/Aug. My research is looking at what types of fully mature wheat seeds will or will not germinate during a rain event. Hint: we don't want seeds to germinate if we want to make flour later  
 
-**The Full Story**
+### The Full Story  
 
 Before we can get knees deep into the genetics of my favorite trait, we need to understand the basic mechanisms of preharvest sprouting.  
 
