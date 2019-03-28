@@ -57,7 +57,7 @@ Why does this matter to you? You mean, aside from having the option to walk down
 
 -----
 
-This is where I will end my story for now. The second half of my research is focused on the genes within wheat, trying to understand what genes are the source of PHS tolerance, and using statistical models. Feel free to read about that portion of the project on the [Genetics](./Genetics.html) page.  
+This is where I will end my story for now. The second half of my research is focused on the genes within wheat, trying to understand what genes are the source of PHS tolerance, and using statistical models to make predictions. Feel free to read about that portion of the project on the [Genetics](./Genetics.html) page.  
 
 >> Also, a great resource to view real PNW wheat Falling Numbers data can be found on Dr. Camille Steber's [website](http://steberlab.org/project7599data.php), a project proudly funded by the WA farmers, represented by the WA Grain Commission.  
 
