@@ -2,7 +2,7 @@ S Martinez CV PDF [Download](./SMartinez_CV_Jan2019.pdf)
 
 ## Postdoctoral Fellow in Plant Breeding and Genetics  
 
-Shantel A. Martinez is currently a USDA-NIFA [post-doctorate fellow](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) at Cornell University working in the [Sorrells lab](https://plbrgen.cals.cornell.edu/research-extension/small-grains/personnel/). She is continuing her research focus of improving wheat preharvest sprouting through genomic selection and QTL mapping. Shantel's career aims are to advance and contribute novel genetic research towards the wheat field of study.    
+Shantel A. Martinez is currently a USDA-NIFA [post-doctorate fellow](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) at Cornell University working in the [Sorrells lab](https://plbrgen.cals.cornell.edu/research-extension/small-grains/personnel/). She is continuing her research focus of improving wheat preharvest sprouting through genomic selection and QTL mapping. Shantel's career aims are to discover and contribute novel genetic research within the wheat genome using advanced statistical methods.   
 
 ### EDUCATION
 Ph.D., 2018: Molecular Plant Science, Washington State University, Pullman WA   
@@ -39,6 +39,7 @@ During this project I studied the characteristics of an ABA hypersensitive mutan
 
 ### TEACHING  
 **Effective Teaching Strategies**, CIRTL Massive Open Online Courses. *Student*. Advanced Learning Through Evidence-Bases STEM Teaching. (Sp 2019)  
+**New York HS Science Program**, Cornell University, Ithaca NY. *Mentor*. Fine mapping preharvest sprouting tolerant QTL in wheat on chromosome 2B using the spike-wetting test. WESEF 1st Place. Katherine Robert (Su 2018)  
 **CAHNRS Internship Program**, Washington State University, Pullman WA. *Mentor*. Fine mapping a locus corresponding to the Enhanced Response to Abscisic acid, ERA8, gene of wheat (Triticum aestivum L.). SURCA 1st Place. Samantha Beck (Su 2016- Sp 2017)  
 **LSAMP Internship Program**, Washington State University, Pullman WA. LSAMP *Mentor*. Exploring wheat seed responses to different hormones and incubation temperatures while identifying cultivars susceptible to PHS. SURCA 2nd Place. Dustin Cwuick (Fa 2015 - Sp 2016)  
 **Plant Breeding (CropS 445)**, Washington State University, Pullman WA. *Teaching assistant*. Course Purpose: Understand the genetic principles underlying plant breeding and gain an introduction to the principles and practices of plant breeding. (Sp 2015)  
