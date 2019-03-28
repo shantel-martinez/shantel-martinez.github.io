@@ -27,12 +27,12 @@ If the wheat has already reached that beautiful golden color defining maturity a
 ![PHS](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/PHS.jpg?raw=true)  
 
 Now as a wheat breeder in an area where it is possible for rain to occur around that golden wheat maturity, we want to do our best to make sure the wheat does not germinate while still on the plant in the field, but still has the capacity to germinate if you needed to plant it in the ground for next years crop (its all about balance). There are no common/logistical farming practice where a farmer can 'spray' some sort of solution to prevent sprouting from happening, and fields are way too large to cover the plants with a physical barrier (like a tarp) to prevent the rain from reaching the seed. So that only leaves us with one option: **growing types of wheat, varieties, that are tolerant to sprouting genetically.**    
-> Disclaimer: what I mean by "genetically" is a wheat with natural wheat genes that has some sort of natural internal mechanism that allows the wheat seed to not sprout too early. No inter-species GMOs here. 
+> Disclaimer: what I mean by "genetically" is wheat varieties with natural wheat genes that has some sort of natural internal mechanism that allows the wheat seed to not sprout too early. No inter-species GMOs here, we arent that fancy.   
 
 In order to find genetic tolerance, we need to screen many many types of wheat varieties to determine what is tolerant and what is susceptible.  
 
-#### SCREENING <a id="screen"></a>  
-There are two basic ways to screen for PHS: the Falling Number or Spike Wetting test.  
+#### SCREENING   
+There are two common ways to screen for PHS: the Falling Number or Spike Wetting test.  
 
 The Falling Numbers (FN) test was created in 1964 by Hagberg and Perten with a primary goal of helping millers and bakers corrrect for a-amylase in their flour. Since the FN test was introduced, it has now become the industry standard to test for wheat flour quality when bakers buy flour from millers, when millers buy flour from grain distributers, and when distributers buy grain from the farmers. In a very basic description of the test, you mix flour with water thoroughly, and record how long it takes a probe (metal bar) to drop through the water-flour solution. So the Falling Number is the time, in seconds, it takes for the probe to fall down the tube. Nifty huh! What this is telling you is if you have intact starch molecules, your water-flour solution should be thick like gravy, resulting in a long fall time (High FN). Whereas if you have broken starch molecules, your water-flour solution should be thin like water, resulting in a quick fall time (Low FN).     
 
