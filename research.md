@@ -9,10 +9,14 @@ Shantel’s research career, so far, has been trying to identify genetics contri
 [Resources](./resources.html)  
 
 ----------
+**Simply**  
+> If you've lived in the northeast for a summer, you know how much it can rain in Ju/Aug. My research is looking at what types of fully mature wheat seeds will or will not germinate during a rain event. Hint: we don't want seeds to germinate if we want to make flour later
+
+**The Full Story**
 
 Before we can get knees deep into the genetics of my favorite trait, we need to understand the basic mechanisms of preharvest sprouting.  
 
-Seed dormancy is when a seed in unable to germinate, even under favorable conditions. There are times when we want a seed to germinate, and times when we do not want seeds to germinate, and dormancy helps the latter. A wheat seed reaches its highest level of dormancy at physiological maturity (PM). Dormancy can be lost over a period of time, called after-ripening (typically a couple weeks after PM). Once the whole field of wheat has uniformly matured, farmers go out with a combine to harvest the wheat . The wheat is then sent off to be milled into flour, and bake into your favorite bread, cake, or cookie.   
+Seed dormancy is when a seed in unable to germinate, even under favorable conditions. There are times when we want a seed to germinate, and times when we do not want seeds to germinate, and dormancy helps the latter. A wheat seed reaches its highest level of dormancy at physiological maturity (PM). Dormancy can be lost over a period of time, called after-ripening. Once the whole field of wheat has uniformly matured, farmers go out with a combine to harvest the wheat (typically a couple weeks after PM). The wheat is then sent off to be milled into flour, and bake into your favorite bread, cake, or cookie.   
 
 #### PREHARVEST SPROUTING <a id="PHS"></a>  
 If the wheat has already reached maturity and a rain event were to occur before the farmers could harvest/combine the field, the wheat seeds may sprout, causing **preharvest sprouting** (PHS). When seeds sprout, they break down those beautifully long starch chains for energy to begin the germination process. A key enzyme that helps break down the starch is a-amylase.  And as we can imagine, broken down starch can lead to a very poor quality bread, cake, or cookie products. Typically when a wheat farm succumbs to preharvest sprouting, they either  
