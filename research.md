@@ -17,7 +17,7 @@ Before we can get knees deep into the genetics of my favorite trait / preharvest
 
 When a seed in unable to germinate, even under favorable conditions, the seed is considered dormant. There are times when we want a seed to germinate, and times when we do not want seeds to germinate, and dormancy helps the latter. A wheat seed reaches its highest level of dormancy at physiological maturity (PM). Dormancy can be lost over a period of time, called after-ripening.  
 
-Shifting gears to a wheat farm: Once the entire field of wheat has uniformly matured (the plant is yellow and dry), farmers go out with a combine to harvest the wheat seeds from the dried up plant (typically a couple weeks after physiological maturity). The wheat is then sent off to be milled into flour, and bake into your favorite bread, cake, or cookie.   
+Shifting gears to a wheat farm: Once the entire field of wheat has uniformly matured (the plant is yellow and dry), farmers go out with a combine to harvest the wheat seeds from the dried up plants (typically a couple weeks after physiological maturity). The wheat is then sent off to be milled into flour, and baked into your favorite bread, cake, or cookie.   
 
 #### PREHARVEST SPROUTING   
 If the wheat has already reached that beautiful golden color defining maturity and a rain event were to occur before the farmers could harvest/combine the field, the wheat seeds may germinate (or sprout), causing **preharvest sprouting** (PHS). When seeds sprout, they break down long starch chains that were stored in the seed to be used up for energy when the seed needed to begin the germination process. A key enzyme that helps break down the starch is a-amylase. And broken down starch in flour will lead to very poor quality bread, cake, or cookie products. Typically when a wheat farm succumbs to bad preharvest sprouting,   
@@ -26,7 +26,7 @@ If the wheat has already reached that beautiful golden color defining maturity a
 
 ![PHS](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/PHS.jpg?raw=true)  
 
-Now as a wheat breeder in an area where it is possible for rain to occur around wheat maturity, we want to tackle this problem head on. There are no common farming applications where a farmer can 'spray' some sort of chemical to prevent PHS from happening, and fields are way too large to cover the crop with a physical barrier (like a tarp) to prevent the rain from reaching the seed. So that leaves us with only one option, growing wheat varieties that are tolerant to PHS genetically.  
+Now as a wheat breeder in an area where it is possible for rain to occur around that golden wheat maturity, we want to do our best to make sure the wheat does not germinate while still on the plant in the field, but still has the capacity to germinate if you needed to plant it in the ground for next years crop (its all about balance). There are no common/logistical farming practice where a farmer can 'spray' some sort of solution to prevent sprouting from happening, and fields are way too large to cover the plants with a physical barrier (like a tarp) to prevent the rain from reaching the seed. So that only leaves us with one option: **growing types of wheat, varieties, that are tolerant to sprouting genetically.**    
 
 In order to find genetic tolerance, we need to screen many many types of wheat varieties to determine what is tolerant and what is susceptible.  
 
