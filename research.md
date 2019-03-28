@@ -44,11 +44,16 @@ Alternatively, if the breeder has the resources, one could artificially rain on 
 
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/ScreenPHS.jpg?raw=true)  
 
-The other screening methof for PHS is the Spike Wetting test. This tests' primary goal is to see if the intact wheat spike has the ability to germinate or not when you introduce simulated rain. By intact, I mean the seed is still nezzled inside that plant just as if it would be if it were out in the field during a un-simulated natural rain event.  
+The other screening method for PHS is the spike wetting test. This tests' primary goal is to see **if the intact wheat spike has the ability to germinate or not when you introduce simulated rain**. By intact, I mean the seed is still nezzled inside that plant just as if it would be if it were out in the field during a un-simulated natural rain event.  
 
-As I mentioned above, wheat is its most dormant at physiological maturity, and loses dormancy over time. During the spike-wetting test, we try to take those factors into account.  
+As I mentioned above, wheat is its most dormant at physiological maturity, and loses dormancy over time. During the spike wetting test, we try to take those factors into account. Wheat spikes (the portion of the plant that holds the seeds), are carefully harvested at physiological maturity and recorded as 0 days old. The wheat spikes are then laid out at regular room temperature to age for 5 more days. After the wheat spikes are 5 days old (or also called 5 days after-ripened), they are brought into a misting chamber that uses a sprinkler or mist system to "rain" on the spikes for a period of time. Then each spike is recorded on a 0-9 scale. 0 indicates no visible germination/sprouting is seen on the spike, and 9 indicates 100% visible germination/sprouting is seen on the spike.  
 
+If a breeder wanted to screen their 500 lines 
 
+There are pros and cons to each method of screening, and they are both asking a slightly different questions about preharvest sprouting tolerance. My PhD research looked at both of these methods and you can read the publically available peer-reviewed article [here](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141/full). My current research project is looking at just the spike-wetting test, but 10 years and wheat that was grown at different locations.   
+
+### SO WHAT?  
+Why does this matter to you? You mean, aside from having the option to walk down the street and grab a quick bagel or pick up that birthday cake for your loved ones. Well, if we know what types of wheat do better (as in dont germinate when rained on) in a wet environment like we are trying to find out, the farmers may not lose their crop and be able to feed us all. Consumers, bakers, policy makers may not need to know if farmer John grew wheat that had tolerance to PHS, but if the farmers and the breeders know what wheat has PHS tolerance and which do not, they can make smarter decisions in the farming practice. And that is something we all care about, smart farming (and eating our cake too). 
 
 -----
 
