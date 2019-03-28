@@ -1,6 +1,6 @@
 # Research <a id="top"></a>   
 
-Shantel’s research career, so far, has been trying to identify genes contributing the preharvest sprouting tolerance in wheat. Her PhD work was looking at Pacific Northwest grown wheat, whereas her post-doctoral studies are looking at Northeast grown wheat.      
+Shantel’s research career, so far, has been trying to identify genes contributing the preharvest sprouting tolerance in wheat. Her PhD work was looking at Pacific Northwest grown wheat, whereas her post-doctoral studies are looking at Northeast grown wheat. Shantel's research is currently funded by the USDA National Institute of Food and Agriculture, which require full transparency on the project with yearly updates. View the USDA NIFA portal on this project [here](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK).        
 
 ---------
 
