@@ -28,26 +28,33 @@ If the wheat has already reached that beautiful golden color defining maturity a
 ![PHS](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/PHS.jpg?raw=true)  
 
 Now as a wheat breeder in an area where it is possible for rain to occur around that golden wheat maturity, we want to do our best to make sure the wheat does not germinate while still on the plant in the field, but still has the capacity to germinate if you needed to plant it in the ground for next years crop (its all about balance). There are no common/logistical farming practice where a farmer can 'spray' some sort of solution to prevent sprouting from happening, and fields are way too large to cover the plants with a physical barrier (like a tarp) to prevent the rain from reaching the seed. So that only leaves us with one option: **growing types of wheat, varieties, that are tolerant to sprouting genetically.**    
-> Disclaimer: what I mean by "genetically" is wheat varieties with natural wheat genes that has some sort of natural internal mechanism that allows the wheat seed to not sprout too early. No inter-species GMOs here, we arent that fancy.   
+> Disclaimer: what I mean by "genetically" is wheat varieties with natural wheat genes that has some sort of natural internal mechanism that allows the wheat seed to not sprout too early. No inter-species GMOs here, we aren't that fancy.   
 
 In order to find genetic tolerance, we need to screen many many types of wheat varieties to determine what is tolerant and what is susceptible.  
 
 #### SCREENING   
 There are two common ways to screen for PHS: the Falling Number or Spike Wetting test.  
 
-The Falling Numbers (FN) test was created in 1964 by Hagberg and Perten with a primary goal of helping millers and bakers corrrect for the a-amylase enzyme in their flour. Since the FN test was introduced, it has become the industry standard to test for wheat flour quality when i) bakers buy flour from millers, ii) millers buy flour from grain distributers, and iii) distributers buy grain from the farmers. In a very basic description of the test, you mix flour with water thoroughly, and record how long it takes a probe (just a simple metal bar) to drop through the water-flour solution. So the **Falling Number is the time, in seconds**, it takes for the probe to fall down the tube. Nifty huh! In theory what this is telling you is if **A)** you have intact starch molecules, your water-flour solution should be thick like gravy, resulting in a long fall time (High FN); or **B)** you have broken starch molecules, your water-flour solution should be thin like water, resulting in a quick fall time (Low FN).     
+The Falling Numbers (FN) test was created in 1964 by Hagberg and Perten with a primary goal of helping millers and bakers correct for the a-amylase enzyme in their flour. Since the FN test was introduced, it has become the industry standard to test for wheat flour quality when i) bakers buy flour from millers, ii) millers buy flour from grain distributers, and iii) distributers buy grain from the farmers. In a very basic description of the test, you mix flour with water thoroughly, and record how long it takes a probe (just a simple metal bar) to drop through the water-flour solution. So the **Falling Number is the time, in seconds**, it takes for the probe to fall down the tube. Nifty huh! In theory what this is telling you is if **A)** you have intact starch molecules, your water-flour solution should be thick like gravy, resulting in a long fall time (High FN); or **B)** you have broken starch molecules, your water-flour solution should be thin like water, resulting in a quick fall time (Low FN).     
 
 Millers, bakers, distributors, and so on, all along the industry food chain, have deep historical knowledge of what sort of product they can make from flour that has X, Y, or Z Falling Number values. This deep institutional knowledge is a great resource when buying and selling flour. However it is also a barrier if the industry wishes to change the test (because you need to make drastic changes at every level of the industry).  
 
+If a breeder wanted to screen for PHS tolerance and susceptibility over a large number of wheat varieties, lets say... 500, then they would need to wait for mother nature to rain on those 500 wheat varieties naturally, after maturity, harvest the 500 lines, and run FN tests on all 500 lines to determine which varieties landed in the category of broken starch (low FN), intact starch (high FN), or somewhere in between. 
+Alternatively, if the breeder has the resources, one could artificially rain on the field to mimic a natural rain event, and then screen the 500 lines with the FN test.  
+
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/ScreenPHS.jpg?raw=true)  
 
-The Spike Wetting test has a primary goal of seeing if the intact wheat spike has the ability to germinate or not when you introduce simulated rain.  
+The other screening methof for PHS is the Spike Wetting test. This tests' primary goal is to see if the intact wheat spike has the ability to germinate or not when you introduce simulated rain. By intact, I mean the seed is still nezzled inside that plant just as if it would be if it were out in the field during a un-simulated natural rain event.  
+
+As I mentioned above, wheat is its most dormant at physiological maturity, and loses dormancy over time. During the spike-wetting test, we try to take those factors into account.  
+
+
 
 -----
 
 This is where I will end my story for now. The second half of my research is focused on the genes within wheat, trying to understand what genes are the source of PHS tolerance, and using statistical models. Feel free to read about that portion of the project on the [Genetics](./Genetics.html) page.  
 
->> Also, a great resource to view real PNW wheat Falling Numbers data can be found on Dr. Camille Steber's [website](http://steberlab.org/project7599data.php), a project proudly funded by the WA Grain Commission.  
+>> Also, a great resource to view real PNW wheat Falling Numbers data can be found on Dr. Camille Steber's [website](http://steberlab.org/project7599data.php), a project proudly funded by the WA farmers, represented by the WA Grain Commission.  
 
 
 ---------
