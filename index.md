@@ -6,12 +6,12 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 {::options parse_block_html="false" /}
 Summary of [Wheat PHS genes](./resources.html) and their physical positions  
 
-I will be speaking at the Soft Wheat Quality Meeting April 23rd in Raleigh, NC. I will also post my slide deck here closer to the presentation date. 
+I will be speaking at the Soft Wheat Quality Meeting April 23rd in Raleigh, NC. I will also post my slide deck here closer to the presentation date.  
 <div class="center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Abstract submitted for the Eastern Soft Wheat QC! My first official talk on this post-doctoral project (lab meetings and collaborator meetings never count haha).<br><br>Will I see any of my twitter wheat folks in Raleigh, NC?</p>&mdash; Shantel A. Martinez (@s_amealia) <a href="https://twitter.com/s_amealia/status/1104150574696681472?ref_src=twsrc%5Etfw">March 8, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+After taking the #Comm5660 course on science communication, my brain was saturated with methods and theories. Follow the twitter hashtag to see what the other students thought:   
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">By using the word &#39;genetics&#39; I was trying to simplify GWAS, genomic selection and QTL mapping, into a generalization and it was perceived a different way than I expected.<br>I expected: DNA/genes/difference between two samples <br><br>(Something I need to remember!)</p>&mdash; Shantel A. Martinez (@s_amealia) <a href="https://twitter.com/s_amealia/status/1101891094277697536?ref_src=twsrc%5Etfw">March 2, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
