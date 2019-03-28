@@ -2,6 +2,18 @@
 
 Welcome to my hub of wheat science resources, links to presentations, CV, and basic info on all the ways to contact me.  
 
+### To find out more about my work:  
+[Research](./research.html)<br/>
+[Outreach](./outreach.html)<br/>
+[Mentoring](./mentoring.html)<br/>
+
+---------
+[CV](./CV.html) *Updated Mar 2019*   
+[R Protocols](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/R%20Protocols.ipynb?flush_cache=true)  
+[Lab Protocols](https://nbviewer.jupyter.org/github/shantel-martinez/Lab_Resources/blob/master/Lab%20Protocols.ipynb)   
+
+---------
+
 ### Current Resources:  
 {::options parse_block_html="false" /}
 Summary of [Wheat PHS genes](./resources.html) and their physical positions  
@@ -16,18 +28,6 @@ After taking the #Comm5660 course on science communication, my brain was saturat
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
----------
-
-### To find out more about Shantel's work:  
-[Research](./research.html)<br/>
-[Outreach](./outreach.html)<br/>
-[Mentoring](./mentoring.html)<br/>
-
----------
-[R Protocols](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/R%20Protocols.ipynb?flush_cache=true)  
-[Lab Protocols](https://nbviewer.jupyter.org/github/shantel-martinez/Lab_Resources/blob/master/Lab%20Protocols.ipynb)   
-[CV](./CV.html) *Updated Jan 2019*   
-
 ---------
 
 ### Contact   
