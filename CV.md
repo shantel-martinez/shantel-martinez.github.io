@@ -37,7 +37,7 @@ During this project I studied the characteristics of an ABA hypersensitive mutan
 ▪ ASPB Plant Biology Travel Grant 2014  
 ▪ Distinguished Research Assistantship for Diverse Scholars 2013-2014  
 
-### TEACHING  
+### TEACHING & MENTORING  
 **Effective Teaching Strategies**, CIRTL Massive Open Online Courses. *Student*. Advanced Learning Through Evidence-Bases STEM Teaching. (Sp 2019)  
 **New York HS Science Program**, Cornell University, Ithaca NY. *Mentor*. Fine mapping preharvest sprouting tolerant QTL in wheat on chromosome 2B using the spike-wetting test. WESEF 1st Place. Katherine Robert (Su 2018)  
 **CAHNRS Internship Program**, Washington State University, Pullman WA. *Mentor*. Fine mapping a locus corresponding to the Enhanced Response to Abscisic acid, ERA8, gene of wheat (Triticum aestivum L.). SURCA 1st Place. Samantha Beck (Su 2016- Sp 2017)  
@@ -72,8 +72,15 @@ During my PhD, I also spent a year as the Director of Professional Development f
 6.  ASA, CSSA, SSSA International Annual Meeting, Tampa, FL (2013) Evaluating Seed Dormancy, Hormone Response, and Pre-Harvest Sprouting Tolerance of an ABA Hypersensitive Mutant Zak ERA8  
 7. WSCS Western Regional Wheat Workers Meeting, Pullman, WA (2012) Evaluating Seed Dormancy and Pre-Harvest Sprouting Resistance of an ABA Hypersensitive Mutant ZakERA0  
 #### OUTREACH - *Non-Technical Audiences*  
-
-
+1. Small Grains Field Days (2018) Presenter on Wheat PHS   
+2. Grow NYC Variety Showcase (2018) Wheat Breeder Station     
+3. MPS Plant Science Day (2018) Wheat Breeding Station     
+4. WSU Extension Wheat Academy Workshop (2016) PHS Session    
+5. WSU Cougar Quest Workshop (2014, 2015) Plant Science   
+6. LSAMP End of the Year Banquet Keynote Speaker (2014) Careers in STEM   
+7. Sunnyside Elementary School Career Day Workshop (2012) Plant Science Session    
+8. Moscow Charter School Plant Science Lecture (2012) Plant Science Session    
+9.	Future Cougars of Color Plant Science Workshop (2012) Plant Science Session    
 
 ### PUBLICATIONS  
 1.	Martinez, S.A., Godoy J., Huang M., Zhang Z., Carter A.H., Garland Campbell, K.A., and Steber, C.M. (2018). Genome-Wide Association Mapping for Tolerance to Preharvest Sprouting and Low Falling Numbers in Wheat. Frontiers in Plant Science. 9, 1-16.  
