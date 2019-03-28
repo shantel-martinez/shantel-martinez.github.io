@@ -70,7 +70,7 @@ During my PhD, I also spent a year as the Director of Professional Development f
 4. ASA, CSSA, SSSA International Annual Meeting, Phoenix, AZ (2016) Genome-wide Association Mapping of Preharvest Sprouting in PNW White Winter Wheat  
 5. Plant and Animal Genome Conference, San Diego, CA (2016) Higher Seed Dormancy and ABA Sensitivity Improves Wheat Preharvest Sprouting Tolerance  
 6.  ASA, CSSA, SSSA International Annual Meeting, Tampa, FL (2013) Evaluating Seed Dormancy, Hormone Response, and Pre-Harvest Sprouting Tolerance of an ABA Hypersensitive Mutant Zak ERA8  
-7. WSCS Western Regional Wheat Workers Meeting, Pullman, WA (2012) Evaluating Seed Dormancy and Pre-Harvest Sprouting Resistance of an ABA Hypersensitive Mutant ZakERA0  
+7. WSCS Western Regional Wheat Workers Meeting, Pullman, WA (2012) Evaluating Seed Dormancy and Pre-Harvest Sprouting Resistance of an ABA Hypersensitive Mutant ZakERA0   
 #### OUTREACH - *Non-Technical Audiences*  
 1. Small Grains Field Days (2018) Presenter on Wheat PHS   
 2. Grow NYC Variety Showcase (2018) Wheat Breeder Station     
