@@ -3,7 +3,7 @@
 Welcome to my hub of wheat science resources, links to presentations, CV, and basic info on all the ways to contact me.  
 
 ### Find Out More:  
-[Research](./research.html)<br/>
+[Research Background](./research.html)<br/>
 [Current Projects](./objectives.html)<br/>
 [Outreach](./outreach.html)<br/>
 [Mentoring](./mentoring.html)<br/>
