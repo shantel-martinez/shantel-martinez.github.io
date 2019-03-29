@@ -19,7 +19,7 @@
 ----------
 ### Fine-Map and Confirm a Candidate Dormancy Gene(s)    
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/MappingCayuga.PNG?raw=true)  
-[Question] What gene(s) influence(s) PHS tolerance that the breeders and farmers see in the soft white wheat, Cayuga?  
+[Question] What gene(s) influence PHS tolerance that the breeders and farmers see in the soft white wheat, Cayuga?  
 
 [Why] If a perfect marker is created, breeders can use this wheat variety + the marker to introgress this PHS tolerant gene into their favorite wheat (that may happen to grow well in their region, but is PHS susceptible).    
 
