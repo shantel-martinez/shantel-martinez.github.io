@@ -10,16 +10,18 @@
 
 ## Current Projects  
 ### Genomic Selection for PHS Tolerance   
-![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/GS_PC.PNG?raw=true)  
-#### Looking specifically at Northeast wheat varieties, can we develop a model to predict if a wheat variety will be PHS tolerant or susceptible based on the genetics of each?  
+![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/GS_PC.PNG?raw=true)   
+Looking specifically at Northeast wheat varieties, can we develop a model to predict if a wheat variety will be PHS tolerant or susceptible based on the genetics of each?  
 
+----------
 ### Fine-Map and Confirm Candidate a Dormancy Gene    
 ![]()  
-#### What gene is influencing PHS tolerance that the breeders and farmers see in the soft white wheat, Cayuga?  
+What gene is influencing PHS tolerance that the breeders and farmers see in the soft white wheat, Cayuga?  
 
+----------
 ### Endogenous Hormone Levels of Dormant Wheat  
-![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/Hormone_TugofWar.PNG?raw=true)  
-#### Are there differences in natural plant hormone levels inside the wheat seed that have a dormancy gene compared to others that do not?  
+![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/Hormone_TugofWar.PNG?raw=true)   
+Are there differences in natural plant hormone levels inside the wheat seed that have a dormancy gene compared to others that do not?   
 
 ----------
 
