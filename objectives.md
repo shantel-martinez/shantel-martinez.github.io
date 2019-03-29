@@ -12,7 +12,7 @@
 ### Genomic Selection for PHS Tolerance   
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/GS_PC.PNG?raw=true)   
 Looking specifically at Northeast wheat varieties, can we develop a model to predict if a wheat variety will be PHS tolerant or susceptible based on the genetics of each?  
-
+[Revelance] 
 ----------
 ### Fine-Map and Confirm a Candidate Dormancy Gene(s)    
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/MappingCayuga.PNG?raw=true)  
