@@ -14,7 +14,7 @@
 Looking specifically at Northeast wheat varieties, can we develop a model to predict if a wheat variety will be PHS tolerant or susceptible based on the genetics of each?  
 
 ----------
-### Fine-Map and Confirm Candidate a Dormancy Gene    
+### Fine-Map and Confirm a Candidate Dormancy Gene(s)    
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/MappingCayuga.PNG?raw=true)  
 What gene(s) influence(s) PHS tolerance that the breeders and farmers see in the soft white wheat, Cayuga?  
 
