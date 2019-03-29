@@ -9,15 +9,15 @@
 ----------
 
 ### Current Projects  
-Genomic Selection for PHS Tolerance   
+##### Genomic Selection for PHS Tolerance   
 ![]()  
 Can we develop a model to predict if a wheat variety will be PHS tolerant or susceptible based on the genetics of each variety?  
 
-Fine-Map and Confirm Candidate a Dormancy Gene    
+##### Fine-Map and Confirm Candidate a Dormancy Gene    
 ![]()  
 What gene is influencing PHS tolerance that the breeders and farmers see in the soft white wheat, Cayuga?  
 
-Endogenous Hormone Levels of Dormant Wheat  
+##### Endogenous Hormone Levels of Dormant Wheat  
 ![]()  
 Are there differences in natural plant hormone levels inside the wheat seed that have a dormancy gene compared to others that do not?  
 
