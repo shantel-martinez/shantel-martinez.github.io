@@ -15,7 +15,7 @@ Looking specifically at Northeast wheat varieties, can we develop a model to pre
 
 ----------
 ### Fine-Map and Confirm Candidate a Dormancy Gene    
-![]()  
+![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/MappingCayuga.PNG?raw=true)  
 What gene is influencing PHS tolerance that the breeders and farmers see in the soft white wheat, Cayuga?  
 
 ----------
