@@ -3,6 +3,7 @@
 ---------
 
 [Background](./research.html)  
+[Genetics](./Genetics.html)  
 [Objectives]()  
 [Resources](./resources.html)  
 
