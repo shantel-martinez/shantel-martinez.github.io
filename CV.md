@@ -100,4 +100,5 @@ Email: [sam594@cornell.edu](mailto:sam594@cornell.edu) or [shantel.a.martinez@gm
 Twitter: [s_amealia](https://twitter.com/s_amealia)    
 Google Scholar: [publications](https://scholar.google.com/citations?user=70kEKNsAAAAJ&hl=en&oi=ao)   
 LinkedIn: [shantel-a-martinez](https://www.linkedin.com/in/shantel-a-martinez/)    
-Github: [shantel-a-martinez](https://github.com/shantel-martinez?tab=repositories)  
+Github: [shantel-martinez](https://github.com/shantel-martinez?tab=repositories)  
+Website: [shantel-martinez.github.io](shantel-martinez.github.io)  
