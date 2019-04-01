@@ -32,8 +32,11 @@
 
 ----------
 
-## USDA NIFA [Fellowship Project](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) Outline
-*The same three current projects, written in a different format*
+## USDA NIFA Fellowship Project Outline
+*The same three current projects, written in a different format*  
+ 
+### TO GERMINATE, OR NOT TO GERMINATE: IMPROVING PREHARVEST SPROUTING TOLERANCE IN WHEAT  
+PROPOSAL NO: [2017-07109](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK)
 
 ### Non-Technical Summary  
 Preharvest sprouting (PHS), the germination of seed on the mother plant under cool and wet conditions, is a reoccurring problem for wheat farmers worldwide. PHS susceptibility can lead to degradation of starch granules which results in poor quality bread and cakes. PHS susceptibility is associated with lower seed dormancy. Seed dormancy is regulated by plant hormones such as Abscisic acid (ABA) which stimulates seed dormancy, whereas gibberellins (GAs) stimulate seed germination. This post-doctoral research projects' goal is to establish a competitive independent research program that expands the knowledge of PHS tolerance with an applicable approach that will directly benefit the Nation's wheat industry. Objective 1 proposes to resolve candidate genes through fine mapping and confirm the PHS tolerant gene found in a northwest cultivar, Cayuga. Objective 2 will characterize the Cayuga dormancy gene through seed hormone profiling of ABA, GA, and GA precursors along. Objective 3 will evaluate a panel of 1,128 white winter wheat cultivars and elite breeding lines for PHS tolerant loci using genome-wide association mapping and genomic selection. Novel loci accompanied by an accurate Cayuga dormancy locus identified in this study can improve PHS tolerance in any breeding program through marker assisted selection.  
