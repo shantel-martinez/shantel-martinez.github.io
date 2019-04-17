@@ -9,7 +9,7 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 [Outreach](./outreach.html)<br/>
 
 ---------
-[CV](./CV.html) *Updated Mar 2019*   
+[CV](./CV.html)    
 [Talks](./talks.html)  
 [R Protocols](./Rmd Protocols/R Protocols.html)   
 [Lab Protocols](./Rmd Protocols/Lab Protocols.html)    
