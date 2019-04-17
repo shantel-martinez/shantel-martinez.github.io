@@ -6,7 +6,7 @@
 Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs [PDF](./Presentations/SMartinez PHS SWQC 2019.pdf)  
 
 **Falling Numbers Workshop** Jan 29, 2019  
-The First Step to Tackling the FN Problem: Identifying PHS Tolerant Genes/QTL in PNW Germplasm [PDF](./Presentations/SMartinez FN Workshop 2019.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [PDF + Notes](./Presentations/SMartinez FN Workshop 2019 plus notes.pdf)  
+The First Step to Tackling the FN Problem: Identifying PHS Tolerant Genes/QTL in PNW Germplasm [PDF](./Presentations/SMartinez FN Workshop 2019.pdf) &nbsp;&nbsp;&nbsp;&nbsp;  [PDF + Notes](./Presentations/SMartinez FN Workshop 2019 plus notes.pdf)  
 
 ## Archived   
 **Plant and Animal Genome Conference** Jan, 2018  
