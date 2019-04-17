@@ -25,43 +25,6 @@ Identify novel loci contributing to PHS and drought tolerance in wheat (*Triticu
 *2011 - 2013* | *Washington State University*   
 During this project I studied the characteristics of an ABA hypersensitive mutant, *Zak ERA8*. Wild-type and mutant endogenous hormone levels within the seed were compared as well as the germination response in the presence and absence of exogenously applied hormones ABA and GA (Martinez et al., 2016). Segregation analysis, preharvest sprouting trials, agronomic and end-use quality traits were also compared between wild type and mutant (Martinez et al., 2014). Skills were refined in SAS and hormone seed biology.   
 
-### AWARDS & FUNDING 
-▪ NIFA-AFRI Education and Literacy Initiative [Grant](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) 2018-2020   
-▪ International Seed Science Society Conference Travel Grant 2017   
-▪ Research Assistantship - AFRI-NIFA Plant Breeding Grant 2016-2017  
-▪ GPSA Senator Excellence Award 2015-2016  
-▪ GPSA Research Expo - Agriculture & Natural Science 1st place 2016  
-▪ Crop and Soil Science Department Travel Grant 2016 
-▪ Teaching Assistantship for Plant Breeding 2015    
-▪ Lindahl Memorial Scholarship 2014-2015  
-▪ ASPB Plant Biology Travel Grant 2014  
-▪ Distinguished Research Assistantship for Diverse Scholars 2013-2014  
-
-### TEACHING & MENTORING  
-**Effective Teaching Strategies**, CIRTL Massive Open Online Courses. *Student*. Advanced Learning Through Evidence-Bases STEM Teaching. (Sp 2019)  
-**New York HS Science Program**, Cornell University, Ithaca NY. *Mentor*. Fine mapping preharvest sprouting tolerant QTL in wheat on chromosome 2B using the spike-wetting test. WESEF 1st Place. Katherine Robert (Su 2018)  
-**CAHNRS Internship Program**, Washington State University, Pullman WA. *Mentor*. Fine mapping a locus corresponding to the Enhanced Response to Abscisic acid, ERA8, gene of wheat (Triticum aestivum L.). SURCA 1st Place. Samantha Beck (Su 2016- Sp 2017)  
-**LSAMP Internship Program**, Washington State University, Pullman WA. LSAMP *Mentor*. Exploring wheat seed responses to different hormones and incubation temperatures while identifying cultivars susceptible to PHS. SURCA 2nd Place. Dustin Cwuick (Fa 2015 - Sp 2016)  
-**Plant Breeding (CropS 445)**, Washington State University, Pullman WA. *Teaching assistant*. Course Purpose: Understand the genetic principles underlying plant breeding and gain an introduction to the principles and practices of plant breeding. (Sp 2015)  
-**Graduate Teaching Workshop**, Washington State University, Pullman WA. *Attendee*. Session titles “Leadership in Science Instruction” and “Teaching Large Classes: Challenges and Tips”. (Sp 2014)  
-
-### PROFESSIONAL DEVELOPMENT
-**Peer Reviewer** 
-Agronomy, Molecular Breeding, Theoretical and Applied Genetics  
-**Future Professors Institute** 2018  
-Theme: Advancing Diversity in Academia. Introduction to understanding what the search committee is looking for, career plans, research plans, publication plans, negotiating a contract, and starting up your first lab.            
-**Director of Professional Development** 2016-2017   
-During my PhD, I also spent a year as the Director of Professional Development for the Graduate and Professional Student Association (GPSA) and developed numerous transferable skills in this position. I implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 GPSA senators, and sat on both the Professional Development Initiative and GPSA Executive Board. This role outside of the laboratory provided me with exceptional soft skills such as communication, collaboration, conflict resolution, leadership, professionalism, and organization.  
-
-### DEPARTMENTAL SERVICES 
-▪ Corteva Plant Breeding Symposium Committee 2019  
-▪ Molecular Plant Sciences (MPS) Annual Recruitment Symposium Presenter 2017   
-▪ GPSA Director of Professional Development 2016-2017  
-▪ GPSA MPS Senator 2015-2016  
-▪ Molecular Plant Science GSO Vice President 2014-2015  
-▪ Molecular Plant Science Student Seminar Coordinating Committee 2013-2014, 2015-2016  
-▪ WSU Upward Bound Internship Program Volunteer and Recruiter 2009-2015   
-
 ### COMMUNICATION  
 #### INVITED TALKS - *Technical Audiences*  
 1. Soft Wheat Quality Council Meeting, Raleigh, NC (2019) Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs  
@@ -82,6 +45,43 @@ During my PhD, I also spent a year as the Director of Professional Development f
 7. Sunnyside Elementary School Career Day Workshop (2012) Plant Science Session    
 8. Moscow Charter School Plant Science Lecture (2012) Plant Science Session    
 9.	Future Cougars of Color Plant Science Workshop (2012) Plant Science Session    
+
+### TEACHING & MENTORING  
+**Effective Teaching Strategies**, CIRTL Massive Open Online Courses. *Student*. Advanced Learning Through Evidence-Bases STEM Teaching. (Sp 2019)  
+**New York HS Science Program**, Cornell University, Ithaca NY. *Mentor*. Fine mapping preharvest sprouting tolerant QTL in wheat on chromosome 2B using the spike-wetting test. WESEF 1st Place. Katherine Robert (Su 2018)  
+**CAHNRS Internship Program**, Washington State University, Pullman WA. *Mentor*. Fine mapping a locus corresponding to the Enhanced Response to Abscisic acid, ERA8, gene of wheat (Triticum aestivum L.). SURCA 1st Place. Samantha Beck (Su 2016- Sp 2017)  
+**LSAMP Internship Program**, Washington State University, Pullman WA. LSAMP *Mentor*. Exploring wheat seed responses to different hormones and incubation temperatures while identifying cultivars susceptible to PHS. SURCA 2nd Place. Dustin Cwuick (Fa 2015 - Sp 2016)  
+**Plant Breeding (CropS 445)**, Washington State University, Pullman WA. *Teaching assistant*. Role: grading, substitute lecture (2x), assist during activities, help students during office hours, provide exam review sessions. Course Purpose: Understand the genetic principles underlying plant breeding and gain an introduction to the principles and practices of plant breeding. Class Size: 15-25 students (Sp 2015)  
+**Graduate Teaching Workshop**, Washington State University, Pullman WA. *Attendee*. Session titles “Leadership in Science Instruction” and “Teaching Large Classes: Challenges and Tips”. (Sp 2014)  
+
+### AWARDS & FUNDING 
+▪ NIFA-AFRI Education and Literacy Initiative [Grant](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) 2018-2020   
+▪ International Seed Science Society Conference Travel Grant 2017   
+▪ Research Assistantship - AFRI-NIFA Plant Breeding Grant 2016-2017  
+▪ GPSA Senator Excellence Award 2015-2016  
+▪ GPSA Research Expo - Agriculture & Natural Science 1st place 2016  
+▪ Crop and Soil Science Department Travel Grant 2016 
+▪ Teaching Assistantship for Plant Breeding 2015    
+▪ Lindahl Memorial Scholarship 2014-2015  
+▪ ASPB Plant Biology Travel Grant 2014  
+▪ Distinguished Research Assistantship for Diverse Scholars 2013-2014  
+
+### PROFESSIONAL DEVELOPMENT
+**Peer Reviewer** 
+Agronomy, Molecular Breeding, Theoretical and Applied Genetics  
+**Future Professors Institute** 2018  
+Theme: Advancing Diversity in Academia. Introduction to understanding what the search committee is looking for, career plans, research plans, publication plans, negotiating a contract, and starting up your first lab.            
+**Director of Professional Development** 2016-2017   
+During my PhD, I also spent a year as the Director of Professional Development for the Graduate and Professional Student Association (GPSA) and developed numerous transferable skills in this position. I implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 GPSA senators, and sat on both the Professional Development Initiative and GPSA Executive Board. This role outside of the laboratory provided me with exceptional soft skills such as communication, collaboration, conflict resolution, leadership, professionalism, and organization.  
+
+### DEPARTMENTAL SERVICES 
+▪ Corteva Plant Breeding Symposium Committee 2019  
+▪ Molecular Plant Sciences (MPS) Annual Recruitment Symposium Presenter 2017   
+▪ GPSA Director of Professional Development 2016-2017  
+▪ GPSA MPS Senator 2015-2016  
+▪ Molecular Plant Science GSO Vice President 2014-2015  
+▪ Molecular Plant Science Student Seminar Coordinating Committee 2013-2014, 2015-2016  
+▪ WSU Upward Bound Internship Program Volunteer and Recruiter 2009-2015   
 
 ### PUBLICATIONS  
 1.	Martinez, S.A., Godoy J., Huang M., Zhang Z., Carter A.H., Garland Campbell, K.A., and Steber, C.M. (2018). Genome-Wide Association Mapping for Tolerance to Preharvest Sprouting and Low Falling Numbers in Wheat. Frontiers in Plant Science. 9, 1-16.  
