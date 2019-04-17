@@ -54,6 +54,14 @@ During this project I studied the characteristics of an ABA hypersensitive mutan
 **Plant Breeding (CropS 445)**, Washington State University, Pullman WA. *Teaching assistant*. Role: grading, substitute lecture (2x), assist during activities, help students during office hours, provide exam review sessions. Course Purpose: Understand the genetic principles underlying plant breeding and gain an introduction to the principles and practices of plant breeding. Class Size: 15-25 students (Sp 2015)  
 **Graduate Teaching Workshop**, Washington State University, Pullman WA. *Attendee*. Session titles “Leadership in Science Instruction” and “Teaching Large Classes: Challenges and Tips”. (Sp 2014)  
 
+### PROFESSIONAL DEVELOPMENT
+**Peer Reviewer** 
+Agronomy, Molecular Breeding, Theoretical and Applied Genetics  
+**Future Professors Institute** 2018  
+Theme: Advancing Diversity in Academia. Introduction to understanding what the search committee is looking for, career plans, research plans, publication plans, negotiating a contract, and starting up your first lab.            
+**Director of Professional Development** 2016-2017   
+During my PhD, I also spent a year as the Director of Professional Development for the Graduate and Professional Student Association (GPSA) and developed numerous transferable skills in this position. I implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 GPSA senators, and sat on both the Professional Development Initiative and GPSA Executive Board. This role outside of the laboratory provided me with exceptional soft skills such as communication, collaboration, conflict resolution, leadership, professionalism, and organization.  
+
 ### AWARDS & FUNDING 
 ▪ NIFA-AFRI Education and Literacy Initiative [Grant](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) 2018-2020   
 ▪ International Seed Science Society Conference Travel Grant 2017   
@@ -65,14 +73,6 @@ During this project I studied the characteristics of an ABA hypersensitive mutan
 ▪ Lindahl Memorial Scholarship 2014-2015  
 ▪ ASPB Plant Biology Travel Grant 2014  
 ▪ Distinguished Research Assistantship for Diverse Scholars 2013-2014  
-
-### PROFESSIONAL DEVELOPMENT
-**Peer Reviewer** 
-Agronomy, Molecular Breeding, Theoretical and Applied Genetics  
-**Future Professors Institute** 2018  
-Theme: Advancing Diversity in Academia. Introduction to understanding what the search committee is looking for, career plans, research plans, publication plans, negotiating a contract, and starting up your first lab.            
-**Director of Professional Development** 2016-2017   
-During my PhD, I also spent a year as the Director of Professional Development for the Graduate and Professional Student Association (GPSA) and developed numerous transferable skills in this position. I implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 GPSA senators, and sat on both the Professional Development Initiative and GPSA Executive Board. This role outside of the laboratory provided me with exceptional soft skills such as communication, collaboration, conflict resolution, leadership, professionalism, and organization.  
 
 ### DEPARTMENTAL SERVICES 
 ▪ Corteva Plant Breeding Symposium Committee 2019  
