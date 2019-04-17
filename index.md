@@ -5,8 +5,8 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 ### Find Out More:  
 [Research Background](./research.html)<br/>
 [Current Projects](./objectives.html)<br/>
-[Outreach](./outreach.html)<br/>
 [Mentoring](./mentoring.html)<br/>
+[Outreach](./outreach.html)<br/>
 
 ---------
 [CV](./CV.html) *Updated Mar 2019*   
