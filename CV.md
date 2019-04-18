@@ -4,28 +4,31 @@ S Martinez CV PDF [Download](./CV/SMartinez_CV_Mar2019.pdf)
 
 ## Postdoctoral Fellow in Plant Breeding and Genetics  
 
-Shantel A. Martinez is currently a USDA-NIFA [post-doctorate fellow](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) at Cornell University working in the [Sorrells lab](https://plbrgen.cals.cornell.edu/research-extension/small-grains/personnel/). She is continuing her research focus of improving wheat preharvest sprouting through genomic selection and QTL mapping. Shantel's career aims are to discover and contribute novel genetic research within the wheat genome using advanced statistical methods.   
+Shantel A. Martinez is currently a [USDA-NIFA](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) post-doctorate fellow at Cornell University working in the [Sorrells lab](https://plbrgen.cals.cornell.edu/research-extension/small-grains/personnel/). My career focuses on contributing novel genetic research within agriculture using advanced statistical methods while maintaining direct application towards helping farmers.  I strongly believe in being able to [communicate](https://shantel-martinez.github.io/outreach.html) science to non-scientists, [mentoring](https://shantel-martinez.github.io/mentoring.html) young scientists and peers, along with cultivating a [collaborative work environment](https://shantel-martinez.github.io/Rmd%20Protocols/R%20Protocols.html) as career priorities.      
 
 ### EDUCATION
-Ph.D., 2018: Molecular Plant Science, Washington State University, Pullman WA   
-M.S., 2013: Crop Science, Washington State University, Pullman WA  
-B.S., 2011: Bioengineering, Washington State University, Pullman WA  
+Ph.D., 2018: [Molecular Plant Science](https://mps.wsu.edu/), Washington State University, Pullman WA   
+M.S., 2013: [Crop Science](http://css.wsu.edu/), Washington State University, Pullman WA  
+B.S., 2011: [Bioengineering](https://voiland.wsu.edu/), Washington State University, Pullman WA    
 
 ### RESEARCH EXPERIENCE 
 **Wheat Molecular Genetics in Preharvest Sprouting**    
 Dr. Mark E. Sorrells Lab  
 *May 2018 - Present* | *Cornell University*    
-Increasing preharvest sprouting (PHS) tolerance through genome-wide association study of PHS traits followed by producing genomic selection models for Northeast wheat germplasm. In tandem, characterization of a dormant QTL will be done through endogenous seed hormone profiling. The end goal is to fine map the dormant QTL and confirm a candidate dormancy gene(s). Skills in computational genetics, comprehensive markdown and git use, tissue regeneration, and LCMS biochemistry are being obtained.   
+RESEARCH: Increasing preharvest sprouting (PHS) tolerance through a genome-wide association study of PHS traits followed by producing genomic prediction models for 1,353 Northeast wheat cultivars and breeding germplasm using 11k genotyping-by-sequencing markers. In tandem, I am characterizing a PHS tolerant QTL through endogenous seed hormone profiling. The end goal is to fine map the dormant QTL and confirm a candidate dormancy gene for breeders to directly use for improving preharvest sprouting tolerance.   
+SKILLS: Computational genetics, comprehensive R and git version control, genomic prediction using ridge and Bayesian regression models, basic python and bash, electronic lab notebook techniques   
 
 **Improving Germplasm Resources for the PNW**  
 Dr. Camille M. Steber  and Dr. Kimberly Garland Campbell Labs  
 *2013 - 2018* | *Washington State University*   
-Identify novel loci contributing to PHS and drought tolerance in wheat (*Triticum aestivum* L.) with an emphasis on the role of the plant hormone ABA (abscisic acid) in controlling these processes. This was done by identify loci providing PHS tolerance in northwest germplasm through association mapping of spike-wetting tests and falling number traits (Martinez et al., 2018a). I also mapped an ABA hypersensitive mutant, *ERA8*, locus that also causes a PHS tolerance phenotype through conducting linkage analysis in a RIL population along with bulk segregation analysis to fine map *ERA8* in a backcross population with wild-type (*manuscript in preparation*). And finally, I produced a drought tolerant mapping population between two PNW soft white spring wheat cultivars (Martinez et al., 2018b). Skills in comprehensive R use, large-scale field experiment coordination, manuscript preparation, KASP marker system, and mutation genetics were also acquired.    
+RESEARCH: Identified novel loci contributing to wheat PHS tolerance in 469 Northwest germplasm through association mapping of spike-wetting test and falling number traits (Martinez et al., 2018a). Fine mapped an ABA hypersensitive mutant locus that also caused a PHS tolerant phenotype through conducting bulk-segregant exome-capture analysis in a backcross population (*manuscript in preparation*). Produced a drought tolerant mapping population between two Northwest soft white wheat cultivars (Martinez et al., 2018b).   
+SKILLS: Comprehensive markdown use, large-scale field data collection and coordination, manuscript preparation, applied plant breeding, quality R data visualization and slide design, mutation genetics  
 
 **Investigating an ABA Hypersensitive Mutant**  
  Dr. Camille M. Steber and Dr. Arron H. Carter Labs   
 *2011 - 2013* | *Washington State University*   
-During this project I studied the characteristics of an ABA hypersensitive mutant, *Zak ERA8*. Wild-type and mutant endogenous hormone levels within the seed were compared as well as the germination response in the presence and absence of exogenously applied hormones ABA and GA (Martinez et al., 2016). Segregation analysis, preharvest sprouting trials, agronomic and end-use quality traits were also compared between wild type and mutant (Martinez et al., 2014). Skills were refined in SAS and hormone seed biology.   
+RESEARCH: Characterized the ABA hypersensitive mutant, *Zak ERA8* and wild type endogenous hormone levels within the seed, as well as the germination response in the presence and absence of exogenously applied hormones (Martinez et al., 2016). Segregation analysis, preharvest sprouting trials, agronomic and end-use quality traits were compared between wild type and mutant (Martinez et al., 2014).   
+SKILLS: SAS, research-based statistics, hormone seed biology, lab notebook techniques, crop field practices    
 
 ### COMMUNICATION  
 #### INVITED TALKS - *Technical Audiences*  
@@ -38,15 +41,12 @@ During this project I studied the characteristics of an ABA hypersensitive mutan
 7. WSCS Western Regional Wheat Workers Meeting, Pullman, WA (2012) Evaluating Seed Dormancy and Pre-Harvest Sprouting Resistance of an ABA Hypersensitive Mutant ZakERA0   
 
 #### OUTREACH - *Non-Technical Audiences*  
-1. Small Grains Field Days (2018) Presenter on Wheat PHS   
-2. Grow NYC Variety Showcase (2018) Wheat Breeder Station     
-3. MPS Plant Science Day (2018) Wheat Breeding Station     
-4. WSU Extension Wheat Academy Workshop (2016) PHS Session    
-5. WSU Cougar Quest Workshop (2014, 2015) Plant Science   
-6. LSAMP End of the Year Banquet Keynote Speaker (2014) Careers in STEM   
-7. Sunnyside Elementary School Career Day Workshop (2012) Plant Science Session    
-8. Moscow Charter School Plant Science Lecture (2012) Plant Science Session    
-9.	Future Cougars of Color Plant Science Workshop (2012) Plant Science Session    
+1. Small Grains Field Days | Audience: Farmers, Breeders, Pathologist
+2. Grow NYC Variety Showcase | Audience: Chefs, Public, Fresh Market Buyers   
+3. MPS Plant Science Day | Audience: Parents and Children K-8 
+4. WSU Extension Wheat Academy Workshop | Audience: Producers, Farmers, Commissioners   
+5. LSAMP End of the Year Banquet Keynote Speaker | Audience: Undergraduates in STEM
+6. Future Cougars of Color Plant Science Workshop | Audience: High School Students      
 
 ### TEACHING & MENTORING  
 **Effective Teaching Strategies**, CIRTL Massive Open Online Courses. *Student*. Advanced Learning Through Evidence-Bases STEM Teaching. (Sp 2019)  
@@ -62,7 +62,8 @@ Agronomy, Molecular Breeding, Theoretical and Applied Genetics
 **Future Professors Institute** 2018  
 Theme: Advancing Diversity in Academia. Introduction to understanding what the search committee is looking for, career plans, research plans, publication plans, negotiating a contract, and starting up your first lab.            
 **Director of Professional Development** 2016-2017   
-During my PhD, I also spent a year as the Director of Professional Development for the Graduate and Professional Student Association (GPSA) and developed numerous transferable skills in this position. I implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 GPSA senators, and sat on both the Professional Development Initiative and GPSA Executive Board. This role outside of the laboratory provided me with exceptional soft skills such as communication, collaboration, conflict resolution, leadership, professionalism, and organization.  
+During my PhD, a handful of graduate students and I noticed a need for opportunities to develop professional skills across all disciplines that just weren't being met within graduate programs. With this crucial need in mind, the [Professional Development Initiative](https://gradschool.wsu.edu/pdi/) (PDI) was created and I spent a year as the Director of Professional Development for the Graduate and Professional Student Association (GPSA). Implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 graduate student senators, and sat on both the PDI and GPSA Executive Board.   
+SKILLS: <u>Efficient peer-to-peer communication</u>, <u>interdisciplinary collaboration</u>, conflict resolution, leadership, professionalism, <u>strong organization</u>, built relationships with university leadership (President and Deans)   
 
 ### AWARDS & FUNDING 
 ▪ NIFA-AFRI Education and Literacy Initiative [Grant](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) 2018-2020   
