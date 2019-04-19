@@ -42,12 +42,12 @@ SKILLS: SAS, research-based statistics, hormone seed biology, lab notebook techn
 5. [Plant and Animal Genome Conference](https://shantel-martinez.github.io/Presentations/S.Martinez%20Seed%20Dormancy%20PAG%202016.pdf), San Diego, CA. Higher Seed Dormancy and ABA Sensitivity Improves Wheat Preharvest Sprouting Tolerance  &nbsp; 2016
 
 #### OUTREACH | NON-TECHNICAL
-1. Small Grains Field Days | Audience: **Farmers, Breeders, Pathologists**
-2. Grow NYC Variety Showcase | Audience:Chefs,  **Public, Fresh Market Buyers**   
-3. MPS Plant Science Day | Audience: Parents and Children K-8
-4. WSU Extension Wheat Academy Workshop | Audience: **Producers**, Farmers, Commissioners   
-5. LSAMP End of the Year Banquet Keynote Speaker | Audience: Undergraduates in STEM
-6. Future Cougars of Color Plant Science Workshop | Audience: High School **Students**        
+1. Small Grains Field Days \| Audience: **Farmers, Breeders, Pathologists**
+2. Grow NYC Variety Showcase \| Audience:Chefs,  **Public, Fresh Market Buyers**   
+3. MPS Plant Science Day \| Audience: Parents and Children K-8
+4. WSU Extension Wheat Academy Workshop \| Audience: **Producers**, Farmers, Commissioners   
+5. LSAMP End of the Year Banquet Keynote Speaker \| Audience: Undergraduates in STEM
+6. Future Cougars of Color Plant Science Workshop \| Audience: High School **Students**        
 
 ### TEACHING & MENTORING  
 **Effective Teaching Strategies**, CIRTL Massive Open Online Courses. *Student*. Advanced Learning Through Evidence-Bases STEM Teaching. (Sp 2019)  
@@ -85,6 +85,7 @@ During my PhD, a handful of graduate students and I noticed a need for opportuni
 ▪ Molecular Plant Science GSO Vice President <span style="color:#4F94CD">Role:</span> &nbsp;&nbsp; 2014-2015  
 ▪ Molecular Plant Science Student Seminar Coordinating Committee <span style="color:#4F94CD">Role:</span> &nbsp;&nbsp; 2013-2014, 2015-2016  
 ▪ WSU Upward Bound Internship Program <span style="color:#4F94CD">Role:</span> Recruiter, volunteer, mentor &nbsp;&nbsp;&nbsp;&nbsp;   2009-2015     
+
 ### PUBLICATIONS  
 1. **Martinez, S.A.**, Godoy J., Huang M., Zhang Z., Carter A.H., Garland Campbell, K.A., and Steber, C.M. (2018a). Genome-Wide Association Mapping for Tolerance to Preharvest Sprouting and Low Falling Numbers in Wheat. [Frontiers in Plant Science](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141). 9, 1-16.  
 2. **Martinez, S.A.**, Thompson A.L., Wen N., Murphy L., Sanquinet K.A., M., Steber, C.M., and Garland Campbell, K. (2018b). Registration of the Louise/Alpowa Wheat Recombinant Inbred Line Mapping Population. [Journal of Plant Registrations](https://dl.sciencesocieties.org/publications/jpr/abstracts/0/0/jpr2017.08.0053crmp?access=0&view=pdf).   
