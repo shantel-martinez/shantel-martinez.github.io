@@ -1,6 +1,6 @@
 [HOME](./index.html)
 
-S Martinez CV PDF [Download](./CV/SMartinez_CV_Mar2019.pdf)  
+[Academic CV PDF](./CV/SMartinez_CV_Mar2019.pdf)  &nbsp;&nbsp;&nbsp;&nbsp;  [Industry Resume PDF](./CV/SMartinez_Resume_Apr2019.pdf)
 
 ## Postdoctoral Fellow in Plant Breeding and Genetics  
 
