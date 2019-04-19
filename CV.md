@@ -58,9 +58,9 @@ SKILLS: SAS, research-based statistics, hormone seed biology, lab notebook techn
 **Graduate Teaching Workshop**, Washington State University, Pullman WA. *Attendee*. Session titles “Leadership in Science Instruction” and “Teaching Large Classes: Challenges and Tips”. (Sp 2014)  
 
 ### PROFESSIONAL DEVELOPMENT
+<span style="color:#4F94CD">Journal Peer Reviewer</span>:  Agronomy, Molecular Breeding, Theoretical and Applied Genetics   
 <span style="color:#4F94CD">Large-Scale Field Experiments:</span> Washington cereal breeders and colleagues often requested my field **management skills** for projects that require succinct coordination of large labor teams (20+ people) while maintaining timely execution of the experiment (i.e. before the heat becomes a danger).    
 <span style="color:#4F94CD">SciComm Workshop</span>: three-day training on **communicating science** to the laymen audiences &nbsp; 2019   
-<span style="color:#4F94CD">Journal Peer Reviewer</span>:  Agronomy, Molecular Breeding, Theoretical and Applied Genetics   
 <span style="color:#4F94CD">Director of Professional Development</span> &nbsp; 2016-2017   
 During my PhD, a handful of graduate students and I noticed a need for opportunities to develop professional skills across all disciplines that just weren't being met within graduate programs. With this crucial need in mind, the [Professional Development Initiative](https://gradschool.wsu.edu/pdi/) (PDI) was created and in one year we implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 graduate student senators, and sat on both the PDI and GPSA Executive Board.   
 <span style="color:#4F94CD">SKILLS</span>: Efficient **peer-to-peer communication**, **interdisciplinary collaboration**, conflict resolution, leadership, professionalism, **strong organization**, built relationships with top-level university leadership   
@@ -78,12 +78,10 @@ During my PhD, a handful of graduate students and I noticed a need for opportuni
 ▪ Distinguished Research Assistantship for Diverse Scholars 2013-2014  
 
 ### DEPARTMENTAL SERVICES 
-▪ Corteva Plant Breeding Symposium Committee <span style="color:#4F94CD">Role:</span> Host speakers, implementation of symposium&nbsp;&nbsp;&nbsp;&nbsp;  2019 
-▪ Molecular Plant Sciences (MPS) Annual Recruitment Symposium Presenter <span style="color:#4F94CD">Role:</span> &nbsp;&nbsp; 2017   
-▪ GPSA Director of Professional Development <span style="color:#4F94CD">Role:</span> &nbsp;&nbsp; 2016-2017  
-▪ GPSA MPS Senator <span style="color:#4F94CD">Role:</span> &nbsp;&nbsp; 2015-2016  
-▪ Molecular Plant Science GSO Vice President <span style="color:#4F94CD">Role:</span> &nbsp;&nbsp; 2014-2015  
-▪ Molecular Plant Science Student Seminar Coordinating Committee <span style="color:#4F94CD">Role:</span> &nbsp;&nbsp; 2013-2014, 2015-2016  
+▪ Corteva Plant Breeding Symposium Committee <span style="color:#4F94CD">Role:</span> Host speakers, implementation of symposium&nbsp;&nbsp;&nbsp;&nbsp;  2019   
+▪ Molecular Plant Sciences (MPS) Annual Recruitment Symposium Presenter <span style="color:#4F94CD">Role:</span> Highlight exciting research in the PhD program to new recruits &nbsp;&nbsp; 2017   
+▪ GPSA MPS Senator <span style="color:#4F94CD">Role:</span> Oversee GPSA $600k budget, maintaing conversation between program and GPSA &nbsp;&nbsp; 2015-2016  
+▪ MPS Seminar Committee <span style="color:#4F94CD">Role:</span> Invite, host, and coordinate departmental seminar  &nbsp;&nbsp; 2013-2014, 2015-2016  
 ▪ WSU Upward Bound Internship Program <span style="color:#4F94CD">Role:</span> Recruiter, volunteer, mentor &nbsp;&nbsp;&nbsp;&nbsp;   2009-2015     
 
 ### PUBLICATIONS  
