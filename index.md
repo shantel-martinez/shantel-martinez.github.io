@@ -26,7 +26,7 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hot off the ebook press:<br>Last year 108 authors published 18 articles on<br>Seed Dormancy, Germination, and Pre-Harvest Sprouting<br><br>Today they just released an ebook of those articles compiled into one PDF.<br>You&#39;ll find the download link here: Enjoy!  <a href="https://t.co/STAEgBUPua">https://t.co/STAEgBUPua</a></p>&mdash; Shantel A. Martinez (@s_amealia) <a href="https://twitter.com/s_amealia/status/1111344162568355841?ref_src=twsrc%5Etfw">March 28, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**After taking the \#Comm5660 course on science communication,** my brain was saturated with methods and theories. Follow the twitter hashtag to see what the other students thought:    
+After taking the #Comm5660 course on **science communication**, my brain was saturated with methods and theories. Follow the twitter hashtag to see what the other students thought:    
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">By using the word &#39;genetics&#39; I was trying to simplify GWAS, genomic selection and QTL mapping, into a generalization and it was perceived a different way than I expected.<br>I expected: DNA/genes/difference between two samples <br><br>(Something I need to remember!)</p>&mdash; Shantel A. Martinez (@s_amealia) <a href="https://twitter.com/s_amealia/status/1101891094277697536?ref_src=twsrc%5Etfw">March 2, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
