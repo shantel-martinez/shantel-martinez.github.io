@@ -17,7 +17,7 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 ---------
 
 ### Current Resources:  
-**Soft Wheat Quality Laboratory Annual Research Review Apr 23, 2019 [PDF of Slides](./Presentations/SMartinez PHS SWQC 2019.pdf) **  
+**Soft Wheat Quality Laboratory Annual Research Review Apr 23, 2019 [PDF](./Presentations/SMartinez PHS SWQC 2019.pdf) of Slides**  
 
 **Summary of [Wheat PHS genes](./resources.html) and their physical positions**  
 
