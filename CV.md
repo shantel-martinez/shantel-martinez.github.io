@@ -58,7 +58,7 @@ SKILLS: SAS, research-based statistics, hormone seed biology, lab notebook techn
 **Graduate Teaching Workshop**, Washington State University, Pullman WA. *Attendee*. Session titles “Leadership in Science Instruction” and “Teaching Large Classes: Challenges and Tips”. (Sp 2014)  
 
 ### PROFESSIONAL DEVELOPMENT
-<span style="color:#4F94CD">Journal Peer Reviewer</span>:  Agronomy, Molecular Breeding, Theoretical and Applied Genetics   
+<span style="color:#4F94CD">Journal Peer Reviewer</span>:  Agronomy, Molecular Breeding, Plants, Theoretical and Applied Genetics   
 <span style="color:#4F94CD">Large-Scale Field Experiments:</span> Washington cereal breeders and colleagues often requested my field **management skills** for projects that require succinct coordination of large labor teams (20+ people) while maintaining timely execution of the experiment (i.e. before the heat becomes a danger).    
 <span style="color:#4F94CD">SciComm Workshop</span>: three-day training on **communicating science** to the laymen audiences &nbsp; 2019   
 <span style="color:#4F94CD">Director of Professional Development</span> &nbsp; 2016-2017   
