@@ -11775,12 +11775,13 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Lab-Protocols-">Lab Protocols <a id="TOC" /><a class="anchor-link" href="#Lab-Protocols-">&#182;</a></h2><h3 id="Shantel-A.-Martinez-|--Update-2019.04.10">Shantel A. Martinez |  Update 2019.04.10<a class="anchor-link" href="#Shantel-A.-Martinez-|--Update-2019.04.10">&#182;</a></h3><hr>
+<h2 id="Lab-Protocols-">Lab Protocols <a id="TOC" /><a class="anchor-link" href="#Lab-Protocols-">&#182;</a></h2><h3 id="Shantel-A.-Martinez-|--Update-2019.07.17">Shantel A. Martinez |  Update 2019.07.17<a class="anchor-link" href="#Shantel-A.-Martinez-|--Update-2019.07.17">&#182;</a></h3><hr>
 <p><strong>TABLE OF CONTENTS:</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#GermAssay">Germination Assay</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#MeDryw">Measuring Dry Weight</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#AutoC">Autoclaving</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#Lyoph">Lyophilizer/FreezeDrier</a></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#Lyoph">Lyophilizer/FreezeDrier</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#ph">pH Meter</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#horm_ext">Hormone Extraction</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#LCMSSeq">LCMS Sequence Setup</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#LCMSRun">LCMS Run Protocol</a><br>
@@ -11788,6 +11789,7 @@ div#notebook {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#LCMS_Peak">LCMS Peak Calling</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#DNA_ext">DNA Extraction</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#RNA_ext">RNA Extraction</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#KASP_assay">KASP Assay</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#KASP_view">KASP LightCycler View</a></p>
 
 </div>
@@ -12035,6 +12037,24 @@ If the samples are not fully dried, repeat steps 4-6 above for additional hours 
 Wait until fully thawed before drainin the excess water.</p>
 </blockquote>
 <hr>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="pH-Meter---">pH Meter   <a id="ph" /><a class="anchor-link" href="#pH-Meter---">&#182;</a></h3><p>STEP 1: Unscrew from buffer and rinse with ddH2O</p>
+<p>STEP 2: Press the power button on.</p>
+<p>STEP 3: Add the meter into the solution so that the cap is just touching the water.</p>
+<p>When the reading stops flashing, it has balanced out its reading (example: 4.20)</p>
+<p>STEP 4: Press measure for the meter to read again, then you can add you acids or bases to bring the solution to your desired pH.</p>
+<blockquote><p>To <strong>increase</strong> the pH: add KOH or NaOH</p>
+<p>To <strong>decrease</strong> the pH: add HCl</p>
+<p>the higher the Molar (M) the larger of a change one drop will have (1M fast vs 0.1M slow)</p>
+</blockquote>
+<p>STEP 5: Once your desired pH is reached, remove the meter, rinse thoroughly with ddH2O, and screw on buffer bottle, power off</p>
 
 </div>
 </div>
@@ -12630,7 +12650,7 @@ HP Computer has no internet, since the software needs to be run on window 7 and 
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="LCMS-data-analysis-using-Agilent-OpenLab-and-R--">LCMS data analysis using Agilent OpenLab and R  <a id="KASP_view" /><a class="anchor-link" href="#LCMS-data-analysis-using-Agilent-OpenLab-and-R--">&#182;</a></h3><p><span style="color:red">**FIX FORMATTING OF PROTOCOL**</span></p>
+<h3 id="LCMS-data-analysis-using-Agilent-OpenLab-and-R--">LCMS data analysis using Agilent OpenLab and R  <a id="LCMS_Data" /><a class="anchor-link" href="#LCMS-data-analysis-using-Agilent-OpenLab-and-R--">&#182;</a></h3><p><span style="color:red">**FIX FORMATTING OF PROTOCOL**</span></p>
 <p>Protocol for data analysis of runs conducted in Columbia, Missouri (USDA-ARS in Oliver Lab) using the Agilent LC-MS (single MS). Instructions by Sven Nelson. Steps include calibration using a standards dilution series, peak calling, setting up the dilution factor and other settings for correct output from Agilent software, and downstream processing using R. R code for this analysis was written by Sven.</p>
 <p><strong>Required information:</strong><br>
 A. Sample mass for each sample (filled tube after lyophilization - empty tube)<br>
@@ -12780,6 +12800,7 @@ Manual integrate calls (use zoom when necessary)<br>
 Double <code>Click</code> next sample file, a menu will pop up requesting to save changes, click <code>Yes</code><br>
 Repeat manual integration calls</p>
 <hr>
+<p><a href="#TOC">TOC</a></p>
 
 </div>
 </div>
@@ -12788,7 +12809,7 @@ Repeat manual integration calls</p>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="DNA-Extraction--">DNA Extraction  <a id="DNA_Ext" /><a class="anchor-link" href="#DNA-Extraction--">&#182;</a></h3><p><em>James Tanaka | 2018.06.06</em></p>
+<h3 id="DNA-Extraction--">DNA Extraction  <a id="DNA_ext" /><a class="anchor-link" href="#DNA-Extraction--">&#182;</a></h3><p><em>Author: James Tanaka | Notes: SMartinez | 2019.07.14</em></p>
 <p><strong>Harvest Tissue</strong><br>
 <strong>Step 1:</strong> Place two metallic grinding beads in each sample well.<br>
 <strong>Step 2:</strong> At the 2-3 leaf stage of development (approximately 10 days after sowing), cut 2-3 inches of three leaves per sample and place in a deep 96-well plate. OR collect approximately 75mg (3-5in leaf) of fresh tissue into 1.1ml 96 well plates, folding to about ½-3/4in in size.</p>
@@ -12796,8 +12817,93 @@ Repeat manual integration calls</p>
 </blockquote>
 <p><strong>Step 3:</strong> Seal the 96-well plate with either 8-well stripe tops (for long term storage) or a securely taped kim wipe (for quick freeze followed by lyophilization).<br>
 <strong>Step 4:</strong> Freeze at -80 °C overnight at minimum. OR freeze in liquid nitrogen and freeze dry for 24-48 hours.  Alternatively, tissue can be harvested and frozen in liquid nitrogen and stored at -80 C until grinding.</p>
-<p><strong>Grinding DNA</strong><br>
-<strong>Step 0:</strong> Reserve time on the Geno Grinder by communicating with James Tanaka about project.<br>
+<p><strong>Prep</strong>
+Extracting only two at a time is the most optimal. You arent rushing in between steps.</p>
+<ul>
+<li>Thaw Pronase in hood.  </li>
+<li>Turn on waterbath 65C (Lab oven is already 37C)<blockquote><p>It will take longer to reach 65C if you have to add water, but you can shorten the time by adding hot water</p>
+</blockquote>
+</li>
+<li>Make CTAB Buffer   <blockquote><p>You can make Buffer before, use hot plate to dissovle CTAB with stir bar speed 4 heat 4, no more heat 4. (30 min too dissolve).<br>
+Once made, put it in hot water bath to heat it to 65C.</p>
+</blockquote>
+</li>
+<li>Cap plates while waiting for buffer to mix  </li>
+</ul>
+<p><strong>Extraction Buffer (125ml):</strong></p>
+<table>
+<thead><tr>
+<th style="text-align:left">Final Concentration:</th>
+<th style="text-align:left">Location</th>
+<th style="text-align:left">Amount/Stock Concentration</th>
+<th style="text-align:left">100mL</th>
+<th>2 plate 125mL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">ddH2O</td>
+<td style="text-align:left">by sink</td>
+<td style="text-align:left">--</td>
+<td style="text-align:left">52.8 mL</td>
+<td>66 mL</td>
+</tr>
+<tr>
+<td style="text-align:left">2% CTAB</td>
+<td style="text-align:left">dry shelf</td>
+<td style="text-align:left">2g/CTAB</td>
+<td style="text-align:left">2 g</td>
+<td>2.5 g</td>
+</tr>
+<tr>
+<td style="text-align:left">1.4M NaCl</td>
+<td style="text-align:left">Shelf premade</td>
+<td style="text-align:left">28.5ml/5M</td>
+<td style="text-align:left">28.5 mL</td>
+<td>35.6 mL</td>
+</tr>
+<tr>
+<td style="text-align:left">20mM EDTA</td>
+<td style="text-align:left">Shelf premade</td>
+<td style="text-align:left">8ml/0.25M</td>
+<td style="text-align:left">8 mL</td>
+<td>10 mL</td>
+</tr>
+<tr>
+<td style="text-align:left">100mM Tris-HCl, pH8</td>
+<td style="text-align:left">Shelf premade</td>
+<td style="text-align:left">10ml/1M</td>
+<td style="text-align:left">10 mL</td>
+<td>12.5  mL</td>
+<td>.</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>bring to volume, and dissolve CTAB</strong></td>
+<td style="text-align:left">.</td>
+<td style="text-align:left">.</td>
+<td style="text-align:left">.</td>
+<td>.</td>
+</tr>
+<tr>
+<td style="text-align:left">0.2% 2-mercaptoethanol</td>
+<td style="text-align:left">Under Fume Hood Rm 418</td>
+<td style="text-align:left">200ul/2- mercaptoethanol</td>
+<td style="text-align:left">200 uL</td>
+<td>250 uL</td>
+</tr>
+<tr>
+<td style="text-align:left">0.2mg/ml Pronase E or Proteinase K</td>
+<td style="text-align:left">-20C <code>Wheat Quality</code> Shelf Rm 416</td>
+<td style="text-align:left">1ml @ 20mg/ml</td>
+<td style="text-align:left">1 mL</td>
+<td>1.25 mL</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Grinding DNA</strong></p>
+<p>Hard strip caps, securely on.</p>
+<p>1:30min to start two 1:30 sessions usually. If you need too, will open up cap and loosen. Pull up a little.</p>
+<p><strong>Step 0:</strong> Reserve time on the Geno Grinder by communicating with James Tanaka about project.<br>
 <strong>Step 1:</strong> Turn on the Geno/Grinder 2010 (switch is back left corner).  Allow Geno/Grinder to warm-up for 1min before starting.<br>
 <strong>Step 2:</strong> Adjust the time and rpm settings appropriate for your samples by pushing and turning the knobs.</p>
 <table>
@@ -12843,88 +12949,64 @@ Repeat manual integration calls</p>
 </table>
 <blockquote><p><strong>Going over the recommended RPMs can result in breaking your block, if this happens clean up your mess!</strong> These settings were evaluated for VWR 96-deep well blocks.</p>
 </blockquote>
-<p><strong>Step 3:</strong> Unless you are using the freezer blocks, place the orange tray labeled “bottom” flat side down (located ¬¬¬¬drawer below grinder) in the holding tray.<br>
+<p><strong>Step 3:</strong> Unless you are using the freezer blocks, place the orange tray labeled “bottom” flat side down (located in drawer below grinder) in the holding tray.<br>
 <strong>Step 4:</strong> Place blocks in orange tray (you MUST have an even number of blocks to even out the machine while running, if you need a height BALANCE, there are some in Lab 411).<br>
 <strong>Step 5:</strong> If you are running more than two blocks the Geno/Grinder can accommodate 4 96-deep well blocks.  Place an orange nesting tray labeled “nesting” on top of the two bottom blocks then place the next two blocks in the nesting tray.<br>
 <strong>Step 6:</strong> Squeeze the button of the twist top lid to bring it down to rest on top of the two blocks.  Finish twisting the knob to tighten lid all the way (finger tight only).<br>
 <strong>Step 7:</strong> Press the green button<br>
 <strong>Step 8:</strong> Wait for the Geno/Grinder to come to a complete stop and the light in green button to become solid again (if you do not wait it can cause an error on the next run).<br>
 <strong>Step 9:</strong> When you are finished turn the Geno/Grinder off.</p>
-<p><strong>DNA Extraction</strong><br>
-<strong>Step 0:</strong> Grind to powder on Homogenizer (Genogrinder).<br>
+<p><strong>DNA Extraction</strong></p>
+<p><strong>Step 0:</strong> Grind to powder on Homogenizer (Genogrinder).<br>
 <strong>Step 1:</strong>  Add 610ul extraction buffer preheated to 65C, mix well and incubate at 65C for 30 min.  Mix samples every 10 mins.</p>
 <blockquote><p>Mix well: add a pcr mat on the tubes, mix by inversion + brief centrifuge until dissolved (no compact tissue). If there is compact tissue at the bottom of the tube, it will be okay, you just wont get as much DNA.</p>
+<p>Fume hood, long sleeve, shake, with upside down top to always hold mat down. Always in hood</p>
+<p>Flatten mats again during the mix again.</p>
 </blockquote>
-<p><strong>Step 2:</strong>  Remove from waterbath, wipe off excess water and allow samples to cool to room temperature for about 10 mins, remove steel grinding balls and add 250-300ul 24:1 Chloroform/Isoamyl alcohol</p>
-<blockquote><p>Removing balls: pull one strip at a time, being away of broken strips. Hold strip carefully and use a wide magnet (on the side of the hood) to loosen (wiggly) the balls at the bottom of the tubes, and shimmy them up the tube. Usually you can get 6/8. Then go back for other 2.</p>
+<ul>
+<li>Label new plates</li>
+<li>Freezer 70% EtOH if making fresh. </li>
+<li>Prep 24:1 Chloroform/Isoamyl alcohol if not already made</li>
+</ul>
+<p><strong>Step 2:</strong>  Remove from waterbath, wipe off excess water and allow samples to cool to room temperature for about 10 mins, thaw RNAse, remove steel grinding balls and add 250-<strong>300ul</strong> 24:1 Chloroform/Isoamyl alcohol</p>
+<blockquote><p>Dan will even start right away without waiting for it to cool. because it takes forever</p>
+<p>Removing balls: pull one strip at a time, being aware of broken strips. Hold strip carefully and use a wide magnet (on the side of the hood) to loosen (wiggly) the balls at the bottom of the tubes, and shimmy them up the tube. Usually you can get 6/8. Then go back for other 2.</p>
+<p>Glass beaker, chloroform will met plastic!!!!!</p>
 </blockquote>
-<p><strong>Step 3:</strong>  Shake vigorously to form an emulsion<br>
-<strong>Step 4:</strong>  Centrifuge at top speed for 15 mins (15 min @ 4000rpm or 5 min @ 13000rpm)<br>
-<strong>Step 5:</strong>  If RNA free DNA is desired, add 6ul 5mg/ml RNAse to new tube or plate and proceed, otherwise skip to step 6<br>
+<p><strong>Step 3:</strong>  Shake vigorously to form an emulsion</p>
+<blockquote><p>Mix in hood! Dark green to frothy greenish white liquid. doesnt take much</p>
+</blockquote>
+<p><strong>Step 4:</strong>  Centrifuge at top speed for 15 mins (15 min @ 4000rpm or 5 min @ 13000rpm)</p>
+<blockquote><p>Use white plates but tranfering may be difficult, so be careful.</p>
+</blockquote>
+<p><strong>Step 5:</strong>  If RNA free DNA is desired, add 6ul 5mg/ml RNAse to new tube or plate and proceed, otherwise skip to step 6<br>
 <strong>Step 6:</strong>  Carefully transfer the upper phase to a new tube (approx 500ul; 2 sets of 225; Use 8 channel)<br>
 <strong>Step 7:</strong>  For RNAse treated samples, give a short centrifuge spin (up to 1000rpm) and allow incubation at 37C for 5 minutes, otherwise proceed to step 8<br>
 <strong>Step 8:</strong>  Add 500ul isopropanol and (gently) mix well by inverting 15-25 times (can see DNA form)<br>
 <strong>Step 9:</strong>  For RNAse treated samples, proceed directly to step 10.  Otherwise, optionally let samples sit in -20C for 5-60 mins<br>
 <strong>Step 10:</strong>  Centrifuge at top speed for 30 minutes (30 min @ 4000rpm or 15 min @ 13000rpm)<br>
-<strong>Step 11:</strong>  Carefully discard the liquid, making sure pellet does not dislodge<br>
-<strong>Step 12:</strong>  Add 500ul of 70% Ethanol<br>
-<strong>Step 13:</strong>  Centrifuge at top speed for 15-30 min (15-30 min @ 4000rpm or 5-15 min @ 13000rpm)<br>
+<strong>Step 11:</strong>  Carefully discard the liquid, making sure pellet does not dislodge</p>
+<blockquote><p>You can just pour it out of the tubes,Kim wipes, you can blot edges and will draw the excess etoh, but ALWAYS watch if pellets is moving.</p>
+</blockquote>
+<p><strong>Step 12:</strong>  Add 500ul of 70% Ethanol</p>
+<blockquote><p>better if its cold</p>
+</blockquote>
+<p><strong>Step 13:</strong>  Centrifuge at top speed for 15-30 min (15-30 min @ 4000rpm or 5-15 min @ 13000rpm)<br>
 <strong>Step 14:</strong>  Carefully discard liquid, again making sure pellet does not dislodge.  Allow samples to air dry so that no ethanol remains.  This can be done for 20-60 mins at RT, or 15-30 min at 37C.<br>
-<strong>Step 15:</strong>  Resuspend DNA in 50-100ul ddH20 or diluted TE (preferred) and mix on low vortex.  Samples can be refrigerated immediately or allowed to dissolve @ 37C for about 30 mins.</p>
-<p><strong>Extraction Buffer (100ml):</strong></p>
-<table>
-<thead><tr>
-<th style="text-align:left">Final Concentration:</th>
-<th style="text-align:left">Location</th>
-<th style="text-align:left">Amount/Stock Concentration</th>
-<th style="text-align:left">1 plate 100mL</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left">ddH2O</td>
-<td style="text-align:left">by sink</td>
-<td style="text-align:left">--</td>
-<td style="text-align:left">52.8 mL</td>
-</tr>
-<tr>
-<td style="text-align:left">2% CTAB</td>
-<td style="text-align:left">dry shelf</td>
-<td style="text-align:left">2g/CTAB</td>
-<td style="text-align:left">2 g</td>
-</tr>
-<tr>
-<td style="text-align:left">1.4M NaCl</td>
-<td style="text-align:left">Shelf premade</td>
-<td style="text-align:left">28.5ml/5M</td>
-<td style="text-align:left">28.5 mL</td>
-</tr>
-<tr>
-<td style="text-align:left">20mM EDTA</td>
-<td style="text-align:left">Shelf premade</td>
-<td style="text-align:left">8ml/0.25M</td>
-<td style="text-align:left">8 mL</td>
-</tr>
-<tr>
-<td style="text-align:left">100mM Tris-HCl, pH8</td>
-<td style="text-align:left">Shelf premade</td>
-<td style="text-align:left">10ml/1M</td>
-<td style="text-align:left">10 mL</td>
-</tr>
-<tr>
-<td style="text-align:left">0.2% 2-mercaptoethanol</td>
-<td style="text-align:left">-20C Rm 416</td>
-<td style="text-align:left">200ul/2-mercaptoethanol</td>
-<td style="text-align:left">200 uL</td>
-</tr>
-<tr>
-<td style="text-align:left">0.2mg/ml Pronase E or Proteinase K</td>
-<td style="text-align:left">-20C Rm 416</td>
-<td style="text-align:left">1ml @ 20mg/ml</td>
-<td style="text-align:left">1 mL</td>
-</tr>
-</tbody>
-</table>
+<strong>Step 15:</strong>  Resuspend DNA in 50-<strong>100ul</strong> ddH20 or diluted TE (preferred) and mix on low vortex.  Samples can be refrigerated immediately or allowed to dissolve @ 37C for about 30 mins.</p>
+<p><strong>PHYSICAL ITEMS</strong><br>
+Metal beads (96*4 + 7*8) = 384 + 56 = 439;    2 per tube<br>
+PCR Mats<br>
+Magnet to remove grinding balls<br>
+New tube or plate? Final plate.<br>
+balance plate</p>
+<p><strong>CHEMICAL</strong><br>
+Extraction Buffer (610uL per well   630<em> 440 = 277,200uL =278mL)<br>
+Chloroform/Isoamyl Alcohol (24:1) (300uL per well  330</em> 440 = 145,200uL =146mL)  Enough Isoamyl but need a least 140 chloroform (currently empty)<br>
+6ul 5mg/ml RNAse ( 7<em> 440 = 3,080uL =3.08mL) ask where<br>
+500ul isopropanol (per well 530</em> 440 = 233,200uL =234mL)   (we found James' 125mL, location of stock? Order? )<br>
+500ul of 70% Ethanol (530* 440 = 233,200uL =234mL)<br>
+50-100ul ddH20 or diluted TE (preferred)</p>
 <hr>
 <p><a href="#TOC">TOC</a></p>
 
@@ -12935,7 +13017,7 @@ Repeat manual integration calls</p>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="RNA-Extraction--">RNA Extraction  <a id="RNA_Ext" /><a class="anchor-link" href="#RNA-Extraction--">&#182;</a></h3><p><strong><span style="color:red">SAFETY PROTOCOL:</span></strong><br>
+<h3 id="RNA-Extraction--">RNA Extraction  <a id="RNA_ext" /><a class="anchor-link" href="#RNA-Extraction--">&#182;</a></h3><p><strong><span style="color:red">SAFETY PROTOCOL:</span></strong><br>
 <strong>Hazards:</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phenol: Toxic if swallowed, in contact with skin or if inhaled. Causes severe skin burns and eye damage Suspected of causing genetic defects. May cause damage to organs through prolonged or repeated exposure. Toxic to aquatic life. Do not breathe dust/fume/gas/mist/vapors/spray. Wash thoroughly after handling. Do not eat, drink or smoke when using this product. Use only in a well-ventilated area. Avoid release to the environment. If exposed or concerned: Get medical advice/attention. You must sign this training sheet stating you understand the hazards involving the use of phenol.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chloroform: Hazardous in case of skin contact (irritant), of eye contact (irritant), of ingestion, of inhalation. Slightly hazardous in case of skin contact (permeator). Has CARCINOGENIC and MUTAGENIC effects. Do not ingest. Do not breathe gas/fumes/ vapor/spray. Wear suitable protective clothing. In case of insufficient ventilation, wear suitable respiratory equipment. If ingested, seek medical advice immediately and show the container or the label. Avoid contact with skin and eyes. Keep away from incompatibles such as metals, alkalis. You must sign this training sheet stating you understand the hazards involving the use of chloroform.<br>
@@ -13111,6 +13193,203 @@ Oñate-Sánchez, L., and Vicente-Carbajosa, J. (2008). DNA-free RNA isolation pr
 <hr>
 <p><a href="#TOC">TOC</a></p>
 <hr>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="KASP-Assay--">KASP Assay  <a id="KASP_assay" /><a class="anchor-link" href="#KASP-Assay--">&#182;</a></h3><p><em>Author: SMartinez | 2019.07.17</em></p>
+<p><strong>Primer preparation</strong><br>
+If primers are coming directly from LGC Genomics you do not need to do anything.  Primers are already mixed and contain both forward primers (AL1 and AL2) and the single reverse primer (Common)</p>
+<p>If primers are coming from Sigma (separate) follow the table below:</p>
+<table>
+<thead><tr>
+<th>Primer</th>
+<th>Concentration</th>
+<th>Stock Amount to Add</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AL1</td>
+<td>100µm</td>
+<td>12µl</td>
+</tr>
+<tr>
+<td>AL2</td>
+<td>100µm</td>
+<td>12µl</td>
+</tr>
+<tr>
+<td>Common</td>
+<td>100µm</td>
+<td>30µl</td>
+</tr>
+<tr>
+<td>ddH2O</td>
+<td>-</td>
+<td>46µl</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td>-</td>
+<td><strong>100µl</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>KASP mix assembly</strong><br>
+This can be found in more detail on the LGC Genomics <a href="www.lgcgenomics.com">webpage</a></p>
+<table>
+<thead><tr>
+<th>Components</th>
+<th>Concentration</th>
+<th>Amount to Add</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>DNA</td>
+<td>5-50ng/µl</td>
+<td>5µl</td>
+</tr>
+<tr>
+<td>Master mix</td>
+<td>2X</td>
+<td>5µl</td>
+</tr>
+<tr>
+<td>Primer mix</td>
+<td>72X</td>
+<td>0.14µl</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td>-</td>
+<td><strong>10µl</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Note</strong>: The KASP Master mix is very thick and difficult to pipette so go slow and calculate 1.05x your sample number ex. below (just Master mix and Primer mix)</p>
+<table>
+<thead><tr>
+<th>Num.   Samples</th>
+<th>Need</th>
+<th>Amount to Make</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>48</td>
+<td>246.7µl</td>
+<td>259.1µl</td>
+</tr>
+<tr>
+<td>96</td>
+<td>493.4µl</td>
+<td>518.1µl</td>
+</tr>
+<tr>
+<td>384</td>
+<td>1973.8µl</td>
+<td>2072.4µl</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Thermocycler settings:</strong><br>
+This can be found in more detail on the LGC Genomics <a href="www.lgcgenomics.com">webpage</a></p>
+<table>
+<thead><tr>
+<th>Step</th>
+<th>Temp. (⁰C)</th>
+<th>Time</th>
+<th>Num. Cycles</th>
+<th>Extra</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>94</td>
+<td>15 min</td>
+<td>1</td>
+<td>.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>94</td>
+<td>20 sec</td>
+<td>10</td>
+<td>drop 0.6⁰C per cycle</td>
+</tr>
+<tr>
+<td>.</td>
+<td>61-55</td>
+<td>60 sec</td>
+<td>.</td>
+<td>.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>94</td>
+<td>20 sec</td>
+<td>26</td>
+<td>.</td>
+</tr>
+<tr>
+<td>.</td>
+<td>57</td>
+<td>60 sec</td>
+<td>.</td>
+<td>.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>4</td>
+<td>forever</td>
+<td>.</td>
+<td>.</td>
+</tr>
+</tbody>
+</table>
+<p>Note: This is called <code>KASP protocol</code> in BIO-RAD thermocyclers.</p>
+<p><strong>Universal Extension</strong></p>
+<table>
+<thead><tr>
+<th>Step</th>
+<th>Temp. (⁰C)</th>
+<th>Time</th>
+<th>Num. Cycles</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>94</td>
+<td>20 sec</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2</td>
+<td>55</td>
+<td>60 sec</td>
+<td>.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>12</td>
+<td>forever</td>
+<td>.</td>
+</tr>
+</tbody>
+</table>
+<blockquote><p><strong>Note from Nuan Wen</strong>: I checked your folder in the thermocycler, you've made some optimizations like changed step2 from 55C to 67C and adjusted the cycles numbers to 20 cycles.<br>
+<strong>Reponse</strong>: I dont "remember" why I made the adjustment. Until I remember my reasoning, we will stick with the lab universal extension.</p>
+</blockquote>
+<hr>
+<p><a href="#TOC">TOC</a></p>
 
 </div>
 </div>
