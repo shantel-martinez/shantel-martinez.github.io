@@ -18,7 +18,7 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 
 **My #TidyTuesday** Week 20 [step-by-step guide](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/TidyTuesdayWk20.html)   
 
-**Soft Wheat Quality Laboratory Annual Research Review Apr 23, 2019 [PDF](./Presentations/SMartinez PHS SWQC 2019.pdf) of Slides**  
+**Genomic Prediction for PHS in wheat** presented at the Soft Wheat Quality Laboratory Annual Research Review Apr 23, 2019 [PDF](./Presentations/SMartinez PHS SWQC 2019.pdf) of Slides**  
 
 {::options parse_block_html="false" /}
 
