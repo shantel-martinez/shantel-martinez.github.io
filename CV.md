@@ -80,7 +80,7 @@ During my PhD, a handful of graduate students and I noticed a need for opportuni
 ### DEPARTMENTAL SERVICES 
 ▪ Corteva Plant Breeding Symposium Committee <span style="color:#4F94CD">Role:</span> Host speakers, implementation of symposium&nbsp;&nbsp;&nbsp;&nbsp;  2019   
 ▪ Molecular Plant Sciences (MPS) Annual Recruitment Symposium Presenter <span style="color:#4F94CD">Role:</span> Highlight exciting research in the PhD program to new recruits &nbsp;&nbsp; 2017   
-▪ GPSA MPS Senator <span style="color:#4F94CD">Role:</span> Oversee GPSA $600k budget, maintaing conversation between program and GPSA &nbsp;&nbsp; 2015-2016  
+▪ GPSA MPS Senator <span style="color:#4F94CD">Role:</span> Oversee $600k budget, maintaining updates between PhD program and GPSA &nbsp;&nbsp; 2015-2016  
 ▪ MPS Seminar Committee <span style="color:#4F94CD">Role:</span> Invite, host, and coordinate departmental seminar  &nbsp;&nbsp; 2013-2014, 2015-2016  
 ▪ WSU Upward Bound Internship Program <span style="color:#4F94CD">Role:</span> Recruiter, volunteer, mentor &nbsp;&nbsp;&nbsp;&nbsp;   2009-2015     
 
