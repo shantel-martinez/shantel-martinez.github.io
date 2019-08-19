@@ -59,7 +59,7 @@ SKILLS: SAS, research-based statistics, hormone seed biology, lab notebook techn
 
 ### PROFESSIONAL DEVELOPMENT
 <span style="color:#4F94CD">Journal Peer Reviewer</span>:  Agronomy, Molecular Breeding, Plants, Theoretical and Applied Genetics   
-<span style="color:#4F94CD">Large-Scale Field Experiments:</span> Washington cereal breeders and colleagues often requested my field **management skills** for projects that require succinct coordination of large labor teams (20+ people) while maintaining timely execution of the experiment (i.e. before the heat becomes a danger).    
+<span style="color:#4F94CD">Large-Scale Field Experiments:</span> Washington cereal breeders and colleagues often requested my field **management skills** for projects that require succinct coordination of large teams (20+ people) while maintaining timely execution of the experiment (i.e. before the heat becomes a danger).    
 <span style="color:#4F94CD">SciComm Workshop</span>: three-day training on **communicating science** to the laymen audiences &nbsp; 2019   
 <span style="color:#4F94CD">Director of Professional Development</span> &nbsp; 2016-2017   
 During my PhD, a handful of graduate students and I noticed a need for opportunities to develop professional skills across all disciplines that just weren't being met within graduate programs. With this crucial need in mind, the [Professional Development Initiative](https://gradschool.wsu.edu/pdi/) (PDI) was created and in one year we implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 graduate student senators, and sat on both the PDI and GPSA Executive Board.   
@@ -71,7 +71,7 @@ During my PhD, a handful of graduate students and I noticed a need for opportuni
 ▪ Research Assistantship - AFRI-NIFA Plant Breeding Grant 2016-2017  
 ▪ GPSA Senator Excellence Award 2015-2016  
 ▪ GPSA Research Expo - Agriculture & Natural Science 1st place 2016  
-▪ Crop and Soil Science Department Travel Grant 2016 
+▪ Crop and Soil Science Department Travel Grant 2016   
 ▪ Teaching Assistantship for Plant Breeding 2015    
 ▪ Lindahl Memorial Scholarship 2014-2015  
 ▪ ASPB Plant Biology Travel Grant 2014  
