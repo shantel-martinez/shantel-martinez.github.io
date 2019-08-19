@@ -4,7 +4,7 @@
 
 ## Postdoctoral Fellow in Plant Breeding and Genetics  
 
-I am currently a [USDA-NIFA](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) post-doctorate fellow at Cornell University working in the [Sorrells lab](https://plbrgen.cals.cornell.edu/research-extension/small-grains/personnel/). Career focus is on contributing novel genetic research within agriculture using advanced statistical methods while maintaining direct application towards helping farmers. Believes strongly in being able to [communicate](https://shantel-martinez.github.io/outreach.html) science to non-scientists, [mentoring](https://shantel-martinez.github.io/mentoring.html) young scientists and peers, along with cultivating a [collaborative work environment](https://shantel-martinez.github.io/Rmd%20Protocols/R%20Protocols.html) as career priorities. 
+I am currently a [USDA-NIFA](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) post-doctorate fellow at Cornell University working in the [Sorrells lab](https://plbrgen.cals.cornell.edu/research-extension/small-grains/personnel/). My career focus is on contributing novel genetic research within agriculture using advanced statistical methods while maintaining direct application towards helping farmers. I believe strongly in being able to [communicate](https://shantel-martinez.github.io/outreach.html) science to non-scientists, [mentor](https://shantel-martinez.github.io/mentoring.html) young scientists and peers, along with cultivating a [collaborative work environment](https://shantel-martinez.github.io/Rmd%20Protocols/R%20Protocols.html) as career priorities. 
 
 ### EDUCATION
 Ph.D., 2018: [Molecular Plant Science](https://mps.wsu.edu/), Washington State University, Pullman WA   
@@ -13,10 +13,10 @@ B.S., 2011: [Bioengineering](https://voiland.wsu.edu/), Washington State Univers
 
 ### RESEARCH EXPERIENCE 
 **Wheat Molecular Genetics and Prediction Modeling**    
-Post-doctoral | Dr. Mark E. Sorrells Lab &nbsp;&nbsp;&nbsp;&nbsp;2018 - Mar 2020     
+Post-doctoral | Dr. Mark E. Sorrells Lab &nbsp;&nbsp;&nbsp;&nbsp; 2018 - Mar 2020     
  *Cornell University*    
 APPLICATION: Producing genomic prediction models on large-scale wheat genomic and phenotypic datasets to reduce grain sprouting when certain climate patterns, such as heavy rainfall during harvest time, increase.    
-RESEARCH: Increasing preharvest sprouting (PHS) tolerance through a genome-wide association study of PHS traits followed by producing genomic prediction models for 1,353 Northeast wheat cultivars and breeding germplasm using 11k genotyping-by-sequencing markers. In tandem, I am characterizing a PHS tolerant QTL through endogenous seed hormone profiling. The end goal is to fine map the dormant QTL and confirm a candidate dormancy gene for breeders to directly use for improving preharvest sprouting tolerance.   
+RESEARCH: Increasing preharvest sprouting (PHS) tolerance through a genome-wide association study of PHS traits followed by producing genomic prediction models for 1,353 Northeast wheat cultivars and breeding germplasm using 11k genotyping-by-sequencing markers. In tandem, I am fine mapping and characterizing *QPhs.cnl-2B.1* for breeders to directly use for improving preharvest sprouting tolerance.   
 SKILLS: Computational genetics, comprehensive R and git version control, genomic prediction using ridge and Bayesian regression models, basic python and bash, electronic lab notebook techniques   
 
 **Improving Germplasm Resources for the PNW**  
@@ -29,7 +29,7 @@ SKILLS: Comprehensive markdown use, large-scale field data collection and coordi
 **Investigating an ABA Hypersensitive Mutant**  
  MS | Dr. Arron H. Carter and Dr. Camille M. Steber  Labs  &nbsp;&nbsp;&nbsp;&nbsp; 2011 - 2013  
  *Washington State University*   
-APPLICATION:Worked with a molecular geneticist and a wheat breeder to find an applied solution to PHS susceptibility through mutation genetics and field trials. This basic/applied hybrid research experience resulted in learning how to balance an attention-to-detail molecular approach while keeping the large-scale agronomic breeding scope in mind.      
+APPLICATION: Worked with a molecular geneticist and a wheat breeder to find an applied solution to PHS susceptibility through mutation genetics and field trials. This basic/applied hybrid research experience resulted in learning how to balance an attention-to-detail molecular approach while keeping the large-scale agronomic breeding scope in mind.      
 RESEARCH: Characterized the ABA hypersensitive mutant, *Zak ERA8* and wild type endogenous hormone levels within the seed, as well as the germination response in the presence and absence of exogenously applied hormones (Martinez et al., 2016). Segregation analysis, preharvest sprouting trials, agronomic and end-use quality traits were compared between wild type and mutant (Martinez et al., 2014).   
 SKILLS: SAS, research-based statistics, hormone seed biology, lab notebook techniques, crop field practices    
 
@@ -50,12 +50,12 @@ SKILLS: SAS, research-based statistics, hormone seed biology, lab notebook techn
 6. Future Cougars of Color Plant Science Workshop \| Audience: High School **Students**        
 
 ### TEACHING & MENTORING  
-**Effective Teaching Strategies**, CIRTL Massive Open Online Courses. *Student*. Advanced Learning Through Evidence-Bases STEM Teaching. (Sp 2019)  
-**New York HS Science Program**, Cornell University, Ithaca NY. *Mentor*. Fine mapping preharvest sprouting tolerant QTL in wheat on chromosome 2B using the spike-wetting test. WESEF 1st Place. Katherine Robert (Su 2018)  
-**CAHNRS Internship Program**, Washington State University, Pullman WA. *Mentor*. Fine mapping a locus corresponding to the Enhanced Response to Abscisic acid, ERA8, gene of wheat (Triticum aestivum L.). SURCA 1st Place. Samantha Beck (Su 2016- Sp 2017)  
-**LSAMP Internship Program**, Washington State University, Pullman WA. LSAMP *Mentor*. Exploring wheat seed responses to different hormones and incubation temperatures while identifying cultivars susceptible to PHS. SURCA 2nd Place. Dustin Cwuick (Fa 2015 - Sp 2016)  
-**Plant Breeding (CropS 445)**, Washington State University, Pullman WA. *Teaching assistant*. Role: grading, substitute lecturer (2x), assist during activities, help students during office hours, and provide exam review sessions. Course Purpose: Understand the genetic principles underlying plant breeding and gain an introduction to the principles and practices of plant breeding. Class Size: 15-25 students (Sp 2015)  
-**Graduate Teaching Workshop**, Washington State University, Pullman WA. *Attendee*. Session titles “Leadership in Science Instruction” and “Teaching Large Classes: Challenges and Tips”. (Sp 2014)  
+<span style="color:#4F94CD">Teaching Portfolio Institute</span>, Cornell University, Ithaca NY. *Attendee*. Topics covered defining teaching philosophy, teaching statement, diversity statement, CV, and syllabus design (Sp 2019)  
+<span style="color:#4F94CD">Effective Teaching Strategies</span>, CIRTL Massive Open Online Courses. *Student*. Active Learning Through Evidence-Based STEM Teaching. (Sp 2019)  
+<span style="color:#4F94CD">New York HS Science Program</span>, Cornell University, Ithaca NY. *Mentor*. Fine mapping preharvest sprouting tolerant QTL in wheat on chromosome 2B using the spike-wetting test. WESEF 1st Place. Katherine Robert (Su 2018, 2019)  
+<span style="color:#4F94CD">CAHNRS Internship Program**, Washington State University, Pullman WA. *Mentor*. Fine mapping a locus corresponding to the Enhanced Response to Abscisic acid, ERA8, gene of wheat (Triticum aestivum L.). SURCA 1st Place. Samantha Beck (Su 2016- Sp 2017)  
+<span style="color:#4F94CD">LSAMP Internship Program</span>, Washington State University, Pullman WA. LSAMP *Mentor*. Exploring wheat seed responses to different hormones and incubation temperatures while identifying cultivars susceptible to PHS. SURCA 2nd Place. Dustin Cwuick (Fa 2015 - Sp 2016)  
+<span style="color:#4F94CD">Plant Breeding (CropS 445)</span>, Washington State University, Pullman WA. *Teaching assistant*. Role: grading, substitute lecturer (2x), assist during activities, help students during office hours, and provide exam review sessions. Course Purpose: Understand the genetic principles underlying plant breeding and gain an introduction to the principles and practices of plant breeding. Class Size: 15-25 students (Sp 2015)  
 
 ### PROFESSIONAL DEVELOPMENT
 <span style="color:#4F94CD">Journal Peer Reviewer</span>:  Agronomy, Molecular Breeding, Plants, Theoretical and Applied Genetics   
