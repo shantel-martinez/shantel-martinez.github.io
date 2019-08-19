@@ -16,7 +16,6 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 
 ---------
 
-### Current Resources:  
 **My #TidyTuesday** Week 20 [step-by-step guide](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/TidyTuesdayWk20.html)   
 
 **Soft Wheat Quality Laboratory Annual Research Review Apr 23, 2019 [PDF](./Presentations/SMartinez PHS SWQC 2019.pdf) of Slides**  
