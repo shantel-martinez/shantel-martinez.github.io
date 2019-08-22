@@ -35,11 +35,15 @@ SKILLS: SAS, research-based statistics, hormone seed biology, lab notebook techn
 
 ### COMMUNICATION  
 #### INVITED TALKS | TECHNICAL
-1. [Soft Wheat Quality Council Meeting](https://shantel-martinez.github.io/Presentations/SMartinez%20PHS%20SWQC%202019.pdf), Raleigh, NC. Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs  &nbsp; 2019 
-2. [Western Wheat Quality Meeting: Falling Numbers Workshop](https://shantel-martinez.github.io/Presentations/SMartinez%20FN%20Workshop%202019.pdf), Portland, OR. The First Step to Tackling the FN Problem: Identifying Tolerant Genes/QTL in PNW Germplasm &nbsp; 2019
-3. [International Seed Science Society Conference](https://shantel-martinez.github.io/Presentations/SMartinez_ISSS_2017.pdf), Monterey, CA. Identification of a Locus Corresponding to the Preharvest Sprouting Tolerance Mutant, ERA8, in Wheat &nbsp; 2017 
-4. [ASA, CSSA, SSSA International Annual Meeting](https://shantel-martinez.github.io/Presentations/SMartinez%20PHS%20GWAS%20ASA%202016%20revised%202018.pdf), Phoenix, AZ. Genome-wide Association Mapping of Preharvest Sprouting in PNW White Winter Wheat &nbsp;  2016 
-5. [Plant and Animal Genome Conference](https://shantel-martinez.github.io/Presentations/S.Martinez%20Seed%20Dormancy%20PAG%202016.pdf), San Diego, CA. Higher Seed Dormancy and ABA Sensitivity Improves Wheat Preharvest Sprouting Tolerance  &nbsp; 2016
+1.  ASA, CSSA, SSSA International Annual Meeting, San Antonio, TX. Nov 2019   
+&nbsp;&nbsp;&nbsp;&nbsp; Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs [Nov 11](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/121948) 
+&nbsp;&nbsp;&nbsp;&nbsp; Workshop: Finding a Common Language for Science  | Presentation topic: Data Visualization  [Nov 12](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Session/19590)    
+&nbsp;&nbsp;&nbsp;&nbsp; Fine-mapping and characterizing the QPhs.cnl-2B.1 found in a Northeast soft white wheat [Nov 13](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/122391)       
+2. [Soft Wheat Quality Council Meeting](https://shantel-martinez.github.io/Presentations/SMartinez%20PHS%20SWQC%202019.pdf), Raleigh, NC. Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs  &nbsp; 2019 
+3. [Western Wheat Quality Meeting: Falling Numbers Workshop](https://shantel-martinez.github.io/Presentations/SMartinez%20FN%20Workshop%202019.pdf), Portland, OR. The First Step to Tackling the FN Problem: Identifying Tolerant Genes/QTL in PNW Germplasm &nbsp; 2019
+4. [International Seed Science Society Conference](https://shantel-martinez.github.io/Presentations/SMartinez_ISSS_2017.pdf), Monterey, CA. Identification of a Locus Corresponding to the Preharvest Sprouting Tolerance Mutant, ERA8, in Wheat &nbsp; 2017 
+5. [ASA, CSSA, SSSA International Annual Meeting](https://shantel-martinez.github.io/Presentations/SMartinez%20PHS%20GWAS%20ASA%202016%20revised%202018.pdf), Phoenix, AZ. Genome-wide Association Mapping of Preharvest Sprouting in PNW White Winter Wheat &nbsp;  2016 
+6. [Plant and Animal Genome Conference](https://shantel-martinez.github.io/Presentations/S.Martinez%20Seed%20Dormancy%20PAG%202016.pdf), San Diego, CA. Higher Seed Dormancy and ABA Sensitivity Improves Wheat Preharvest Sprouting Tolerance  &nbsp; 2016
 
 #### OUTREACH | NON-TECHNICAL
 1. Small Grains Field Days \| Audience: **Farmers, Breeders, Pathologists**
