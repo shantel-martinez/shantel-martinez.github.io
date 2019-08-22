@@ -36,9 +36,9 @@ SKILLS: SAS, research-based statistics, hormone seed biology, lab notebook techn
 ### COMMUNICATION  
 #### INVITED TALKS | TECHNICAL
 1.  ASA, CSSA, SSSA International Annual Meeting, San Antonio, TX. Nov 2019   
-&nbsp;&nbsp;&nbsp;&nbsp; Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs [Nov 11](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/121948) 
+&nbsp;&nbsp;&nbsp;&nbsp; Oral: Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs [Nov 11](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/121948)   
 &nbsp;&nbsp;&nbsp;&nbsp; Workshop: Finding a Common Language for Science  | Presentation topic: Data Visualization  [Nov 12](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Session/19590)    
-&nbsp;&nbsp;&nbsp;&nbsp; Fine-mapping and characterizing the QPhs.cnl-2B.1 found in a Northeast soft white wheat [Nov 13](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/122391)       
+&nbsp;&nbsp;&nbsp;&nbsp; Poster: Fine-mapping and characterizing the QPhs.cnl-2B.1 found in a Northeast soft white wheat [Nov 13](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/122391)        
 2. [Soft Wheat Quality Council Meeting](https://shantel-martinez.github.io/Presentations/SMartinez%20PHS%20SWQC%202019.pdf), Raleigh, NC. Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs  &nbsp; 2019 
 3. [Western Wheat Quality Meeting: Falling Numbers Workshop](https://shantel-martinez.github.io/Presentations/SMartinez%20FN%20Workshop%202019.pdf), Portland, OR. The First Step to Tackling the FN Problem: Identifying Tolerant Genes/QTL in PNW Germplasm &nbsp; 2019
 4. [International Seed Science Society Conference](https://shantel-martinez.github.io/Presentations/SMartinez_ISSS_2017.pdf), Monterey, CA. Identification of a Locus Corresponding to the Preharvest Sprouting Tolerance Mutant, ERA8, in Wheat &nbsp; 2017 
