@@ -50,8 +50,8 @@ SKILLS: SAS, research-based statistics, hormone seed biology, lab notebook techn
 1. Twitter [@s_amealia](https://twitter.com/s_amealia)  \| Audience:  Breeders, **Graduate Students, Data Scientists**
 2. Instagram [@s_amealia](https://instagram.com/s_amealia)  \| Audience: **Public, Parents, Family**, Students
 3. Small Grains Field Days \| Audience: **Farmers, Breeders, Pathologists**
-4. Grow NYC Variety Showcase \| Audience: Chefs,  Public, Fresh Market Buyers**   
-5. MPS Plant Science Day \| Audience: Parents and Children K-8
+4. MPS Plant Science Day \| Audience: Parents and Children K-8
+5. Grow NYC Variety Showcase \| Audience: Chefs,  Public, **Fresh Market Buyers**   
 6. WSU Extension Wheat Academy Workshop \| Audience: **Producers**, Farmers, Commissioners   
 7. LSAMP End of the Year Banquet Keynote Speaker \| Audience: Undergraduates in STEM
 8. Future Cougars of Color Plant Science Workshop \| Audience: High School **Students**        
