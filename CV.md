@@ -47,8 +47,8 @@ SKILLS: SAS, research-based statistics, hormone seed biology, lab notebook techn
 6. [Plant and Animal Genome Conference](https://shantel-martinez.github.io/Presentations/S.Martinez%20Seed%20Dormancy%20PAG%202016.pdf), San Diego, CA. Higher Seed Dormancy and ABA Sensitivity Improves Wheat Preharvest Sprouting Tolerance  &nbsp; 2016
 
 #### OUTREACH | NON-TECHNICAL
-1. Twitter [@s_amealia](https://twitter.com/s_amealia)  | Audience:  Breeders, **Graduate Students, Data Scientists**
-2. Instagram [@s_amealia](https://instagram.com/s_amealia)  | Audience: **Public, Parents, Family**, Students
+1. Twitter [@s_amealia](https://twitter.com/s_amealia)  \| Audience:  Breeders, **Graduate Students, Data Scientists**
+2. Instagram [@s_amealia](https://instagram.com/s_amealia)  \| Audience: **Public, Parents, Family**, Students
 3. Small Grains Field Days \| Audience: **Farmers, Breeders, Pathologists**
 4. Grow NYC Variety Showcase \| Audience: Chefs,  Public, Fresh Market Buyers**   
 5. MPS Plant Science Day \| Audience: Parents and Children K-8
