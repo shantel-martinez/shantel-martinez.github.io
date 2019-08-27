@@ -20,7 +20,7 @@ RESEARCH: Increasing preharvest sprouting (PHS) tolerance through a genome-wide 
 SKILLS: Computational genetics, comprehensive R and git version control, genomic prediction using ridge and Bayesian regression models, basic python and bash, electronic lab notebook techniques   
 
 **Improving Germplasm Resources for the PNW**  
-PhD | Dr. Camille M. Steber and Dr. Kimberly Garland Campbell Labs &nbsp;&nbsp;&nbsp;&nbsp;  2013 - 2018 
+PhD | Dr. Camille M. Steber and Dr. Kimberly Garland Campbell Labs &nbsp;&nbsp;&nbsp;&nbsp;  2013 - 2018    
 *Washington State University*   
 APPLICATION: After the 2016 Low Falling Numbers crisis, wheat farmers needed an immediate solution to ensure their crop would not succumb to the loss of millions of dollars they had just experienced. My research on preharvest sprouting tolerance (PHS) and Falling Numbers was accelerated to meet these demands. After screening 469 PNW wheat breeding lines, I identified 12 new genetic locations that WSU and USDA wheat breeders immediately used to introgress tolerance into their germplasm. Increased grower knowledge on agronomic best practices were also a result of this project.      
 RESEARCH: Identified novel loci contributing to wheat PHS tolerance in 469 Northwest germplasm through association mapping of spike-wetting test and falling number traits (Martinez et al., 2018a). Fine mapped an ABA hypersensitive mutant locus that also caused a PHS tolerant phenotype through conducting bulk-segregant exome-capture analysis in a backcross population (*manuscript in preparation*). Produced a drought tolerant mapping population between two Northwest soft white wheat cultivars (Martinez et al., 2018b).   
