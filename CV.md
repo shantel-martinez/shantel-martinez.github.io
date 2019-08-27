@@ -4,7 +4,7 @@
 
 ## Postdoctoral Fellow in Plant Breeding and Genetics  
 
-I am currently a [USDA-NIFA](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) post-doctorate fellow at Cornell University working in the [Sorrells lab](https://plbrgen.cals.cornell.edu/research-extension/small-grains/personnel/). My career focus is on contributing novel genetic research within agriculture using advanced statistical methods while maintaining direct application towards helping farmers. I believe strongly in being able to [communicate](https://shantel-martinez.github.io/outreach.html) science to non-scientists, [mentor](https://shantel-martinez.github.io/mentoring.html) young scientists and peers, along with cultivating a [collaborative work environment](https://shantel-martinez.github.io/Rmd%20Protocols/R%20Protocols.html) as career priorities. 
+I am currently a [USDA-NIFA](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) post-doctorate fellow at Cornell University working in the [Sorrells lab](https://plbrgen.cals.cornell.edu/research-extension/small-grains/personnel/). My career focus is on contributing novel genetic research within agriculture using advanced statistical methods while maintaining direct application towards helping farmers. I believe strongly in being able to communicate science to non-scientists, mentor young scientists and peers, along with cultivating a collaborative work environment as career priorities.  
 
 ### EDUCATION
 Ph.D., 2018: [Molecular Plant Science](https://mps.wsu.edu/), Washington State University, Pullman WA   
@@ -15,7 +15,7 @@ B.S., 2011: [Bioengineering](https://voiland.wsu.edu/), Washington State Univers
 **Wheat Molecular Genetics and Prediction Modeling**    
 Post-doctoral | Dr. Mark E. Sorrells Lab &nbsp;&nbsp;&nbsp;&nbsp; 2018 - Mar 2020     
  *Cornell University*    
-APPLICATION: Producing genomic prediction models on large-scale wheat genomic and phenotypic datasets to reduce grain sprouting when certain climate patterns, such as heavy rainfall during harvest time, increase.    
+APPLICATION: Producing genomic prediction models on large-scale wheat genomic and phenotypic datasets to reduce grain sprouting when certain weather patterns, such as heavy rainfall during harvest time, increase.    
 RESEARCH: Increasing preharvest sprouting (PHS) tolerance through a genome-wide association study of PHS traits followed by producing genomic prediction models for 1,353 Northeast wheat cultivars and breeding germplasm using 11k genotyping-by-sequencing markers. In tandem, I am fine mapping and characterizing *QPhs.cnl-2B.1* for breeders to directly use for improving preharvest sprouting tolerance.   
 SKILLS: Computational genetics, comprehensive R and git version control, genomic prediction using ridge and Bayesian regression models, basic python and bash, electronic lab notebook techniques   
 
@@ -71,31 +71,51 @@ During my PhD, a handful of graduate students and I noticed a need for opportuni
 <span style="color:#4F94CD">SKILLS</span>: Efficient **peer-to-peer communication**, **interdisciplinary collaboration**, conflict resolution, leadership, professionalism, **strong organization**, built relationships with top-level university leadership   
 
 ### AWARDS & FUNDING 
-▪ NIFA-AFRI Education and Literacy Initiative [Grant](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK) 2018-2020   
-▪ International Seed Science Society Conference Travel Grant 2017   
-▪ Research Assistantship - AFRI-NIFA Plant Breeding Grant 2016-2017  
-▪ GPSA Senator Excellence Award 2015-2016  
-▪ GPSA Research Expo - Agriculture & Natural Science 1st place 2016  
-▪ Crop and Soil Science Department Travel Grant 2016   
-▪ Teaching Assistantship for Plant Breeding 2015    
-▪ Lindahl Memorial Scholarship 2014-2015  
-▪ ASPB Plant Biology Travel Grant 2014  
-▪ Distinguished Research Assistantship for Diverse Scholars 2013-2014  
+▪ NIFA-AFRI Education and Literacy Initiative [Grant](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK)  &nbsp; 2018-2020   
+▪ International Seed Science Society Conference Travel Grant  &nbsp; 2017   
+▪ Research Assistantship - AFRI-NIFA Plant Breeding Grant  &nbsp; 2016-2017  
+▪ GPSA Senator Excellence Award  &nbsp; 2015-2016  
+▪ GPSA Research Expo - Agriculture & Natural Science 1st place  &nbsp; 2016  
+▪ Crop and Soil Science Department Travel Grant  &nbsp; 2016   
+▪ Teaching Assistantship for Plant Breeding  &nbsp; 2015    
+▪ Lindahl Memorial Scholarship  &nbsp; 2014-2015  
+▪ ASPB Plant Biology Travel Grant  &nbsp; 2014  
+▪ Distinguished Research Assistantship for Diverse Scholars  &nbsp; 2013-2014 
 
 ### DEPARTMENTAL SERVICES 
-▪ Corteva Plant Breeding Symposium Committee <span style="color:#4F94CD">Role:</span> Host speakers, implementation of symposium&nbsp;&nbsp;&nbsp;&nbsp;  2019   
-▪ Molecular Plant Sciences (MPS) Annual Recruitment Symposium Presenter <span style="color:#4F94CD">Role:</span> Highlight exciting research in the PhD program to new recruits &nbsp;&nbsp; 2017   
-▪ GPSA MPS Senator <span style="color:#4F94CD">Role:</span> Oversee $600k budget, maintaining updates between PhD program and GPSA &nbsp;&nbsp; 2015-2016  
+▪ [Corteva Plant Science Symposium](https://plbrgen.cals.cornell.edu/graduate/synapsis/2019-synapsis-symposium/) Committee <span style="color:#4F94CD">Role:</span> Host speakers, implementation of symposium&nbsp;&nbsp;&nbsp;&nbsp;  2019   
+▪ Molecular Plant Sciences (MPS) Annual Recruitment Symposium Presenter <span style="color:#4F94CD">Role:</span> Highlighted research in the PhD program to new recruits &nbsp;&nbsp; 2017   
+▪ GPSA MPS Senator <span style="color:#4F94CD">Role:</span> Oversaw $600k budget, maintained updates between PhD program and GPSA &nbsp;&nbsp; 2015-2016  
 ▪ MPS Seminar Committee <span style="color:#4F94CD">Role:</span> Invite, host, and coordinate departmental seminar  &nbsp;&nbsp; 2013-2014, 2015-2016  
-▪ WSU Upward Bound Internship Program <span style="color:#4F94CD">Role:</span> Recruiter, volunteer, mentor &nbsp;&nbsp;&nbsp;&nbsp;   2009-2015     
+▪ [WSU-Upward Bound](https://collegebound.wsu.edu/home/) Internship Program <span style="color:#4F94CD">Role:</span> Recruiter, volunteer, mentor &nbsp;&nbsp;&nbsp;&nbsp;   2009-2015      
+▪ [LS Alliance for Minority Participation](https://lsamp.wsu.edu/) Program <span style="color:#4F94CD">Role:</span> Volunteer, mentor &nbsp;&nbsp;&nbsp;&nbsp;   2011-2016         
 
-### PUBLICATIONS  
+### PUBLICATIONS   
+##### JOURNAL ARTICLES:
 1. **Martinez, S.A.**, Godoy J., Huang M., Zhang Z., Carter A.H., Garland Campbell, K.A., and Steber, C.M. (2018a). Genome-Wide Association Mapping for Tolerance to Preharvest Sprouting and Low Falling Numbers in Wheat. [Frontiers in Plant Science](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141). 9, 1-16.  
 2. **Martinez, S.A.**, Thompson A.L., Wen N., Murphy L., Sanquinet K.A., M., Steber, C.M., and Garland Campbell, K. (2018b). Registration of the Louise/Alpowa Wheat Recombinant Inbred Line Mapping Population. [Journal of Plant Registrations](https://dl.sciencesocieties.org/publications/jpr/abstracts/0/0/jpr2017.08.0053crmp?access=0&view=pdf).   
 3. **Martinez, S.A.**, Tuttle, K., Takebayashi, Y., Seo, M., Garland Campbell, K., and Steber, C.M. (2016). The Wheat ABA Hypersensitive ERA8 Mutant is Associated with Increased Preharvest Sprouting Tolerance and Altered Hormone Accumulation. [Euphytica](http://link.springer.com/article/10.1007/s10681-016-1763-6). 212, 229-245.  
 4. Tuttle, K.M., **Martinez, S.A.**, Schramm, E.C., Takebayashi, Y., Seo, M., and Steber, C.M. (2015). Grain dormancy loss is associated with changes in ABA and GA sensitivity and hormone accumulation in bread wheat, Triticum aestivum (L.). [Seed Science Research](http://www.journals.cambridge.org/abstract_S0960258515000057) 1–15.  
-5. **Martinez, S.A.**, Schramm, E.C., Harris, T.J., Kidwell, K.K., Garland-Campbell, K., and Steber, C.M. (2014). Registration of Zak Soft White Spring Wheat Germplasm with Enhanced Response to ABA and Increased Seed Dormancy. [Journal of Plant Registrations](https://www.crops.org/publications/jpr/abstracts/8/2/217) 8, 217-220.  
+5. **Martinez, S.A.**, Schramm, E.C., Harris, T.J., Kidwell, K.K., Garland-Campbell, K., and Steber, C.M. (2014). Registration of Zak Soft White Spring Wheat Germplasm with Enhanced Response to ABA and Increased Seed Dormancy. [Journal of Plant Registrations](https://www.crops.org/publications/jpr/abstracts/8/2/217) 8, 217-220.    
 
+##### ABSTRACTS:
+1. **Martinez, S.A.,** Godoy J., Huang M., Zhang Z., Carter A.H., Garland Campbell, K.A., and Steber, C.M. (2019). The First Step to Tackling the FN Problem: Identifying Tolerant Genes/QTL in PNW Germplasm. FN Workshop, Jan 30, Portland, OR. *Presentation*  
+2. **Martinez, S.A.,** Shorinola, O., Conselman, S.R., Skinner D.Z., See, D., Garland Campbell, K., Uauy, C., and Steber, C.M. (2017). Identification of a Locus Corresponding to the Preharvest Sprouting Tolerance Mutant, *ERA8*, in Wheat (*Triticum* *aestivum* L.). 12th Triennial International Seed Science Society Conference, Sept 14, Monterey, CA. *Presentation*  
+3. **Martinez, S.A.,** Beck, S.R., Skinner D.Z., See D., Carter, A.H., Garland-Campbell, K., and Steber, C.M. (2017). Identification of a Locus Corresponding to the Preharvest Sprouting Tolerance Gene *ERA8* in Wheat (*Triticum* *aestivum* L.). Dryland Field Day Abstracts, Highlights of Research Progress, Jun 15, Lind, WA.  
+4. **Martinez, S.A.,** Jernigan, K.L., Parveen, R.S., Garland-Campbell, K., and Steber, C.M. (2016). Genome-wide Association Mapping of Preharvest Sprouting in PNW White Winter Wheat. ASA, CSSA & SSSA International Annual Meeting, Nov 6, Phoenix, AZ. *Presentation*  
+5. **Martinez, S.A.,** Parveen, R.S., Garland-Campbell, K., Carter, A.H., and Steber, C.M. (2016). Looking at Falling Numbers and Sprouting Scores to Determine Preharvest Sprouting Susceptibility and Tolerance in PNW Winter Wheat. Dryland Field Day Abstracts, Highlights of Research Progress, Jun 16, Lind, WA.   
+6. Cwick, DJ., **Martinez, S.A.,** Parveen, R.S., and Steber, C.M. (2016). Understanding Seed Dormancy Breaking Methods in PNW Wheat to Prevent Preharvest Sprouting. SURCA, Mar 28, Pullman, WA. *Poster*  
+7. **Martinez, S.A.,** Tuttle, K., Seo, M., Garland-Campbell, K., and Steber, C.M. (2016). Higher Seed Dormancy and ABA Sensitivity Improves Wheat Preharvest Sprouting Tolerance. PAG, Jan 12 San Diego, CA. *Presentation*  
+8. **Martinez, S.A.,** Jernigan, K.L., Parveen, R.S., Garland-Campbell, K., and Steber, C.M. (2016). Genome-wide Association Mapping of Preharvest Sprouting in PNW White Winter Wheat. PAG, Jan 11, San Diego, CA. *Poster*  
+9. **Martinez, S.A.,** Parveen, R.S., Garland-Campbell, K., Pumphrey, M.O., Carter, A.H., and Steber, C.M. (2015). Preharvest Sprouting Tolerance and Susceptibility in PNW Winter Wheat. Dryland Field Day Abstracts, Highlights of Research Progress, June 11, Lind, WA.   
+10. **Martinez, S.A.,** Harris, T.J., Parveen, R.S., Garland-Campbell, K., Carter, A.H., Pumphrey, M.O., Guy, S.O., and Steber, C.M. (2014). Determining Preharvest Sprouting Tolerance and Falling Numbers in Soft White Wheat. Dryland Field Day Abstracts, Highlights of Research Progress, June 12, Lind, WA.   
+11. **Martinez, S.A.,** Tuttle, K., Seo, M., Garland-Campbell, K., and Steber, C.M. (2014). An ABA Hypersensitive Mutants, Zak ERA8, with Increased Seed Dormancy and Preharvest Sprouting Tolerance is Associated with Altered Hormone Content and Sensitivity. ASPB Plant Biology, Portland, OR. *Poster*  
+12. **Martinez, S.A.,** Tuttle, K., Steber, C.M., and Garland-Campbell, K. (2013). Evaluating Seed Dormancy, Hormone Response, and Pre-Harvest Sprouting Tolerance of an ABA Hypersensitive Mutant Zak ERA8. ASA, CSSA, and SSSA Annual Meeting, Nov 2-5, Tampa, FL. *Presentation*  
+13. **Martinez, S.A.,** Garland-Campbell, K., Carter, A.H., Pumphrey, M.O., Guy, S.O., and Steber, C.M. (2013). Genetic Variation in Preharvest Sprouting Tolerance. Dryland Field Day Abstracts, Highlights of Research Progress, July 11, Pullman, WA.  
+14. **Martinez, S.,** Schramm, E.C., Garland-Campbell, K., and Steber, C.M. (2012). Evaluating Seed Dormancy and Pre-Harvest Sprouting Resistance of an ABA Hypersensitive Mutant ZakERA0. WSCS Wheat Workers Meeting, July 11-13, Pullman, WA. *Presentation*  
+15. Schramm, E.C., **Martinez, S.A.,** Garland-Campbell, K., and Steber, C.M. (2012). Identification of New Sources of Genetic Variation for Seed Dormancy and Pre-Harvest Sprouting Resistance. Dryland Field Day Abstracts, Highlights of Research Progress, July 7, Pullman, WA.  
+16. **Martinez, S.A.,** Garland-Campbell, K., Hulbert, S.H., and Steber, C.M. (2012). Discovering Drought Resistance Mechanisms in Wheat. Dryland Field Day Abstracts, Highlights of Research Progress, June 16, Lind, WA.   
+17. **Martinez, S.,** Murphy, L., Campbell K., Steber, C., Morris, C., (2010). Determining the Location of Genes Contributing to Supersoft. PNW Louis Stokes Alliance for Minority Participation Annual Conference, Seattle, WA. *Poster*  
 
 ---------
 
