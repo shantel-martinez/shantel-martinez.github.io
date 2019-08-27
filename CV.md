@@ -34,7 +34,7 @@ RESEARCH: Characterized the ABA hypersensitive mutant, *Zak ERA8* and wild type 
 SKILLS: SAS, research-based statistics, hormone seed biology, lab notebook techniques, crop field practices    
 
 ### COMMUNICATION  
-#### INVITED TALKS | TECHNICAL#### 
+#### INVITED TALKS | TECHNICAL   
 
 1. ASA, CSSA, SSSA International Annual Meeting, San Antonio, TX. Nov 2019    
    <span style="margin-left:2em">a. [Oral](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/121948): Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs  &nbsp; Nov 11   </span>    
