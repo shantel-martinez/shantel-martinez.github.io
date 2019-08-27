@@ -47,29 +47,32 @@ SKILLS: SAS, research-based statistics, hormone seed biology, lab notebook techn
 6. [Plant and Animal Genome Conference](https://shantel-martinez.github.io/Presentations/S.Martinez%20Seed%20Dormancy%20PAG%202016.pdf), San Diego, CA. Higher Seed Dormancy and ABA Sensitivity Improves Wheat Preharvest Sprouting Tolerance  &nbsp; 2016
 
 #### OUTREACH | NON-TECHNICAL
-1. Small Grains Field Days \| Audience: **Farmers, Breeders, Pathologists**
-2. Grow NYC Variety Showcase \| Audience:Chefs,  **Public, Fresh Market Buyers**   
-3. MPS Plant Science Day \| Audience: Parents and Children K-8
-4. WSU Extension Wheat Academy Workshop \| Audience: **Producers**, Farmers, Commissioners   
-5. LSAMP End of the Year Banquet Keynote Speaker \| Audience: Undergraduates in STEM
-6. Future Cougars of Color Plant Science Workshop \| Audience: High School **Students** 1. ​       
+1. Twitter [@s_amealia](https://twitter.com/s_amealia)  | Audience:  Breeders, **Graduate Students, Data Scientists**
+2. Instagram [@s_amealia](https://instagram.com/s_amealia)  | Audience: **Public, Parents, Family**, Students
+3. Small Grains Field Days \| Audience: **Farmers, Breeders, Pathologists**
+4. Grow NYC Variety Showcase \| Audience: Chefs,  Public, Fresh Market Buyers**   
+5. MPS Plant Science Day \| Audience: Parents and Children K-8
+6. WSU Extension Wheat Academy Workshop \| Audience: **Producers**, Farmers, Commissioners   
+7. LSAMP End of the Year Banquet Keynote Speaker \| Audience: Undergraduates in STEM
+8. Future Cougars of Color Plant Science Workshop \| Audience: High School **Students**        
 
 ### PROFESSIONAL DEVELOPMENT
-<span style="color:#4F94CD">Journal Peer Reviewer</span>:  Agronomy, Molecular Breeding, Plants, Theoretical and Applied Genetics   
-<span style="color:#4F94CD">Large-Scale Field Experiments:</span> Washington cereal breeders and colleagues often requested my field **management skills** for projects that require succinct coordination of large teams (20+ people) while maintaining timely execution of the experiment (i.e. before the heat becomes a danger).    
-<span style="color:#4F94CD">SciComm Workshop</span>: three-day training on **communicating science** to the laymen audiences &nbsp; 2019   
-<span style="color:#4F94CD">Director of Professional Development</span> &nbsp; 2016-2017   
-During my PhD, a handful of graduate students and I noticed a need for opportunities to develop professional skills across all disciplines that just weren't being met within graduate programs. With this crucial need in mind, the [Professional Development Initiative](https://gradschool.wsu.edu/pdi/) (PDI) was created and in one year we implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 graduate student senators, and sat on both the PDI and GPSA Executive Board.   
-SKILLS: Efficient **peer-to-peer communication**, **interdisciplinary collaboration**, conflict resolution, leadership, professionalism, **strong organization**, built relationships with top-level university leadership          
+**Journal Peer Reviewer:**  Agronomy, Molecular Breeding, Plants, Theoretical and Applied Genetics    
+**SciComm Workshop:** training on communicating science to the general audiences &nbsp; 2019       
+**Director of Professional Development** &nbsp; 2016-2017    
+During my PhD, a handful of graduate students and I noticed a need for opportunities to develop professional skills across all disciplines that just weren't being met within graduate programs. With this crucial need in mind, the [Professional Development Initiative](https://gradschool.wsu.edu/pdi/) (PDI) was created and in one year we implemented 30 new professional development events, served over 1,800 attendees, coordinated and lead 11 graduate student senators, and sat on both the PDI and GPSA Executive Board.    
+SKILLS: Efficient peer-to-peer communication, interdisciplinary collaboration, conflict resolution, leadership, professionalism, strong organization, built relationships with top-level university leadership            
 
-### TEACHING & MENTORING  
-▪ Methods of Plant Breeding Laboratory (PLBRG 4060), Cornell University, Ithaca NY. <span style="color:#4F94CD">Co-Instructor.</span> Lecture: Fine Mapping and Cloning Gene. Course Purpose: Introduction to breeding methods used by faculty and staff for different species. Class Size: 15-25 students  &nbsp; Fa 2019  
-▪ Teaching Portfolio Institute, Cornell University, Ithaca NY. <span style="color:#4F94CD">Attendee.</span> Topics: defining teaching philosophy, teaching statement, diversity statement, CV, and syllabus design  &nbsp; Sp 2019  
+### MENTORING 
+Katherine Roberts, New York HS Science Program [Project Award:](<https://www.wesef.org/>) 1st Place Plant Science  &nbsp; 2019    
+Samantha Beck, CAHNRS Internship Program [Project Award:](<https://surca.wsu.edu/past-surca/awards-2017/>) 1st Place Molecular Biology  &nbsp; 2017     
+Dustin Cwuick, LSAMP Internship Program [Project Award:](<https://surca.wsu.edu/past-surca/awards-2016/>) 2nd Place Molecular Biology &nbsp; 2016   
+
+### TEACHING   
+▪ Methods of Plant Breeding Laboratory (PLBRG 4060), Cornell University. <span style="color:#4F94CD">Co-Instructor.</span> Lecture: Fine Mapping and Cloning Gene. Course Purpose: Introduction to breeding methods used by faculty and staff for different species. Class Size: 10-15 students  &nbsp; Fa 2019    
+▪ Teaching Portfolio Institute, Cornell University. <span style="color:#4F94CD">Attendee.</span> Topics: defining teaching philosophy, teaching statement, diversity statement, CV, and syllabus design  &nbsp; Sp 2019  
 ▪ Effective Teaching Strategies, CIRTL Massive Open Online Courses. <span style="color:#4F94CD">Student.</span> Active Learning Through Evidence-Based STEM Teaching  &nbsp; Sp 2019  
-▪ New York HS Science Program, Cornell University, Ithaca NY. <span style="color:#4F94CD">Mentor.</span> Fine mapping preharvest sprouting tolerant QTL in wheat on chromosome 2B using the spike-wetting test. WESEF 1st Place. Katherine Robert   &nbsp; Su 2018, 2019  
-▪ CAHNRS Internship Program, Washington State University, Pullman WA. <span style="color:#4F94CD">Mentor.</span> Fine mapping a locus corresponding to the Enhanced Response to Abscisic acid, ERA8, gene of wheat (Triticum aestivum L.). SURCA 1st Place. Samantha Beck  &nbsp; Su 2016- Sp 2017  
-▪ LSAMP Internship Program, Washington State University, Pullman WA. LSAMP <span style="color:#4F94CD">Mentor.</span> Exploring wheat seed responses to different hormones and incubation temperatures while identifying cultivars susceptible to PHS. SURCA 2nd Place. Dustin Cwuick  &nbsp; Fa 2015 - Sp 2016  
-▪ Plant Breeding (CropS 445), Washington State University, Pullman WA. <span style="color:#4F94CD">Teaching Assistant.</span> Role: grading, substitute lecturer (2x), assist during activities, help students during office hours, and provide exam review sessions. Course Purpose: Understand the genetic principles underlying plant breeding and gain an introduction to the principles and practices of plant breeding. Class Size: 15-25 students  &nbsp; Sp 2015  
+▪ Plant Breeding (CropS 445), Washington State University. <span style="color:#4F94CD">Teaching Assistant.</span> Role: grading, substitute lecturer (2x), assist during activities, help students during office hours, and provide exam review sessions. Course Purpose: Understand the genetic principles underlying plant breeding and gain an introduction to the principles and practices of plant breeding. Class Size: 15-25 students  &nbsp; Sp 2015  
 
 ### AWARDS & FUNDING 
 ▪ NIFA-AFRI Education and Literacy Initiative [Grant](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=79175&format=WEBLINK)  &nbsp; 2018-2020   
@@ -84,7 +87,7 @@ SKILLS: Efficient **peer-to-peer communication**, **interdisciplinary collaborat
 ▪ Distinguished Research Assistantship for Diverse Scholars  &nbsp; 2013-2014 
 
 ### DEPARTMENTAL SERVICES 
-▪ [Corteva Plant Science Symposium](https://plbrgen.cals.cornell.edu/graduate/synapsis/2019-synapsis-symposium/) Committee <span style="color:#4F94CD">Role:</span> Host speakers, implementation of symposium&nbsp;&nbsp;&nbsp;&nbsp;  2019   
+▪ Corteva Plant Science Symposium Committee <span style="color:#4F94CD">Role:</span> Host speakers, implementation of symposium&nbsp;&nbsp;&nbsp;&nbsp;  2019   
 ▪ Molecular Plant Sciences (MPS) Annual Recruitment Symposium Presenter <span style="color:#4F94CD">Role:</span> Highlighted research in the PhD program to new recruits &nbsp;&nbsp; 2017   
 ▪ GPSA MPS Senator <span style="color:#4F94CD">Role:</span> Oversaw $600k budget, maintained updates between PhD program and GPSA &nbsp;&nbsp; 2015-2016  
 ▪ MPS Seminar Committee <span style="color:#4F94CD">Role:</span> Invite, host, and coordinate departmental seminar  &nbsp;&nbsp; 2013-2014, 2015-2016  
