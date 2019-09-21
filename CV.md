@@ -37,10 +37,9 @@ Data Carpentry Workshop: R and Git<span style="float:right;">2017</span>
 Software Carpentry Workshop: Unix and Python <span style="float:right;">2014</span>  
 
 #### **COMMUNICATION** 
-
-**INVITED TALKS | TECHNICAL**
+**INVITED TALKS | TECHNICAL**  
 ASA, CSSA, SSSA International Annual Meeting, San Antonio, TX.<span style="float:right;">Nov 2019 </span>     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Oral](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/121948): Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs<span style="float:right;"> Nov 11   </span>      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Oral](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/121948): Identifying Genomic Prediction Models for PHS Tolerance in NE Wheat Breeding Programs<span style="float:right;"> Nov 11   </span>      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Workshop](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Session/19590): Finding a Common Language for Science  | Topic: Data Visualization<span style="float:right;"> Nov 12   </span>        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Poster](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/122391): Fine-mapping and characterizing the QPhs.cnl-2B.1 found in a Northeast soft white wheat  <span style="float:right;">Nov 13   </span>         
 **Genomic Prediction** | Eastern Wheat Quality Council Meeting, Raleigh, NC.<span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez PHS SWQC 2019.pdf)] 2019</span>    
@@ -49,8 +48,7 @@ ASA, CSSA, SSSA International Annual Meeting, San Antonio, TX.<span style="float
 **GWAS** | ASA, CSSA, SSSA International Annual Meeting, Phoenix, AZ.<span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez PHS GWAS ASA 2016 revised 2018.pdf)] 2016 </span>   
 **Seed Biology** | Plant and Animal Genome Conference, San Diego, CA.  <span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/S.Martinez Seed Dormancy PAG 2016.pdf)] 2016</span>
 
-**OUTREACH | NON-TECHNICAL**
-
+**OUTREACH | NON-TECHNICAL**  
 Twitter [@s_amealia](https://twitter.com/s_amealia) | Audience: Breeders, **Graduate Students, Data Scientists**  <span style="float:right;">-</span>  
 Instagram [@s_amealia](https://instagram.com/s_amealia) | Audience: **Public, Parents, Family**, Students  <span style="float:right;">-</span>  
 SciComm Workshop: training on communicating science to the general audiences <span style="float:right;">2019</span>  
