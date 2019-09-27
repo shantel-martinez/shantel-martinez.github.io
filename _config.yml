@@ -1,4 +1,5 @@
-remote_theme: daviddarnes/alembic
+theme: jekyll-theme-minimal
+
 # Site configuration
 # 1. Files excluded from Jekyll builds
 # 2. Installed Gems
@@ -31,58 +32,20 @@ plugins:
 - jekyll-include-cache
 - jemoji
 
-# 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
-# markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
-# commonmark:
-  # options: ["SMART", "FOOTNOTES"]
-  # extensions: ["strikethrough", "autolink", "table"]
-
-# 4. Jekyll settings
-#sass:
-#  style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-# timezone: Europe/London # Timezone for blog posts and alike
-
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
 title: Shantel A. Martinez
 description: Wheat Molecular Genetics | Preharvest Sprouting
 logo : https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/wheatBWcrop.jpg?raw=true
 url: "https://shantel-martinez.github.io/" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+# baseurl: ""
 # repo: "https://github.com/shantel-martinez/shantel-martinez.github.io"
 email: "shantel.a.martinez@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
 # service_worker: false # Will turn off the service worker if set to false
-css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
-
-# 8. Site favicons & manifest icons
-favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
+# css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 9. Site navigation
 navigation_header:
