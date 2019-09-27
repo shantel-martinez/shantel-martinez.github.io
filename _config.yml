@@ -14,6 +14,9 @@ remote_theme: daviddarnes/alembic
 exclude:
 - README.md
 - Gemfile
+- collaborations.md  
+- tech.md
+- updates.md  
 
 # 2. Installed Gems
 plugins:
@@ -48,11 +51,11 @@ social: # jekyll-seo-tag > social overrides
   # extensions: ["strikethrough", "autolink", "table"]
 
 # 4. Jekyll settings
-sass:
-  style: compressed # Style compression
+#sass:
+#  style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+# timezone: Europe/London # Timezone for blog posts and alike
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
