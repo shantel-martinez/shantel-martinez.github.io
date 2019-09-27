@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: daviddarnes/alembic
 title: Shantel A. Martinez
 description: Wheat Molecular Genetics | Preharvest Sprouting
 logo : https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/wheatBWcrop.jpg?raw=true
