@@ -2,3 +2,25 @@ remote_theme: daviddarnes/alembic
 title: Shantel A. Martinez
 description: Wheat Molecular Genetics | Preharvest Sprouting
 logo : https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/wheatBWcrop.jpg?raw=true
+
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Research
+  url: /research/
+- title: CV
+  url: /CV/
+- title: Talks
+  url: /talks/
+- title: Resources
+  url: /resources/
+- title: R Protocols
+  url: https://shantel-martinez.github.io/Rmd%20Protocols/R%20Protocols.html
+- title: Lab Protocols
+  url: https://shantel-martinez.github.io/Rmd%20Protocols/Lab%20Protocols.html
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/s_amealia
+  LinkedIn: https://www.linkedin.com/in/shantel-a-martinez/
+  GitHub: https://github.com/shantel-martinez
