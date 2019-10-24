@@ -5,7 +5,7 @@
 ## Lecture  
 **Plant Breeding and Genetics 4060, Cornell University** Oct, 2019   
 Topic: Fine mapping and cloning genes [PDF](./Presentations/ET_SM fine mapping lecture.pdf) [Handouts](https://docs.google.com/spreadsheets/d/1Q2Vk2jL3fFIrPeyyOT0KHQXYULPGhvjFHuCv1kOPy0w/edit#gid=1318519071)   
-Co-Instructed with [Ella Taagen]   
+Co-Instructed with [Ella Taagen](https://www.linkedin.com/in/ella-taagen-55922113b/)   
 
 ## Research   
 **Soft Wheat Quality Laboratory Annual Research Review** Apr 23, 2019   
