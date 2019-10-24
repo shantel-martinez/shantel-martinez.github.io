@@ -2,8 +2,12 @@
 
 # Talks  
 
+## Lecture  
+**Plant Breeding and Genetics 4060** Oct, 2019   
+Topic: Fine mapping and cloning [PDF](./Presentations/ET_SM fine mapping lecture.pdf)   
+Instructors: Ella Taagen & Shantel A Martinez, Cornell University   
 
-## Current  
+## Research   
 **Soft Wheat Quality Laboratory Annual Research Review** Apr 23, 2019   
 Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs [PDF](./Presentations/SMartinez PHS SWQC 2019.pdf)  
 
