@@ -8,10 +8,10 @@ Topic: Fine mapping and cloning genes [PDF](./Presentations/ET_SM fine mapping l
 Co-Instructed with [Ella Taagen](https://www.linkedin.com/in/ella-taagen-55922113b/)   
 
 ## Research   
-**Soft Wheat Quality Laboratory Annual Research Review** Apr 23, 2019   
+**Soft Wheat Quality Laboratory Annual Research Review** Apr, 2019   
 Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs [PDF](./Presentations/SMartinez PHS SWQC 2019.pdf)  
 
-**Falling Numbers Workshop** Jan 29, 2019  
+**Falling Numbers Workshop** Jan, 2019  
 The First Step to Tackling the FN Problem: Identifying PHS Tolerant Genes/QTL in PNW Germplasm [PDF](./Presentations/SMartinez FN Workshop 2019.pdf) &nbsp;&nbsp;&nbsp;&nbsp;  [PDF + Notes](./Presentations/SMartinez FN Workshop 2019 plus notes.pdf)  
 
 ## Archived   
