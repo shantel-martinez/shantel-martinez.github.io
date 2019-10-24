@@ -8,6 +8,7 @@ Topic: Fine mapping and cloning genes [Presentation](./Presentations/ET_SM fine 
 Co-Instructed with [Ella Taagen](https://www.linkedin.com/in/ella-taagen-55922113b/)   
 
 ## Research   
+
 **Soft Wheat Quality Laboratory Annual Research Review** Apr, 2019   
 Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs [PDF](./Presentations/SMartinez PHS SWQC 2019.pdf)  
 
