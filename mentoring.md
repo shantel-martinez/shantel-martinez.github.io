@@ -1,8 +1,15 @@
 [HOME](./index.html)
 
 # Mentoring  
+---------------
+## Minority  
+
+![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/48936101197_e00f349160_ob.jpg)
+**LS Alliance for Minority Participation Conference** | Oct 2019
+Theme: Building on the Best; Workshop: Mentorship
 
 ---------------
+## Undergraduates  
 
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/KRoberts.jpg?raw=true)  
 **Katherine Roberts**  | Su 2018     
