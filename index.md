@@ -3,7 +3,9 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
  
 [Research](./research.html) | [Resources](./resources.html)<br/>
 [Mentoring](./mentoring.html) | [Outreach](./outreach.html)<br/>
+
 ---------
+
 [CV](./CV.html)    
 [Talks](./talks.html)  
 [R Protocols](./Rmd Protocols/R Protocols.html)   |  [Lab Protocols](./Rmd Protocols/Lab Protocols.html)    
