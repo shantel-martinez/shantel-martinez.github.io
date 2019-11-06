@@ -4,11 +4,10 @@
 ---------------
 ## LS Alliance for Minority Participation  
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/48936101197_e00f349160_ob.jpg?raw=true)    
-![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/48936103592_66482f26a7_o.jpg?raw=true)  
 **GEM Grad Lab & LSAMP Conference** | Oct 2019  
 Theme: Building on the Best   
-Workshop Topic: Maximizing Mentorships
-
+Workshop Topic: Maximizing Mentorships  
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I asked undergrads today in my workshop where they&#39;ve found mentors so far in their life/career...<br><br>My support system/mentors are a big reason I&#39;ve accomplished what I have.<br><br>Identifying the importance of mentorship early on is so crucial<br> <a href="https://twitter.com/hashtag/ULSAMP19?src=hash&amp;ref_src=twsrc%5Etfw">#ULSAMP19</a> <a href="https://twitter.com/hashtag/GEMGRADLab?src=hash&amp;ref_src=twsrc%5Etfw">#GEMGRADLab</a> <a href="https://twitter.com/GEMFellowship?ref_src=twsrc%5Etfw">@GEMFellowship</a> <a href="https://t.co/VqGwi90oRP">pic.twitter.com/VqGwi90oRP</a></p>&mdash; Shantel A Martinez (@s_amealia) <a href="https://twitter.com/s_amealia/status/1185651449142874114?ref_src=twsrc%5Etfw">October 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 ---------------
 ## Undergraduates  
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/KRoberts.jpg?raw=true)  
