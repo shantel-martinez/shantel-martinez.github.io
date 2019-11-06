@@ -1,6 +1,13 @@
 ## Hello Fellow Wheat Enthusiasts   
 Welcome to my hub of wheat science resources, links to presentations, CV, and basic info on all the ways to contact me.  
  
+Hope you all are enjoying the ASA/CSSA/SSSA International Meeting.  
+Find my contact information at the bottomw of the page.  
+View my [poster](https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Presentations/SMartinez_CayugaMapping_v7.pdf) and current/previous [talks](./talks.html).    
+
+
+-------
+ 
 [Research](./research.html)  
 [Resources](./resources.html)<br/>
 [Mentoring](./mentoring.html)   
@@ -8,7 +15,8 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 
 ---------
 
-[R Protocols](./Rmd Protocols/R Protocols.html)   |  [Lab Protocols](./Rmd Protocols/Lab Protocols.html)    
+[R Protocols](./Rmd Protocols/R Protocols.html)  
+[Lab Protocols](./Rmd Protocols/Lab Protocols.html)    
 
 ---------
 
