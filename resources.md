@@ -5,7 +5,6 @@
 ---------
 
 [Background](./research.html)  
-[Genetics](./Genetics.html)  
 [Objectives](./objectives.html)  
 [Resources]()  
 
