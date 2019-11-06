@@ -7,7 +7,7 @@
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/48936101197_e00f349160_ob.jpg)  
 **GEM Grad Lab & LSAMP Conference** | Oct 2019  
 Theme: Building on the Best   
-Workshop Topic: Maximizing your Mentorship
+Workshop Topic: Maximizing Mentorships
 
 ---------------
 ## Undergraduates  
