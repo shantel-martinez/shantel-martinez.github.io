@@ -13,7 +13,7 @@ Follow the links for my [poster](https://github.com/shantel-martinez/shantel-mar
 <br/>
 [R Protocols](./Rmd Protocols/R Protocols.html)  
 [Lab Protocols](./Rmd Protocols/Lab Protocols.html)    
-**My #TidyTuesday** Week 20 [step-by-step guide](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/TidyTuesdayWk20.html)   
+**#TidyTuesday** Week 20 [step-by-step guide](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/TidyTuesdayWk20.html)   
 
 ---------
 
