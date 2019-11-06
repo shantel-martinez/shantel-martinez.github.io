@@ -1,13 +1,13 @@
 ## Hello Fellow Wheat Enthusiasts   
 Welcome to my hub of wheat science resources, links to presentations, CV, and basic info on all the ways to contact me.  
  
-[Research](./research.html) | [Resources](./resources.html)<br/>
-[Mentoring](./mentoring.html) | [Outreach](./outreach.html)<br/>
+[Research](./research.html)  
+[Resources](./resources.html)<br/>
+[Mentoring](./mentoring.html)   
+[Outreach](./outreach.html)<br/>
 
 ---------
 
-[CV](./CV.html)    
-[Talks](./talks.html)  
 [R Protocols](./Rmd Protocols/R Protocols.html)   |  [Lab Protocols](./Rmd Protocols/Lab Protocols.html)    
 
 ---------
@@ -19,6 +19,7 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 ---------
 
 ### Contact   
+[CV](./CV.html)    
 Office: [Bradfield Hall](https://goo.gl/maps/Yfk3XHpH1wk) Rm 420 | Cornell University   
 Email: [sam594@cornell.edu](mailto:sam594@cornell.edu) or [shantel.a.martinez@gmail.com](mailto:shantel.a.martinez@gmail.com)   
 Twitter: [s_amealia](https://twitter.com/s_amealia)    
