@@ -11,6 +11,10 @@
 ----------
 
 ## Resources 
+
+[Talks](./talks.html)  
+
+
 **90k Illumina Array SNP Positions**
 
 Quite often, I read a journal article and think to myself "I wonder what the position of this 90k marker linked to this QTL is?".  Originally I had to [blast](https://urgi.versailles.inra.fr/blast_iwgsc/blast.php) the marker one at a time against the wheat genome, but that gets tedious (and you also need to know the marker sequence, fun). But URGI does have the SNPs aligned to the [RefSeqv1.0 JBrowse](https://urgi.versailles.inra.fr/jbrowseiwgsc/gmod_jbrowse/?data=myData%2FIWGSC_RefSeq_v1.0&loc=chr2B%3A156419001..157450000&tracks=HighConfidenceGenesv1.0%2CHighConfidenceGenes%2CINFINIUM90K_SUMMARY&highlight=). So, I downloaded the Infinium 90k track data for every chromosome and piled them into one [excel file](https://drive.google.com/open?id=1u7VcC2kejH1ky9KtPQvyc0DcTPjQI4P0) for a quick reference. Feel free to download the quick resource for easy comparison of marker with position. 
