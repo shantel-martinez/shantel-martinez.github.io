@@ -3,16 +3,14 @@
 # Mentoring  
 ---------------
 ## LS Alliance for Minority Participation  
-
-![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/48936101197_e00f349160_ob.jpg)  
-![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/48936103592_66482f26a7_o.jpg)
+![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/48936101197_e00f349160_ob.jpg)    
+![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/48936103592_66482f26a7_o.jpg)  
 **GEM Grad Lab & LSAMP Conference** | Oct 2019  
 Theme: Building on the Best   
 Workshop Topic: Maximizing Mentorships
 
 ---------------
 ## Undergraduates  
-
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/KRoberts.jpg?raw=true)  
 **Katherine Roberts**  | Su 2018     
 High School Science Program, Cornell University, Ithaca NY  
