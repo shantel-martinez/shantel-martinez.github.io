@@ -1,11 +1,8 @@
 ## Hello Fellow Wheat Enthusiasts   
 Welcome to my hub of wheat science resources, links to presentations, CV, and basic info on all the ways to contact me.  
  
-[Research](./research.html)<br/>
-[Mentoring](./mentoring.html)<br/>
-[Outreach](./outreach.html)<br/>
-[Resources](./resources.html)<br/>
-
+[Research](./research.html) | [Resources](./resources.html)<br/>
+[Mentoring](./mentoring.html) | [Outreach](./outreach.html)<br/>
 ---------
 [CV](./CV.html)    
 [Talks](./talks.html)  
