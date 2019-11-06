@@ -3,7 +3,6 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
  
 **Hope you all are enjoying the ASA/CSSA/SSSA International Meeting.  
 Follow the links for my [poster](https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Presentations/SMartinez_CayugaMapping_v7.pdf) and current/previous [talks](./talks.html).**    
-More resources & my contact info below:
 
 -------
  
