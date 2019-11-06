@@ -7,7 +7,6 @@ Shantel’s research career, so far, has been trying to identify genes contribut
 ---------
 
 [Background]()  
-[Genetics](./Genetics.html)  
 [Objectives](./objectives.html)  
 [Resources](./resources.html)  
 
