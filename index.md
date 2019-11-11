@@ -2,7 +2,7 @@
 Welcome to my hub of wheat science resources, links to presentations, CV, and basic info on all the ways to contact me.  
  
 **Hope you all are enjoying the ASA/CSSA/SSSA International Meeting.  
-Follow the links for my [poster](./Presentations/SMartinez_CayugaMapping_v7.pdf) and current/previous [talks](./talks.html).**    
+Follow the links for my [poster](./Presentations/SMartinez_CayugaMapping_v7.pdf) and [presentation](./Presentations/SMartinez_GenomicPrediction_ASA_20191110.pdf) in addition to my previous [talks](./talks.html).**    
 
 -------
  
