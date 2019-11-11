@@ -10,7 +10,7 @@ Co-Instructed with [Ella Taagen](https://www.linkedin.com/in/ella-taagen-5592211
 ## Research   
 
 **ASA, CSSA, SSSA International Meeting** Nov, 2019    
-Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs [PDF COMING SOON](./Presentations/)   
+Identifying Loci and Genomic Prediction Models for PHS Tolerance in Northeast Soft Wheat Breeding Programs [PDF](./Presentations/SMartinez_GenomicPrediction_ASA_20191110.pdf)   
 
 Fine-Mapping and Characterizing the Qphs.Cnl-2B.1 found in a Northeast Soft White Wheat [PDF](./Presentations/SMartinez_CayugaMapping_v7.pdf)
 
