@@ -3,7 +3,7 @@
  [Industry Resume PDF](./CV/SMartinez_Resume_Sept2019.pdf) &nbsp;&nbsp;&nbsp;&nbsp;  [Academic CV PDF](./CV/SMartinez_CV_Aug2019.pdf) 
 
 ## Postdoctoral Fellow in Plant Breeding and Genetics  
-I am a quantitative crop scientist with a research focus on wheat genetics at Cornell University. I am seeking to continue working on research with a direct application of field crops to the farmers by integrating my interdisciplinary scientific knowledge and passion for data analytics. I believe strongly in being able to communicate science to non-scientists and cultivating a collaborative work environment as fundamental career priorities. 
+I am a quantitative crop scientist with a research focus on wheat genetics at Cornell University. I am seeking to continue working on projects with a direct application to the farmers by integrating my interdisciplinary agriculture knowledge, statistical genomics, and passion for data analytics. I believe strongly in being able to communicate science across disciplines and cultivating a collaborative work environment as fundamental career priorities. 
 
 #### EDUCATION
 Ph.D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Molecular Plant Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Washington State University, Pullman WA <span style="float:right;">2018</span>  
