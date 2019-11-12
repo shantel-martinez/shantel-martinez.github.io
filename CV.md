@@ -38,15 +38,12 @@ Software Carpentry Workshop: Unix and Python <span style="float:right;">2014</sp
 
 #### **COMMUNICATION** 
 **INVITED TALKS | TECHNICAL**  
-ASA, CSSA, SSSA International Annual Meeting, San Antonio, TX.<span style="float:right;">Nov 2019 </span>     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Oral](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/121948): Identifying Genomic Prediction Models for PHS Tolerance in NE Wheat Breeding Programs<span style="float:right;"> Nov 11   </span>      
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Workshop](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Session/19590): Finding a Common Language for Science  | Topic: Data Visualization<span style="float:right;"> Nov 12   </span>        
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Poster](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/122391): Fine-mapping and characterizing the QPhs.cnl-2B.1 found in a Northeast soft white wheat  <span style="float:right;">Nov 13   </span>         
-**Genomic Prediction** | Eastern Wheat Quality Council Meeting, Raleigh, NC.<span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez PHS SWQC 2019.pdf)] 2019</span>    
-**Falling Numbers** | Western Wheat Quality Meeting, Portland, OR. <span style="float:right;"> [[pdf](https://shantel-martinez.github.io/Presentations/SMartinez FN Workshop 2019.pdf)] 2019</span>  
-**QTL Mapping** | International Seed Science Society Conference, Monterey, CA. <span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez_ISSS_2017.pdf)] 2017</span>   
-**GWAS** | ASA, CSSA, SSSA International Annual Meeting, Phoenix, AZ.<span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez PHS GWAS ASA 2016 revised 2018.pdf)] 2016 </span>   
-**Seed Biology** | Plant and Animal Genome Conference, San Diego, CA.  <span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/S.Martinez Seed Dormancy PAG 2016.pdf)] 2016</span>
+**Genomic Prediction** | ASA, CSSA, SSSA International Annual Meeting, San Antonio, TX<span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez_GenomicPrediction_ASA_20191110.pdf)] 2019</span>   
+**Genomic Prediction** | Eastern Wheat Quality Council Meeting, Raleigh, NC.<span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez PHS SWQC 2019.pdf)] 2019</span>   
+**GWAS** | Western Wheat Quality Meeting, Portland, OR <span style="float:right;"> [[pdf](https://shantel-martinez.github.io/Presentations/SMartinez FN Workshop 2019.pdf)] 2019</span>  
+**QTL Mapping** | International Seed Science Society Conference, Monterey, CA <span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez_ISSS_2017.pdf)] 2017</span>   
+**GWAS** | ASA, CSSA, SSSA International Annual Meeting, Phoenix, AZ<span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez PHS GWAS ASA 2016 revised 2018.pdf)] 2016 </span>    
+**Seed Biology** | Plant and Animal Genome Conference, San Diego, CA  <span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/S.Martinez Seed Dormancy PAG 2016.pdf)] 2016</span>  
 
 **OUTREACH | NON-TECHNICAL**  
 Twitter [@s_amealia](https://twitter.com/s_amealia) | Audience: Breeders, **Graduate Students, Data Scientists**  <span style="float:right;">-</span>  
@@ -86,11 +83,12 @@ GPSA Research Expo - Agriculture & Natural Science 1st place      <span style="f
 
 #### **PUBLICATIONS** 
 ##### JOURNAL ARTICLES:  
-1. **Martinez, S.A.**, Godoy J., Huang M., Zhang Z., Carter A.H., Garland Campbell, K.A., and Steber, C.M. (2018a). Genome-Wide Association Mapping for Tolerance to Preharvest Sprouting and Low Falling Numbers in Wheat. [Frontiers in Plant Science](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141). 9, 1-16. 
-2. **Martinez, S.A.**, Thompson A.L., Wen N., Murphy L., Sanquinet K.A., M., Steber, C.M., and Garland Campbell, K. (2018b). Registration of the Louise/Alpowa Wheat Recombinant Inbred Line Mapping Population. [Journal of Plant Registrations](https://dl.sciencesocieties.org/publications/jpr/abstracts/0/0/jpr2017.08.0053crmp?access=0&view=pdf). 
-3. **Martinez, S.A.**, Tuttle, K., Takebayashi, Y., Seo, M., Garland Campbell, K., and Steber, C.M. (2016). The Wheat ABA Hypersensitive ERA8 Mutant is Associated with Increased Preharvest Sprouting Tolerance and Altered Hormone Accumulation. [Euphytica](http://link.springer.com/article/10.1007/s10681-016-1763-6). 212, 229-245. 
-4. Tuttle, K.M., **Martinez, S.A.**, Schramm, E.C., Takebayashi, Y., Seo, M., and Steber, C.M. (2015). Grain dormancy loss is associated with changes in ABA and GA sensitivity and hormone accumulation in bread wheat, Triticum aestivum (L.). [Seed Science Research](http://www.journals.cambridge.org/abstract_S0960258515000057) 1–15. 
-5. **Martinez, S.A.**, Schramm, E.C., Harris, T.J., Kidwell, K.K., Garland-Campbell, K., and Steber, C.M. (2014). Registration of Zak Soft White Spring Wheat Germplasm with Enhanced Response to ABA and Increased Seed Dormancy. [Journal of Plant Registrations](https://www.crops.org/publications/jpr/abstracts/8/2/217) 8, 217-220. 
+1. **Martinez, S.A.**, O. Shorinola, S. Conselman, D. See, D.Z. Skinner, C. Uauy, and C.M. Steber. (2019). Exome sequencing of bulked segregants identified a novel *TaMKK3-A* allele linked to the wheat *ERA8* ABA-hypersensitive germination phenotype. [bioRxiv **Preprint**](https://doi.org/10.1101/784652) 784652. *Accepted: TAG*   
+2. **Martinez, S.A.**, Godoy J., Huang M., Zhang Z., Carter A.H., Garland Campbell, K.A., and Steber, C.M. (2018a). Genome-Wide Association Mapping for Tolerance to Preharvest Sprouting and Low Falling Numbers in Wheat. [Frontiers in Plant Science](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141). 9, 1-16. 
+3. **Martinez, S.A.**, Thompson A.L., Wen N., Murphy L., Sanquinet K.A., M., Steber, C.M., and Garland Campbell, K. (2018b). Registration of the Louise/Alpowa Wheat Recombinant Inbred Line Mapping Population. [Journal of Plant Registrations](https://dl.sciencesocieties.org/publications/jpr/abstracts/0/0/jpr2017.08.0053crmp?access=0&view=pdf). 
+4. **Martinez, S.A.**, Tuttle, K., Takebayashi, Y., Seo, M., Garland Campbell, K., and Steber, C.M. (2016). The Wheat ABA Hypersensitive ERA8 Mutant is Associated with Increased Preharvest Sprouting Tolerance and Altered Hormone Accumulation. [Euphytica](http://link.springer.com/article/10.1007/s10681-016-1763-6). 212, 229-245. 
+5. Tuttle, K.M., **Martinez, S.A.**, Schramm, E.C., Takebayashi, Y., Seo, M., and Steber, C.M. (2015). Grain dormancy loss is associated with changes in ABA and GA sensitivity and hormone accumulation in bread wheat, Triticum aestivum (L.). [Seed Science Research](http://www.journals.cambridge.org/abstract_S0960258515000057) 1–15. 
+6. **Martinez, S.A.**, Schramm, E.C., Harris, T.J., Kidwell, K.K., Garland-Campbell, K., and Steber, C.M. (2014). Registration of Zak Soft White Spring Wheat Germplasm with Enhanced Response to ABA and Increased Seed Dormancy. [Journal of Plant Registrations](https://www.crops.org/publications/jpr/abstracts/8/2/217) 8, 217-220. 
 
 ##### ABSTRACTS:  
 1. **Martinez, S.A.,** Godoy J., Huang M., Zhang Z., Carter A.H., Garland Campbell, K.A., and Steber, C.M. (2019). The First Step to Tackling the FN Problem: Identifying Tolerant Genes/QTL in PNW Germplasm. FN Workshop, Jan 30, Portland, OR. *Presentation*  
