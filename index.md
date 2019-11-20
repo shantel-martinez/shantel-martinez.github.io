@@ -1,7 +1,9 @@
 ## Hello Fellow Wheat Enthusiasts   
 Welcome to my hub of wheat science resources, links to presentations, CV, and basic info on all the ways to contact me.  
- 
-**Hope you all are enjoying the ASA/CSSA/SSSA International Meeting.  
+
+Here for the wheat breeding candidate seminar, find the pdf [here](./Presentations/SMartinez_WheatBreeding20191120.pdf)
+
+**Hope you all are enjoyed the ASA/CSSA/SSSA International Meeting.  
 Follow the links for my [poster](./Presentations/SMartinez_CayugaMapping_v7.pdf) and [presentation](./Presentations/SMartinez_GenomicPrediction_ASA_20191110.pdf), in addition to my previous [talks](./talks.html).**    
 
 <span style="color:`#023244FF">Are you here to view my qualifications? Here is my resume in [**html**](./CV.html) or [**pdf**](./CV/SMartinez_Resume_Nov2019.pdf) format.</span>  
