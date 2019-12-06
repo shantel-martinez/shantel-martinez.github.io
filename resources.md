@@ -14,6 +14,25 @@
 
 [Talks](./talks.html)  
 
+**Heritability:** 
+Summary of heritability equations for balanced and unbalanced datasets. 
+![](https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Notebooks/img/HeritabilitySummary.jpg)
+There are more ways to calculated H2 based on if you do spatial correction, gxe, and so on, but this is a start. 
+You can obtain &sigma; g 2 (genotype variance) and &sigma; e 2 (residual variance) in R using the lme4 package with VarCorr(model)  after you've defined your model,
+but Dan Sweeney shared with me his function to calculate vBLUP:
+<pre>
+  <code>
+    Cullis_H2=function(model){
+  library(arm)
+  ses<- se.ranef(model)$'GID' #where 'm' is your model object from 'lmer' (replace 'genotypes' with whatever you call your individuals in the data)
+  v_BLUP<- ses^2
+  sigma2_g=VarCorr(model, comp="Variance")$'GID'[1]
+  Reliability<- 1- v_BLUP/ (2*sigma2_g)  #where sigma2_g is the genetic variance estimated with the model saved in 'm'
+  H2<- round(mean(Reliability),3) #This is equivalent to broad-sense heritability on the line-mean (or family-mean, if your individuals are non-inbred families) basis
+  H2
+}
+  </code>
+</pre>
 
 **90k Illumina Array SNP Positions**
 
