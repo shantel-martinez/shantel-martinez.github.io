@@ -24,7 +24,7 @@ You can obtain &sigma; g 2 (genotype variance) and &sigma; e 2 (residual varianc
 model1 <- lmer(Pheno~(1|genotypes)+Env+HD, data = EliteProgramData) 
 S_1 <- as.data.frame(VarCorr(model1)); 
 sigma2_g <- S_1[1,4]
-sigma2_e <- S_1[2,4] #Assuming your model only has 1 random effect. If more than one, [2,4] becomes [n,4]
+sigma2_e <- S_1[2,4] #Assuming your model only has 1 random effect. If more than one, [2,4] becomes [n,4] where n = number of random effects + 1 
   
 Cullis_H2=function(model){
   library(arm)
