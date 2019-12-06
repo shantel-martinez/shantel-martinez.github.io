@@ -27,11 +27,14 @@ model1 <- lmer(Pheno~(1|genotypes)+Env+HD, data = EliteProgramData)
 S_1 <- as.data.frame(VarCorr(model1)); 
 sigma2_g <- S_1[1,4]
 sigma2_e <- S_1[2,4] #Assuming your model only has 1 random effect. If more than one, [2,4] becomes [n,4] where n = number of random effects + 1 
+
+#Balanced H2
 FalMac_H2 <- sigma2_g / (sigma2_g + sigma2_e)
 
 m <- length(unique(EliteProgramData$Env))
 MultiEnv_H2 <- sigma2_g / (sigma2_g + (sigma2_e/m))
-  
+
+#Unbalanced H2
 Cullis_H2=function(model){
   library(arm)
   ses<- se.ranef(model)$'genotypes' #where 'm' is your model object from 'lmer' (replace 'genotypes' with whatever you call your individuals in the data)
