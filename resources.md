@@ -21,7 +21,7 @@ There are more ways to calculated H2 based on if you do spatial correction, gxe,
 You can obtain &sigma; g 2 (genotype variance) and &sigma; e 2 (residual variance) in R using the lme4 package with VarCorr(model)  after you've defined your model, but Dan Sweeney shared with me his function to calculate vBLUP:  
 <pre>
   <code>
-    Cullis_H2=function(model){
+  Cullis_H2=function(model){
   library(arm)
   ses<- se.ranef(model)$'GID' #where 'm' is your model object from 'lmer' (replace 'genotypes' with whatever you call your individuals in the data)
   v_BLUP<- ses^2
