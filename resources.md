@@ -18,7 +18,7 @@
 Summary of heritability equations for balanced and unbalanced datasets.   
 There are more ways to calculated H2 based on if you do spatial correction, gxe, and so on, but this is a start.   
 ![](https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Notebooks/img/HeritabilitySummary.jpg)  
-You can obtain &sigma; g 2 (genotype variance) and &sigma; e 2 (residual variance) in R using the lme4 package with VarCorr(model)  after you've defined your model, but Dan Sweeney shared with me his function to calculate vBLUP:  
+You can obtain &sigma; g 2 (genotype variance) and &sigma; e 2 (residual variance) in R using the `lme4` package with `VarCorr(model)`  after you've defined your model, but Dan Sweeney shared with me his function to calculate vBLUP:  
 <pre>
   <code>
   Cullis_H2=function(model){
