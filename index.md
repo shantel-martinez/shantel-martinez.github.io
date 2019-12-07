@@ -6,7 +6,6 @@ Here for the wheat breeding candidate seminar, find the pdf [here](./Presentatio
 **Hope you all enjoyed the ASA/CSSA/SSSA International Meeting.  
 Follow the links for my [poster](./Presentations/SMartinez_CayugaMapping_v7.pdf) and [presentation](./Presentations/SMartinez_GenomicPrediction_ASA_20191110.pdf), in addition to my previous [talks](./talks.html).**    
 
-<span style="color:`#023244FF">Are you here to view my qualifications? Here is my resume in [**html**](./CV.html) or [**pdf**](./CV/SMartinez_Resume_Nov2019.pdf) format.</span>  
 
 -------
  
@@ -22,7 +21,7 @@ Follow the links for my [poster](./Presentations/SMartinez_CayugaMapping_v7.pdf)
 ---------
 
 ### Contact   
-[CV](./CV.html)    
+[Resume/CV](./CV.html)    
 Office: [Bradfield Hall](https://goo.gl/maps/Yfk3XHpH1wk) Rm 420 | Cornell University   
 Email: [sam594@cornell.edu](mailto:sam594@cornell.edu) or [shantel.a.martinez@gmail.com](mailto:shantel.a.martinez@gmail.com)   
 Twitter: [s_amealia](https://twitter.com/s_amealia)    
