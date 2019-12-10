@@ -1,18 +1,6 @@
-## Online Coding Cheatsheets 
 
-### Simple cheat sheets for markdown:
 
-[Github Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | [Github markdown](https://help.github.com/en/categories/writing-on-github)| [md Basics](https://www.markdownguide.org/basic-syntax/) | [Typora document](http://support.typora.io/Markdown-Reference/) | [R md document](https://bookdown.org/yihui/rmarkdown/html-document.html)
-K. Broman has a great blog (is that what you call it?) on [R Markdown](https://kbroman.org/knitr_knutshell/pages/Rmarkdown.html)
-
-### Simple cheat sheets for Jupyter Notebook:
-
-[Jupyter Notebook shortcuts](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html)
-Datacamps Jupyter and R markdown [cheatsheet](https://datacamp-community-prod.s3.amazonaws.com/48093c40-5303-45f4-bbf9-0c96c0133c40)
-
-------
-
-## Other Computing Resources 
+## Computing Resources 
 
 ### Data Management
 
@@ -38,8 +26,19 @@ A compare and contrast of [how the Economist presents their data figures](https:
 Want some figure inspiration? Check out the [tidyverse](https://twitter.com/search?q=%23tidyverse&src=tyah), [dataviz](https://twitter.com/search?q=%23dataviz&src=typd) and [TidyTuesday](https://twitter.com/search?q=%23TidyTuesday&src=tyah) hashtags on instagram
 
 ------
+## Online Coding Cheatsheets 
 
-## Coding Shortcuts
+### Simple cheat sheets for markdown:
+
+[Github Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | [Github markdown](https://help.github.com/en/categories/writing-on-github)| [md Basics](https://www.markdownguide.org/basic-syntax/) | [Typora document](http://support.typora.io/Markdown-Reference/) | [R md document](https://bookdown.org/yihui/rmarkdown/html-document.html)
+K. Broman has a great blog (is that what you call it?) on [R Markdown](https://kbroman.org/knitr_knutshell/pages/Rmarkdown.html)
+
+### Simple cheat sheets for Jupyter Notebook:
+
+[Jupyter Notebook shortcuts](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html)
+Datacamps Jupyter and R markdown [cheatsheet](https://datacamp-community-prod.s3.amazonaws.com/48093c40-5303-45f4-bbf9-0c96c0133c40)
+
+------
 
 *If recently unused, I often forget these coding commands or shortcuts and I have to google search them again. Instead, I just keep my running list of forgotten favorites listed here*
 
