@@ -1,11 +1,11 @@
 [HOME](./index.html)
 
-## R Protocols     
--------------
-[Heritability](./Rmd Protocols/Heritability.html)  
-
+# R Protocols     
 
 ## Plant Breeding & Genetics  
+[Heritability](./Rmd Protocols/Heritability.html)   
+
+
 
 ### Data Visualization   
 Want some figure inspiration?  
