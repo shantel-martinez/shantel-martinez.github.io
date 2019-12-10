@@ -1,4 +1,5 @@
-[HOME](./index.html)
+[HOME](../index.html)  
+[Return to R Protocols](../RProtocols.html)  
 
 # Heritability:   
 Summary of heritability equations for balanced and unbalanced datasets.   
