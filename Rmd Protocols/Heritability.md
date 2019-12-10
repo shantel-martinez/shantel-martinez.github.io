@@ -1,4 +1,6 @@
-**Heritability:**   
+[HOME](./index.html)
+
+# Heritability:   
 Summary of heritability equations for balanced and unbalanced datasets.   
 There are more ways to calculated H2 based on if you do spatial correction, gxe, and so on, but this is a start.   
 ![](../Notebooks/img/HeritabilitySummary.jpg)   
