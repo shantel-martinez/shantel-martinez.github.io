@@ -13,8 +13,7 @@ Tricks of the trade. A compilation of topics I found to be useful while coding i
 [GWAS in GAPIT]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Determining what is the `favorable` allele for your trait based on the + or - effect in GAPIT    
 [Genomic Prediction]()  
-<a href="https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/GS_one-step_notes_CNL.html?flush_cache=true" style="color:#8B8378"><b>PHS GS One-step Approach</b></a>   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rrbLUP five-fold cross-validation broken down and explained in an R markdown notebook
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/GS_one-step_notes_CNL.html?flush_cache=true" style="color:#8B8378"><b>PHS GS One-step Approach</b></a> rrbLUP five-fold cross-validation broken down and explained in an R markdown notebook
 
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/onestep%20vs%20twostep.jpg?raw=true)
 <a href="https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/GPModelTutorial_20190219.html?flush_cache=true" style="color:#8B7D7B"><b>Five-Fold CV</b></a>    
