@@ -20,12 +20,12 @@ Want some figure inspiration from R?
 Join the [Data Visualization Soceity](https://www.datavisualizationsociety.com/)   
 
 ### Resources  
-[Computing Resources](./Rmd Protocols/CodingShortcuts.html) includes topics such as data management, electronic notebooks, coding shortcuts and links to cheatsheets.     
-Tips on how to improve your R code:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [google style suggestions](https://google.github.io/styleguide/Rguide.html)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Talk by Karl Broman on [collaborating reproducibly](https://www.biostat.wisc.edu/~kbroman/presentations/rrcollab.pdf) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Feel free to get lost in his blog posts on everything coding, science, and reproducability. https://kbroman.org/blog/
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is where I started. But most of the new tricks I learn is reading stackoverflow posts when I am trying to find a coding solution, and also twitters #Rstat and #tidytuesday hashtags give me a lot of articles on how to tidy code up or run things a different way. 
+[Computing Resources](./Rmd Protocols/CodingShortcuts.html) includes topics such as data management, electronic notebooks, coding shortcuts and links to cheatsheets.      
+Tips on how to improve your R code:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [google style suggestions](https://google.github.io/styleguide/Rguide.html)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Talk by Karl Broman on [collaborating reproducibly](https://www.biostat.wisc.edu/~kbroman/presentations/rrcollab.pdf)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Feel free to get lost in his blog posts on everything coding, science, and reproducability. https://kbroman.org/blog/   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is where I started. But most of the new tricks I learn is reading stackoverflow posts when I am trying to find a coding solution, and also twitters #Rstat and #tidytuesday hashtags give me a lot of articles on how to tidy code up or run things a different way.   
 
 ### Genomic Prediction  
 ![](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/onestep%20vs%20twostep.jpg?raw=true)
