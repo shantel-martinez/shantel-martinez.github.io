@@ -3,10 +3,10 @@
 ## R Protocols     
 
 ### Plant Breeding & Genetics  
-[Heritability](./Rmd Protocols/Heritability.html)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[QTL Analysis](http://rpubs.com/shantel-martinez/ERA8-Mapping) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I recently published an article that included QTL analysis; follow the entire workflow from data to the [publication](https://www.biorxiv.org/content/10.1101/784652v1.full) figures.   
+[Heritability](./Rmd Protocols/Heritability.html)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+[QTL Analysis](http://rpubs.com/shantel-martinez/ERA8-Mapping)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I recently published an article that included QTL analysis; follow the entire workflow from data to the [publication](https://www.biorxiv.org/content/10.1101/784652v1.full) figures.     
 
 ### Data Visualization   
 Want some figure inspiration from R?  
