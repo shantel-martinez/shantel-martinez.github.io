@@ -4,7 +4,7 @@
 
 ### Plant Breeding & Genetics  
 [Heritability](./Rmd Protocols/Heritability.html)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Are we still talking about how to calculate heritability? Yes... yes we are.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Are we still talking about how to calculate heritability? Yes... yes we are.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's been a topic in our office for what feels like a month, so I wrote up a small summary & how to calculate H2 in R   
 [QTL Analysis](http://rpubs.com/shantel-martinez/ERA8-Mapping)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I recently published an article that included QTL analysis; follow the entire workflow from data to the [publication](https://www.biorxiv.org/content/10.1101/784652v1.full) figures.     
