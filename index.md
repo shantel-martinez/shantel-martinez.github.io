@@ -14,7 +14,7 @@ Follow the links for my [poster](./Presentations/SMartinez_CayugaMapping_v7.pdf)
 [Mentoring](./mentoring.html)   
 [Outreach](./outreach.html)<br/>
 <br/>
-[R Protocols](./Rmd Protocols/R Protocols.html)  
+[R Protocols](./RProtocols.html)  
 [Lab Protocols](./Rmd Protocols/Lab Protocols.html)    
 **#TidyTuesday** Week 20 [step-by-step guide](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/TidyTuesdayWk20.html)   
 
