@@ -15,8 +15,7 @@ Tricks of the trade. A compilation of topics I found to be useful while coding i
 
 ### Data Visualization   
 Want some figure inspiration from R?   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check out the [tidyverse](https://twitter.com/search?q=%23tidyverse&src=tyah), [dataviz](https://twitter.com/search?q=%23dataviz&src=typd) and [TidyTuesday](https://twitter.com/search?q=%23TidyTuesday&src=tyah) hashtags on Twitter. TidyTuesday has people coding on the same topic every week, and you can see how they actually made graphs, people often share scripts that made the figure imaged.    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here is an example of a **#TidyTuesday** I did for Week 20: [step-by-step guide](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/TidyTuesdayWk20.html)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check out the [tidyverse](https://twitter.com/search?q=%23tidyverse&src=tyah), [dataviz](https://twitter.com/search?q=%23dataviz&src=typd) and [TidyTuesday](https://twitter.com/search?q=%23TidyTuesday&src=tyah) hashtags on Twitter. TidyTuesday has people coding on the same topic every week, and you can see how they actually made graphs, people often share scripts that made the figure imaged. Here is an example of a **#TidyTuesday** I did for Week 20: [step-by-step guide](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/TidyTuesdayWk20.html)   
 Join the [Data Visualization Soceity](https://www.datavisualizationsociety.com/)   
 
 ### Resources  
@@ -24,7 +23,7 @@ Join the [Data Visualization Soceity](https://www.datavisualizationsociety.com/)
 Tips on how to improve your R code:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [google style suggestions](https://google.github.io/styleguide/Rguide.html)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Talk by Karl Broman on [collaborating reproducibly](https://www.biostat.wisc.edu/~kbroman/presentations/rrcollab.pdf)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Feel free to get lost in his blog posts on everything coding, science, and reproducability. https://kbroman.org/blog/   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Feel free to get lost in his blog posts on everything coding, science, and reproducability. [https://kbroman.org/blog/](https://kbroman.org/blog/)      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is where I started. But most of the new tricks I learn is reading stackoverflow posts when I am trying to find a coding solution, and also twitters #Rstat and #tidytuesday hashtags give me a lot of articles on how to tidy code up or run things a different way.   
 
 ### Genomic Prediction  
