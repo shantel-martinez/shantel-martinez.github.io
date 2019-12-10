@@ -2,8 +2,10 @@
 
 # R Protocols     
 -------------
+[Heritability](./Rmd Protocols/Heritability.html)  
 
 
+## Plant Breeding & Genetics  
 
 ## Data Visualization   
 Want some figure inspiration?  
