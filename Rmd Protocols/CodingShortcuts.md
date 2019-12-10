@@ -23,7 +23,8 @@ A [Nature article](https://www.nature.com/articles/d41586-018-07196-1?tm_source=
 
 How to output nice tables in R: a [list of packages](https://community.rstudio.com/t/output-nice-looking-formatted-tables/1084) and [5 package tutorials](https://htmlpreview.github.io/?https://github.com/ropenscilabs/packagemetrics/blob/master/inst/examples/tableGallery.html)
 A compare and contrast of [how the Economist presents their data figures](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368).
-Want some figure inspiration? Check out the [tidyverse](https://twitter.com/search?q=%23tidyverse&src=tyah), [dataviz](https://twitter.com/search?q=%23dataviz&src=typd) and [TidyTuesday](https://twitter.com/search?q=%23TidyTuesday&src=tyah) hashtags on instagram
+
+Want some figure inspiration? Check out the [tidyverse](https://twitter.com/search?q=%23tidyverse&src=tyah), [dataviz](https://twitter.com/search?q=%23dataviz&src=typd) and [TidyTuesday](https://twitter.com/search?q=%23TidyTuesday&src=tyah) hashtags on Twitter
 
 ------
 ## Online Coding Cheatsheets 
