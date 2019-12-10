@@ -1,7 +1,6 @@
 [HOME](./index.html)
 
 # R Protocols     
-### Shantel A. Martinez |  Update 2019.12.08  
 -------------
 
 
@@ -17,3 +16,4 @@ Join the Data Visualization Soceity](https://www.datavisualizationsociety.com/)
 
 ----------  
 [HOME](./index.html)  
+Shantel A. Martinez |  Update 2019.12.08  
