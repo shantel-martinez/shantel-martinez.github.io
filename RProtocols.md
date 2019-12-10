@@ -1,8 +1,8 @@
 [HOME](./index.html)
 
-# R Protocols     
+## R Protocols     
 
-## Plant Breeding & Genetics  
+### Plant Breeding & Genetics  
 [Heritability](./Rmd Protocols/Heritability.html)   
 
 
