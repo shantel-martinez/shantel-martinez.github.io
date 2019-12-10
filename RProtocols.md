@@ -8,8 +8,10 @@
 
 
 ### Data Visualization   
-Want some figure inspiration?  
+Want some figure inspiration from R?  
 Check out the [tidyverse](https://twitter.com/search?q=%23tidyverse&src=tyah), [dataviz](https://twitter.com/search?q=%23dataviz&src=typd) and [TidyTuesday](https://twitter.com/search?q=%23TidyTuesday&src=tyah) hashtags on Twitter.   
+Here is an example of a **#TidyTuesday** I did for Week 20: [step-by-step guide](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/TidyTuesdayWk20.html)   
+
 Join the [Data Visualization Soceity](https://www.datavisualizationsociety.com/)  
 
 
