@@ -15,4 +15,4 @@ Join the Data Visualization Soceity](https://www.datavisualizationsociety.com/)
 [Computing Resources](./Rmd Protocols/CodingShortcuts.html) includes topics such as data management, electronic notebooks, coding shortcuts and links to cheatsheets.    
 
 ----------  
-[HOME](./index.html)  v2019.12.08    
+[HOME](./index.html) <span style="float:right;">  v2019.12.08  </span>   
