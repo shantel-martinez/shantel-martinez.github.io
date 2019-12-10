@@ -10,8 +10,8 @@ Tricks of the trade. A compilation of topics I found to be useful while coding i
 [QTL Analysis](http://rpubs.com/shantel-martinez/ERA8-Mapping)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I recently published an article that included QTL analysis; follow the entire workflow from data to the [publication](https://www.biorxiv.org/content/10.1101/784652v1.full) figures.     
 
-[GWAS in GAPIT]()  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Determining what is the `favorable` allele for your trait based on the + or - effect in GAPIT    
+[GWAS in GAPIT](./Rmd Protocols/GAPITAllele.html)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Determining what is the "favorable" allele for your trait based on the + or - effect in GAPIT    
 
 ### Data Visualization   
 Want some figure inspiration from R?   
