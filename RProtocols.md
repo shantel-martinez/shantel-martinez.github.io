@@ -3,6 +3,7 @@
 ## R, Data, & Viz     
 Tricks of the trade. A compilation of topics I found to be useful while coding in R. Thought I would share them with you all.    
 
+---------
 ### Plant Breeding & Genetics  
 [Heritability](./Rmd Protocols/Heritability.html) Are we still talking about how to calculate heritability? Yes... yes we are. It's been a topic in our office for what feels like a month, so I wrote up a small summary & how to calculate H2 in R   
 
