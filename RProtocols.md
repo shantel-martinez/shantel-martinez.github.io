@@ -22,13 +22,20 @@ Tricks of the trade. A compilation of topics I found to be useful while coding i
 
 [**Nightingale**](https://medium.com/nightingale) has really good general data viz blog posts.  
 
-#### FAVORITE BLOG POSTS     
+#### Favorite blog posts     
 [What to consider when creating tables](https://blog.datawrapper.de/guide-what-to-consider-when-creating-tables/) Dos & don’ts of table design  
 [What to consider when choosing colors for data visualization](https://blog.datawrapper.de/colors/) a ton of 'not ideal' and 'better' graphic comparisons.     
-[]()  
 
 ### Resources  
 [Computing Resources](./Rmd Protocols/CodingShortcuts.html) includes topics such as data management, electronic notebooks, coding shortcuts and links to cheatsheets.      
+#### Data Management
+I mean, can we really avoid Excel, GoogleSheets, and cvv files? No. But we can 
+
+[How to prepare your data for analysis and charting in Excel & Google Sheets](https://blog.datawrapper.de/prepare-and-clean-up-data-for-data-visualization/) Clean up data to prepare it for further analysis.    
+
+[Data organization for Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)  
+
+[A Nature article: being transarent in our data analysis pipeline](https://www.nature.com/articles/d41586-018-06008-w?utm_source=twt_nr&utm_medium=social&utm_campaign=NNPnature). If I ever want to published raw data files, the script to organize and analyze the data, all the way down to producing the final figures, I know from personal experience that I need to be extremely organized, and this article is a good start. I have high admiration for scientists that are very transparent, and I dream of getting to the point of publishing a github repo with every raw data file with 'clean' script for the public to follow.
 
 **Tips on how to improve your R code:**   
 This is where I started. But most of the new tricks I learn is reading stackoverflow posts when I am trying to find a coding solution, and also twitters #Rstat and #tidytuesday hashtags give me a lot of articles on how to tidy code up or run things a different way.  
