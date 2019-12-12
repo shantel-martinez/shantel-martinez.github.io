@@ -1,6 +1,6 @@
 [HOME](./index.html)
 
-## R Protocols     
+## R, Data, & Viz     
 Tricks of the trade. A compilation of topics I found to be useful while coding in R. Thought I would share them with you all.    
 
 ### Plant Breeding & Genetics  
