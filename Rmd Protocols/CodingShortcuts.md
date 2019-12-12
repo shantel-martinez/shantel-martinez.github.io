@@ -2,16 +2,6 @@
 
 ## Computing Resources 
 
-### Data Management
-
-[Data organization for Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
-
-A [Nature article](https://www.nature.com/articles/d41586-018-06008-w?utm_source=twt_nr&utm_medium=social&utm_campaign=NNPnature) on how we need to be very transarent in our data analysis pipeline. If I ever want to published raw data files, the script to organize and analyze the data, all the way down to producing the final figures, I know from personal experience that I need to be extremely organized, and I am starting [here](https://www.nature.com/articles/d41586-018-06008-w?utm_source=twt_nr&utm_medium=social&utm_campaign=NNPnature). I have high admiration for scientists that are very transparent, and I dream of getting to the point of publishing a github repo with every raw data file with 'clean' script for the public to follow. So, I'm working on those skills, and these [articles](https://google.github.io/styleguide/Rguide.xml) on how to tidy up my script are also a good start.
-
-Furthermore, here is a talk by Karl Broman on [collaborating reproducibly](https://t.co/yYQjWS768e). Feel free to get lost in his blog posts on everything coding, science, and reproducability.
-
-------
-
 ### Electronic Lab Notebook (ELN)
 
 Great [article](https://www.nature.com/articles/d41586-018-05895-3?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&sf195296490=1) on getting started with an electronic notebook.
@@ -23,8 +13,6 @@ A [Nature article](https://www.nature.com/articles/d41586-018-07196-1?tm_source=
 
 How to output nice tables in R: a [list of packages](https://community.rstudio.com/t/output-nice-looking-formatted-tables/1084) and [5 package tutorials](https://htmlpreview.github.io/?https://github.com/ropenscilabs/packagemetrics/blob/master/inst/examples/tableGallery.html)
 A compare and contrast of [how the Economist presents their data figures](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368).
-
-Want some figure inspiration? Check out the [tidyverse](https://twitter.com/search?q=%23tidyverse&src=tyah), [dataviz](https://twitter.com/search?q=%23dataviz&src=typd) and [TidyTuesday](https://twitter.com/search?q=%23TidyTuesday&src=tyah) hashtags on Twitter
 
 ------
 ## Online Coding Cheatsheets 
