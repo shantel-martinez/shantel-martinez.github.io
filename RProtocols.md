@@ -13,12 +13,17 @@ Tricks of the trade. A compilation of topics I found to be useful while coding i
 [Genomic Prediction](./Rmd Protocols/GenomicPrediction.html) The most recent topic I am learning, so you can see my work in progress, as I learn too.      
 
 ### Data Visualization   
+#### The Basics  
+How do I even read that graph? The [Data Visualisation Catalogue](https://datavizcatalogue.com/) helped me out there with their great break downs of different plot types.   
+
+[Data Visualization: Ch Directory of visualizations](https://serialmentor.com/dataviz/directory-of-visualizations.html) where I learned what those pretty correlation table/plots were called: correlogram! Now I can google how-to's so I can make one. A lot of great basics in this book.  
+
 #### Want some figure inspiration for your R plots?   
 [#TidyTuesday](https://twitter.com/search?q=%23TidyTuesday&src=tyah) hashtag on Twitter. TidyTuesday has people coding on the same topic every week. You can see how different graphics can be made from the same dataset, and often people share the scripts that created the graph. Engaging in tidytuesday expands my creativity and improves my technical skills. Here is an example of a #TidyTuesday I did for [Week 20](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/TidyTuesdayWk20.html)  
 
 [tidyverse](https://twitter.com/search?q=%23tidyverse&src=tyah) and [dataviz](https://twitter.com/search?q=%23dataviz&src=typd) are two other hashtags on twitter I keep and eye on.. in addition to following [Dr. Cédric Scherer](https://twitter.com/CedScherer), his data viz shares are always inspiring.     
 
-[Data Visualization Society](https://www.datavisualizationsociety.com/) - Join the society and their slack workspace. They have critique, inspirational, and showcase channels that I obsessively read and see how others create stories from data.
+[Data Visualization Society](https://www.datavisualizationsociety.com/) Join the society and their slack workspace. They have critique, inspirational, and showcase channels that I obsessively read and see how others create stories from data.
 
 [Nightingale](https://medium.com/nightingale) has really good general data viz blog posts.  
 
