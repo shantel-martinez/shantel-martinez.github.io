@@ -8,7 +8,7 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 [Seminars, Posters, & Lectures](./talks.html)  
 <br/>
 [Resources](./resources.html)<br/>
-[R & Data Viz](./RProtocols.html)  
+[R, Data, & Viz](./RProtocols.html)  
 [Lab Protocols](./Rmd Protocols/Lab Protocols.html)    
 
 ---------
