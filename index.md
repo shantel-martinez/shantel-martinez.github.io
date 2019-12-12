@@ -7,7 +7,7 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 [Mentoring](./mentoring.html)   
 [Outreach](./outreach.html)<br/>
 <br/>
-[Seminars, Posters, Lectures](./talks.html)  
+[Seminars, Posters, & Lectures](./talks.html)  
 <br/>
 [R Protocols](./RProtocols.html)  
 [Lab Protocols](./Rmd Protocols/Lab Protocols.html)    
