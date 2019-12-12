@@ -1,25 +1,18 @@
 ## Hello Fellow Wheat Enthusiasts   
 Welcome to my hub of wheat science resources, links to presentations, CV, and basic info on all the ways to contact me.  
 
-Here for the wheat breeding candidate seminar, find the pdf [here](./Presentations/SMartinez_WheatBreeding20191120.pdf)
-
-**Hope you all enjoyed the ASA/CSSA/SSSA International Meeting.  
-Follow the links for my [poster](./Presentations/SMartinez_CayugaMapping_v7.pdf) and [presentation](./Presentations/SMartinez_GenomicPrediction_ASA_20191110.pdf), in addition to my previous [talks](./talks.html).**    
-
-
 -------
- 
 [Research](./research.html)  
 [Resources](./resources.html)<br/>
 [Mentoring](./mentoring.html)   
 [Outreach](./outreach.html)<br/>
 <br/>
+[Seminars, Posters, Lectures](./talks.html)  
+<br/>
 [R Protocols](./RProtocols.html)  
 [Lab Protocols](./Rmd Protocols/Lab Protocols.html)    
-**#TidyTuesday** Week 20 [step-by-step guide](https://nbviewer.jupyter.org/github/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/TidyTuesdayWk20.html)   
 
 ---------
-
 ### Contact   
 [Resume/CV](./CV.html)    
 Office: [Bradfield Hall](https://goo.gl/maps/Yfk3XHpH1wk) Rm 420 | Cornell University   
@@ -28,7 +21,6 @@ Twitter: [s_amealia](https://twitter.com/s_amealia)
 Google Scholar: [publications](https://scholar.google.com/citations?user=70kEKNsAAAAJ&hl=en&oi=ao)   
 LinkedIn: [shantel-a-martinez](https://www.linkedin.com/in/shantel-a-martinez/)    
 Github: [shantel-martinez](https://github.com/shantel-martinez?tab=repositories)  
-
 
 ------------
 ## SciComm Feed  
