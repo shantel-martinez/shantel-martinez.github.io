@@ -2,13 +2,13 @@
 Welcome to my hub of wheat science resources, links to presentations, CV, and basic info on all the ways to contact me.  
 
 [Research](./research.html)  
-[Resources](./resources.html)<br/>
 [Mentoring](./mentoring.html)   
 [Outreach](./outreach.html)<br/>
 <br/>
 [Seminars, Posters, & Lectures](./talks.html)  
 <br/>
-[R Protocols](./RProtocols.html)  
+[Resources](./resources.html)<br/>
+[R & Data Viz](./RProtocols.html)  
 [Lab Protocols](./Rmd Protocols/Lab Protocols.html)    
 
 ---------
