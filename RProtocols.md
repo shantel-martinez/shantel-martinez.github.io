@@ -4,13 +4,13 @@
 Tricks of the trade. A compilation of topics I found to be useful while coding in R. Thought I would share them with you all.    
 
 ### Plant Breeding & Genetics  
-[**Heritability**](./Rmd Protocols/Heritability.html) Are we still talking about how to calculate heritability? Yes... yes we are. It's been a topic in our office for what feels like a month, so I wrote up a small summary & how to calculate H2 in R   
+[Heritability](./Rmd Protocols/Heritability.html) Are we still talking about how to calculate heritability? Yes... yes we are. It's been a topic in our office for what feels like a month, so I wrote up a small summary & how to calculate H2 in R   
 
-[**QTL Analysis**](http://rpubs.com/shantel-martinez/ERA8-Mapping) I recently published an article that included QTL analysis; follow the entire workflow from data to the published figures.     
+[QTL Analysis](http://rpubs.com/shantel-martinez/ERA8-Mapping) I recently published an article that included QTL analysis; follow the entire workflow from data to the published figures.     
 
-[**GWAS in GAPIT**](./Rmd Protocols/GAPITAllele.html) Determining what is the "favorable" allele for your trait based on the + or - effect in GAPIT    
+[GWAS in GAPIT](./Rmd Protocols/GAPITAllele.html) Determining what is the "favorable" allele for your trait based on the + or - effect in GAPIT    
 
-[**Genomic Prediction**](./Rmd Protocols/GenomicPrediction.html) The most recent topic I am learning, so you can see my work in progress, as I learn too.      
+[Genomic Prediction](./Rmd Protocols/GenomicPrediction.html) The most recent topic I am learning, so you can see my work in progress, as I learn too.      
 
 ### Data Visualization   
 #### Want some figure inspiration for your R plots?   
