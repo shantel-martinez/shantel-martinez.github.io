@@ -12,6 +12,7 @@ Tricks of the trade. A compilation of topics I found to be useful while coding i
 
 [Genomic Prediction](./Rmd Protocols/GenomicPrediction.html) The most recent topic I am learning, so you can see my work in progress, as I learn too.      
 
+---------
 ### Data Visualization   
 #### The Basics  
 How do I even read that graph? The [Data Visualisation Catalogue](https://datavizcatalogue.com/) helped me out there with their great break downs of different plot types.   
@@ -31,6 +32,7 @@ How do I even read that graph? The [Data Visualisation Catalogue](https://datavi
 [What to consider when creating tables](https://blog.datawrapper.de/guide-what-to-consider-when-creating-tables/) Dos & don’ts of table design  
 [What to consider when choosing colors for data visualization](https://blog.datawrapper.de/colors/) a ton of 'not ideal' and 'better' graphic comparisons.     
 
+-----
 ### Resources  
 [Computing Resources](./Rmd Protocols/CodingShortcuts.html) includes topics such as electronic notebooks, coding shortcuts and links to cheatsheets.      
 
