@@ -1,6 +1,10 @@
 [HOME](./index.html)
 
 # Talks  
+Here for the wheat breeding candidate seminar, find the pdf [here](./Presentations/SMartinez_WheatBreeding20191120.pdf)
+
+**Hope you all enjoyed the ASA/CSSA/SSSA International Meeting.  
+Follow the links for my [poster](./Presentations/SMartinez_CayugaMapping_v7.pdf) and [presentation](./Presentations/SMartinez_GenomicPrediction_ASA_20191110.pdf), in addition to my previous [talks](./talks.html).**    
 
 ## Lecture  
 **Plant Breeding and Genetics 4060, Cornell University** Oct, 2019   
