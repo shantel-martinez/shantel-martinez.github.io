@@ -1,18 +1,10 @@
 [HOME](./index.html)
 
-# Research <a id="top"></a>   
-
----------
-
-[Background](./research.html)  
-[Objectives](./objectives.html)  
-[Resources]()  
-
-----------
-
-## Resources 
+# Resources 
 
 [Talks](./talks.html)  
+
+----------
 
 **Heritability:**   
 Summary of heritability equations for balanced and unbalanced datasets.   
