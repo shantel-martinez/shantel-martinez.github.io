@@ -62,7 +62,7 @@ Dustin Cwuick, Undergraduate, Project [Award](https://surca.wsu.edu/past-surca/a
 23 Graduate Students, Washington State University <span style="float:right;">2014-2018</span>
 
 **Field Crew Management**       
-Managing from 2-19 employees at per project   <span style="float:right;">2015-present</span>
+Managing a range of employees (from 2-19) per project   <span style="float:right;">2015-present</span>
 
 #### TEACHING   
 
