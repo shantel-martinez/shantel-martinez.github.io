@@ -57,12 +57,12 @@ Katherine Roberts, High School Student, Project [Award](https://www.wesef.org/):
 Samantha Beck, Undergraduate, Project [Award](https://surca.wsu.edu/past-surca/awards-2017/): 1st Place Molecular Biology   <span style="float:right;">2017</span>  
 Dustin Cwuick, Undergraduate, Project [Award](https://surca.wsu.edu/past-surca/awards-2016/): 2nd Place Molecular Biology         <span style="float:right;">2016</span> 
 
-**Unofficial Mentor**  
+**Informal Mentor**  
 6 Graduate Students, Cornell University  <span style="float:right;">2018-present</span>   
 23 Graduate Students, Washington State University <span style="float:right;">2014-2018</span>
 
 **Field Crew Management**       
-29 summer employees; managing from 2-19 at a time   <span style="float:right;">2015-present</span>
+Managing from 2-19 employees at per project   <span style="float:right;">2015-present</span>
 
 #### TEACHING   
 
