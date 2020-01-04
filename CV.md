@@ -91,26 +91,26 @@ Distinguished Research Assistantship for Diverse Scholars $23k       <span style
 
 **INVITED TALKS \| TECHNICAL**
 
-**Genomic Prediction** | ASA, CSSA, SSSA International Annual Meeting<span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez PHS SWQC 2019.pdf)] [[webinar](https://scisoc.confex.com/scisoc/2019am/videogateway.cgi/id/37160?recordingid=37160)] 2019</span>  
+**Genomic Prediction** \| ASA, CSSA, SSSA International Annual Meeting<span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez PHS SWQC 2019.pdf)] [[webinar](https://scisoc.confex.com/scisoc/2019am/videogateway.cgi/id/37160?recordingid=37160)] 2019</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Audience: Breeders, Seed Biologists, Students, Professionals    
-**Genomic Prediction** | Eastern Wheat Quality Council Meeting<span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez PHS SWQC 2019.pdf)] 2019</span>  
+**Genomic Prediction** \| Eastern Wheat Quality Council Meeting<span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez PHS SWQC 2019.pdf)] 2019</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Audience: National Millers, Breeders, Scientists     
-**Quality Traits** | Western Wheat Quality Meeting, <span style="float:right;"> [[pdf](https://shantel-martinez.github.io/Presentations/SMartinez FN Workshop 2019.pdf)] 2019</span>    
+**Quality Traits** \| Western Wheat Quality Meeting, <span style="float:right;"> [[pdf](https://shantel-martinez.github.io/Presentations/SMartinez FN Workshop 2019.pdf)] 2019</span>    
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Audience: East Asian Millers, Seed Distributors, Farmers, Scientists    
-**QTL Mapping** | International Seed Science Society Conference <span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez_ISSS_2017.pdf)] 2017</span>     
+**QTL Mapping** \| International Seed Science Society Conference <span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez_ISSS_2017.pdf)] 2017</span>     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Audience: Seed Scientists, Biologists   
-**GWAS** | ASA, CSSA, SSSA International Annual Meeting<span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez PHS GWAS ASA 2016 revised 2018.pdf)] 2016 </span>     
+**GWAS** \| ASA, CSSA, SSSA International Annual Meeting<span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez PHS GWAS ASA 2016 revised 2018.pdf)] 2016 </span>     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Audience:  National & International Scientists   
-**Seed Biology** | Plant and Animal Genome Conference  <span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/S.Martinez Seed Dormancy PAG 2016.pdf)] 2016</span>     
+**Seed Biology** \| Plant and Animal Genome Conference  <span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/S.Martinez Seed Dormancy PAG 2016.pdf)] 2016</span>     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Audience: Geneticists, Breeders, Scientist      
 
 **OUTREACH \| NON-TECHNICAL**
 
-Twitter [@s_amealia](https://twitter.com/s_amealia) | Audience: Breeders, **Graduate Students, Data Scientists**  <span style="float:right;">-</span>  
-Instagram [@s_amealia](https://instagram.com/s_amealia) | Audience: **Public, Parents, Family**, Students  <span style="float:right;">-</span>  
-Small Grains Field Days | Audience: **Farmers, Breeders, Pathologists**   <span style="float:right;">2018</span>  
-Grow NYC Variety Showcase | Audience: Chefs, Public**, Fresh Market Buyers** <span style="float:right;">2018</span>  
-WSU Extension Wheat Academy Workshop | Audience: **Producers**, **Farmers**      <span style="float:right;">2017</span>  
+Twitter [@s_amealia](https://twitter.com/s_amealia) \| Audience: Breeders, **Graduate Students, Data Scientists**  <span style="float:right;">-</span>  
+Instagram [@s_amealia](https://instagram.com/s_amealia) \| Audience: **Public, Parents, Family**, Students  <span style="float:right;">-</span>  
+Small Grains Field Days \| Audience: **Farmers, Breeders, Pathologists**   <span style="float:right;">2018</span>  
+Grow NYC Variety Showcase \| Audience: Chefs, Public**, Fresh Market Buyers** <span style="float:right;">2018</span>  
+WSU Extension Wheat Academy Workshop \| Audience: **Producers**, **Farmers**      <span style="float:right;">2017</span>  
 
 #### **PROFESSIONAL WORKSHOPS ATTENDED**
 
