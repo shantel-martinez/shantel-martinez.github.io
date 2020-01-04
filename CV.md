@@ -78,8 +78,6 @@ Purpose: Active learning through evidence-based STEM teaching
 **Plant Breeding** (CropS 445): <span style="color:#4183c4">Teaching Assistant</span>, Washington State University <span style="float:right;">Sp 2015</span>   
 Role: grading, guest lecture (2x), assist during activities, help students during office hours and exam review sessions. Course Purpose: Understand the genetic principles underlying plant breeding and gain an introduction to the principles and practices of plant breeding. Class Size: 15-25 students     
 
-<br> 
-
 #### AWARDS AND FUNDING
 
 NIFA-AFRI Education and Literacy Initiative Grant: Lead PI $165k <span style="float:right;">2018-2020</span>  
@@ -91,7 +89,7 @@ Distinguished Research Assistantship for Diverse Scholars $23k       <span style
 
 #### **COMMUNICATION** 
 
-**INVITED TALKS | TECHNICAL**
+**INVITED TALKS \| TECHNICAL**
 
 **Genomic Prediction** | ASA, CSSA, SSSA International Annual Meeting<span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/SMartinez PHS SWQC 2019.pdf)] [[webinar](https://scisoc.confex.com/scisoc/2019am/videogateway.cgi/id/37160?recordingid=37160)] 2019</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Audience: Breeders, Seed Biologists, Students, Professionals    
@@ -106,7 +104,7 @@ Distinguished Research Assistantship for Diverse Scholars $23k       <span style
 **Seed Biology** | Plant and Animal Genome Conference  <span style="float:right;">[[pdf](https://shantel-martinez.github.io/Presentations/S.Martinez Seed Dormancy PAG 2016.pdf)] 2016</span>     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Audience: Geneticists, Breeders, Scientist      
 
-**OUTREACH | NON-TECHNICAL**
+**OUTREACH \| NON-TECHNICAL**
 
 Twitter [@s_amealia](https://twitter.com/s_amealia) | Audience: Breeders, **Graduate Students, Data Scientists**  <span style="float:right;">-</span>  
 Instagram [@s_amealia](https://instagram.com/s_amealia) | Audience: **Public, Parents, Family**, Students  <span style="float:right;">-</span>  
