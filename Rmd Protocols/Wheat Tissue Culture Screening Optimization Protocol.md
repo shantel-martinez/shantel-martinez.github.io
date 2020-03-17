@@ -40,6 +40,8 @@ Sow six seeds for each cultivar of interest at weekly intervals. This will reduc
 
 Using the first sowed set of each cultivar, identify the number of days after anthesis (DAA) that the immature embryos reach a 1-2mm size, length-wise. 
 
+**Table 1** - 
+
 | Publication                  | DAA           | Embryo Size (mm) | Cultivar          |
 | ---------------------------- | ------------- | ---------------- | ----------------- |
 | Ishida et al 2015            | 14            | 2.0 - 2.5        | Fielder, Bobwhite |
@@ -60,11 +62,10 @@ Using the first sowed set of each cultivar, identify the number of days after an
 
 Based on one greenhouse grow out and one field grow out, the dates for Cayuga and Caledonia's time to a 1/5-2mm embryo size in listed below in the white lined box. 
 
-<img src="https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220160103087.png?raw=true" alt="image-20200220160103087" style="zoom:90%;" />
+<img src="https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220160103087.png?raw=true" alt="image-20200220160103087" style="zoom:90%;" />  
+**Figure 1** -  
 
-
-
-**Table X** - Soft White Varieties tested with the Small Grains group at Cornell University.  
+**Table 2** - Soft White Varieties tested with the Small Grains group at Cornell University.  
 
 | Variety   | Type   | I.E. Color Tested       | I.E. Size Tested      | I.E. Size (mm) | DAA  |
 | --------- | ------ | ----------------------- | --------------------- | -------------- | ---- |
@@ -236,7 +237,7 @@ Some protocols call for 4.4g of MS salts, and 4.3g of MS salts. The 4.4 g of MS 
 
 
 
-<img src="https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220142921979.png?raw=true" alt="image-20200220142921979" style="zoom:50%;" />
+<img align="right" src="https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220142921979.png?raw=true" alt="image-20200220142921979" style="zoom:30%;" />
 
 
 
@@ -252,7 +253,7 @@ Some protocols call for 4.4g of MS salts, and 4.3g of MS salts. The 4.4 g of MS 
 
 **Alikina et al** ([2016](http://www.scielo.br/scielo.php?script=sci_abstract&pid=S1984-70332016000400307&lng=en&nrm=iso&tlng=en)) Figure 1F - SE - somatic embryos, EC - embryogenic callus, AC - amorphous (non-regenerating) callus
 
-<img src="https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220153849797.png?raw=true" alt="image-20200220153849797" style="zoom:75%;" />
+<img align="right" src="https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220153849797.png?raw=true" alt="image-20200220153849797" style="zoom:75%;" />
 
 
 
