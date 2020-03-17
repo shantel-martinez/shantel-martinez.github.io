@@ -38,7 +38,7 @@ Sow six seeds for each cultivar of interest at weekly intervals. This will reduc
 
 #### 2. DAA Range for your cultivar & Immature Embryo Harvest 
 
-Using the first sowed set of each cultivar, identify the number of days after anthesis (DAA) that the immature embryos reach a 1-2mm size, length-wise.  
+Using the first sowed set of each cultivar, identify the number of days after anthesis (DAA) that the immature embryos reach a 1-2mm size, length-wise. 
 
 | Publication                  | DAA           | Embryo Size (mm) | Cultivar          |
 | ---------------------------- | ------------- | ---------------- | ----------------- |
@@ -60,7 +60,7 @@ Using the first sowed set of each cultivar, identify the number of days after an
 
 Based on one greenhouse grow out and one field grow out, the dates for Cayuga and Caledonia's time to a 1/5-2mm embryo size in listed below in the white lined box. 
 
-![image-20200220160103087](https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220160103087.png?raw=true)
+<img src="https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220160103087.png?raw=true" alt="image-20200220160103087" style="zoom:90%;" />
 
 
 
@@ -81,8 +81,6 @@ First thing, is that you count on harvesting immature embryos 14 DAA. The date a
 An initial experiment might be to get to know your cultivar by dissecting out embryos from 10-27 days after anthesis to know roughly how many days after anthesis your wheat cultivar reaches a 1-2mm embryo size. 
 
 In the greenhouse, I would have fine tweezers handing to dissect a seed to get an idea of what stage the embryos are at. 
-
-
 
 ---------
 
@@ -139,7 +137,7 @@ Picloram will sometimes crystalize. At the start, I check the picloram aliquots,
 
 > It is likely the dmso used to dissolve picloram. Using low dmso might result in the picloram to re-precipitate and not stay in solution.
 
-![image-20200224084234058](https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200224084234058.png?raw=true)
+<img src="https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200224084234058.png?raw=true =0.5x" alt="Example diagram of media composition for 1L" style="zoom:50%;" />
 
 The majority of dry reagents are in the upper cupboards, except sucrose and agar are in larger bins in the lower cupboards. 
 
@@ -238,7 +236,7 @@ Some protocols call for 4.4g of MS salts, and 4.3g of MS salts. The 4.4 g of MS 
 
 
 
-![image-20200220142921979](https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220142921979.png?raw=true)
+<img src="https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220142921979.png?raw=true" alt="image-20200220142921979" style="zoom:50%;" />
 
 
 
@@ -254,7 +252,7 @@ Some protocols call for 4.4g of MS salts, and 4.3g of MS salts. The 4.4 g of MS 
 
 **Alikina et al** ([2016](http://www.scielo.br/scielo.php?script=sci_abstract&pid=S1984-70332016000400307&lng=en&nrm=iso&tlng=en)) Figure 1F - SE - somatic embryos, EC - embryogenic callus, AC - amorphous (non-regenerating) callus
 
-![image-20200220153849797](https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220153849797.png?raw=true)
+<img src="https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220153849797.png?raw=true" alt="image-20200220153849797" style="zoom:75%;" />
 
 
 
