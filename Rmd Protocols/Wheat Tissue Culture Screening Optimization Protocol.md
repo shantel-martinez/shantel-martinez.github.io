@@ -2,7 +2,7 @@
 
 Author: Shantel A. Martinez 
 
-There are multiple protocols published on how to transform wheat using an Agrobacterium construct. Th general method relies on having the original immature embryo cells infected with agrobacterium that contains your gene of interest. Then those cells need to regenerate into a plants. The difficulty in wheat, is that regeneration rates are very low. For example, you may prep 600 embryos, and only 4 lead to complete regeneration into a new plant. On top of the low regeneration efficiency, there is an Agrobacterium infection rate which varies from construct to construct. 
+There are multiple protocols published on how to transform wheat using an Agrobacterium construct. The general method relies on having the original immature embryo cells infected with agrobacterium that contains your gene of interest. Then those cells need to regenerate into a plants. The difficulty in wheat, is that regeneration rates are very low. For example, you may prep 600 embryos, and only 4 lead to complete regeneration into a new plant. On top of the low regeneration efficiency, there is an Agrobacterium infection rate which varies from construct to construct. 
 
 Most protocols transform either Bobwhite or Fielder wheat cultivars. However, some studies will need to transform a cultivar locally adapted to the region or a cultivar that expresses a specific gene of interest. This protocol is intended to identify the media combination that results in the optimal regeneration rate for your cultivar of interest. To achieve this, we will test three published protocols simultaneously:  
 
@@ -20,11 +20,19 @@ This following steps are written with the focus of taking steps in a consecutive
 
 ------------
 
-#### 1. Planting
+#### 1. Staggered Planting
 
-Sow six seeds for each cultivar to be tested at weekly intervals. This will reduce time in having to wait for more plants to completely grow. For winter wheat, sow seeds initially in cell packs for 10-14 days to establish seedling emergence. Vernalize the seedlings for 6-8 weeks at 4C, depending on the cultivar. Transplant vernalized seedlings into pots in a greenhouse with 16 hr photoperiod with a 20Cday and 16C night temperatures.  Many protocol state the plants were not sprayed with insecticides or fungicides at any growth stage.   
+##### Plant Material 
 
-As you will go through the protocol, there may be many steps that may need to be done multiple times to improve efficiency and precision. This is why staggered planting is necessary to keep a source of plant material available to redo any downstream experiment. It takes 4.5-5 mo from sowing to harvesting immature embryos; time that can be reduced by spending a short amount of time each week keeping plant material replanted. 
+
+
+##### Sowing Seeds
+
+Sow six seeds for each cultivar of interest at weekly intervals. This will reduce time in having to wait for more plants to completely grow. For winter wheat, sow seeds initially in cell packs for 10-14 days to establish seedling emergence. Vernalize the seedlings for 6-8 weeks at 4C with a 12 hr photoperiod. Sufficient vernalization period varies from cultivar to cultivar, but vernalizing for eight weeks will ensure timely flowering for most cultivars. Transplant vernalized seedlings into pots in a greenhouse with a 16 hr photoperiod and a 20C day and 14C night temperatures. Ideally, the light intensity should be kept stronger than 1,000 μmol/m^2 /s. Many protocol state the plants were not sprayed with insecticides or fungicides at any growth stage.   
+
+> It takes 4.5-5 mo from sowing to harvesting immature embryos of winter wheat. This is time that can be reduced by spending a short amount of time each week sowing new plant material. Throughout the protocol, there may be many steps that may need to be done multiple times to improve efficiency and precision. This is why staggered planting is necessary to keep a source of plant material available to redo any downstream steps or comparisons. 
+
+> Embryos harvested from vigorous plants impact successful transformation. If transformation efficiency is low, start optimizing the growth conditions before checking media composition, vectors, or strains. Growth conditions should have sufficient light, temperature, and maintain disease and pest free growth periods.  
 
 -------------
 
