@@ -52,7 +52,7 @@ Using the first sowed set of each cultivar, identify the number of days after an
 
 Based on one greenhouse grow out and one field grow out, the dates for Cayuga and Caledonia's time to a 1/5-2mm embryo size in listed below in the white lined box. 
 
-![image-20200220160103087](.\img\image-20200220160103087.png)
+![image-20200220160103087](https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220160103087.png?raw=true)
 
 
 
@@ -131,7 +131,7 @@ Picloram will sometimes crystalize. At the start, I check the picloram aliquots,
 
 > It is likely the dmso used to dissolve picloram. Using low dmso might result in the picloram to re-precipitate and not stay in solution.
 
-![image-20200224084234058](.\img\image-20200224084234058.png)
+![image-20200224084234058](https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200224084234058.png?raw=true)
 
 The majority of dry reagents are in the upper cupboards, except sucrose and agar are in larger bins in the lower cupboards. 
 
@@ -230,7 +230,7 @@ Some protocols call for 4.4g of MS salts, and 4.3g of MS salts. The 4.4 g of MS 
 
 
 
-![image-20200220142921979](.\img\image-20200220142921979.png)
+![image-20200220142921979](https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220142921979.png?raw=true)
 
 
 
@@ -246,7 +246,7 @@ Some protocols call for 4.4g of MS salts, and 4.3g of MS salts. The 4.4 g of MS 
 
 **Alikina et al** ([2016](http://www.scielo.br/scielo.php?script=sci_abstract&pid=S1984-70332016000400307&lng=en&nrm=iso&tlng=en)) Figure 1F - SE - somatic embryos, EC - embryogenic callus, AC - amorphous (non-regenerating) callus
 
-![image-20200220153849797](.\img\image-20200220153849797.png)
+![image-20200220153849797](https://github.com/shantel-martinez/shantel-martinez.github.io/blob/master/Rmd%20Protocols/img/image-20200220153849797.png?raw=true)
 
 
 
