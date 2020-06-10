@@ -40,7 +40,7 @@ Below you will find a compilation of resources to build awareness and plan actio
 [#BlackInTheIvory, Twitter](https://twitter.com/search?q=%23BlackintheIvory&src=typeahead_click) - Shared by Taylor Ferebee's Black in STEM series, 2020   
 [Racism in Academia Resources](https://www.shutdownstem.com/racism-in-academia) - Built by the #ShutDownSTEM team, 2020
 > Of which, lists:
-> [Presumed Incompetent: The Intersections of Race and Class for Women in Academia](https://bookshop.org/books/presumed-incompetent-the-intersections-of-race-and-class-for-women-in-academia/9780874219227) 
+> [Presumed Incompetent: The Intersections of Race and Class for Women in Academia](https://bookshop.org/books/presumed-incompetent-the-intersections-of-race-and-class-for-women-in-academia/9780874219227)   
 > [Is Science for Us? Black Students’ and Parents’ Views of Science and Science Careers ](https://onlinelibrary.wiley.com/doi/full/10.1002/sce.21146)
 
 [Doing Science While Black, Science Working Life](https://science.sciencemag.org/content/353/6307/1586/tab-pdf) - Email from Dr. Kimberly Garland Campbell, 2016  
