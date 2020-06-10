@@ -1,8 +1,6 @@
 ## Hello Fellow Wheat Enthusiasts   
 Welcome to my hub of wheat science resources, links to presentations, CV, and basic info on all the ways to contact me.  
 
-Did you watch my Data Viz webinar this week? View the slides [here](./Presentations/SMartinezDataViz2020.pdf)
-
 [Research](./research.html)  
 [Diversity and Inclusion](./DEI.html)   
 [Mentoring](./mentoring.html)   
