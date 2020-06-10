@@ -14,7 +14,7 @@ Even though I'm currently not in the room with you and my lab mates, I hope an e
 
 **Job application requirements:** Finally, the academic job application has changed. For both university and  government agencies, I have experienced interview questions directed at the topic of diversity and inclusion. For faculty positions, more universities are requiring a DEI statement in addition to the research and teaching statement. To become and produce qualified candidates, I need to become educated on diversity and inclusion, build a plan to implement, and change how I used to view what a qualified candidate looked like. This means integrating and giving value to DEI actions within my lab group. 
 
-I am slowly learning and haven't even come close to realizing all the ways we can integrate inclusion into our scientific world. I have added resources I'm learning from and actions I can take within academia on the DEI section of my website ([shantel-martinez.github.io/DEI.html](https://shantel-martinez.github.io/DEI.html)). For example, one action I'm tackling right is making sure the reviewers I select as an associate editor is diverse. Being asked to review an article is a opportunity that can help an early career scientist stand out. I am asking myself if the reviewers I select at least represent the diversity I see in the halls. And honestly, it is hard. However, making intentional actions like this in every aspect of our job is a good place to start. 
+I am slowly learning and haven't even come close to realizing all the ways we can integrate inclusion into our scientific world. I have added resources I'm learning from and actions I can take within academia listed below. For example, one action I'm tackling right is making sure the reviewers I select as an associate editor is diverse. Being asked to review an article is a opportunity that can help an early career scientist stand out. I am asking myself if the reviewers I select at least represent the diversity I see in the halls. And honestly, it is hard. However, making intentional actions like this in every aspect of our job is a good place to start. 
 
 I know many of us are being saturated with information right now, so feel free to reach out to me anytime, even as the months go by to talk about more ideas, concerns about addressing the topic, or anything else through slack, text, phone call, email, or even in person when we finally get to see each other again.  
 
@@ -24,14 +24,14 @@ As I am with my science and code, you are always welcome to forward/share this i
 ## Actions 
 *These actions and resources are a working list and will continue to grow*
 
-Start a discussion in you office or lab group about what biases and inequalities could be present in academia.    
-Self educate on what experiences individuals have faced in academia so that you are aware of microaggressions, presumed incompetence, disproportionate invisible labor, and racism. This is followed by taking action to reduce exclusivity.    
-When you find an article or workshop about DEI, share them with your peers so they too can attend or read it.   
-Intentionally diversify who you collaborate with.   
-Intentionally diversify who you recommend as reviewers.   
-Intentionally diversify who speaks at departmental seminar.   
-Intentionally diversify the interns, undergraduates, graduate students, and post-docs who work with you.  
-Give merit to DEI activities done by your students, colleagues, and subordinates as a foundational element of becoming a world class scientist.  
+- Start a discussion in you office or lab group about what biases and inequalities could be present in academia.    
+- Self educate on what experiences individuals have faced in academia so that you are aware of microaggressions, presumed incompetence, disproportionate invisible labor, and racism. This is followed by taking action to reduce exclusivity.    
+- When you find an article or workshop about DEI, share them with your peers so they too can attend or read it.   
+- Intentionally diversify who you collaborate with.   
+- Intentionally diversify who you recommend as reviewers.   
+- Intentionally diversify who speaks at departmental seminar.   
+- Intentionally diversify the interns, undergraduates, graduate students, and post-docs who work with you.  
+- Give merit to DEI activities done by your students, colleagues, and subordinates as a foundational element of becoming a world class scientist.  
 
 ## Resources 
 Below you will find a compilation of resources to build awareness and plan actions within academia. I want to specifically point out who has built or shared these resources to amplify all of the individuals who have put in the work. 
