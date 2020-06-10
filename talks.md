@@ -7,6 +7,8 @@ Here for the wheat breeding candidate seminar, find the pdf [here](./Presentatio
 Follow the links for my [poster](./Presentations/SMartinez_CayugaMapping_v7.pdf) and [presentation](./Presentations/SMartinez_GenomicPrediction_ASA_20191110.pdf)**    
 
 ## Lecture  
+Did you watch my Data Viz webinar through ASA/CSSA/SSA webinar series? View the slides [here](./Presentations/SMartinezDataViz2020.pdf)
+
 **Plant Breeding and Genetics 4060, Cornell University** Oct, 2019   
 Topic: Fine mapping and cloning genes [Presentation](./Presentations/ET_SM fine mapping lecture.pdf) and [Handouts](https://docs.google.com/spreadsheets/d/1Q2Vk2jL3fFIrPeyyOT0KHQXYULPGhvjFHuCv1kOPy0w/edit#gid=1318519071)   
 Co-Instructed with [Ella Taagen](https://www.linkedin.com/in/ella-taagen-55922113b/)   
