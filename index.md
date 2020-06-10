@@ -4,6 +4,7 @@ Welcome to my hub of wheat science resources, links to presentations, CV, and ba
 Did you watch my Data Viz webinar this week? View the slides [here](./Presentations/SMartinezDataViz2020.pdf)
 
 [Research](./research.html)  
+[Diversity and Inclusion](./DEI.html)   
 [Mentoring](./mentoring.html)   
 [Outreach](./outreach.html)<br/>
 <br/>
