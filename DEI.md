@@ -2,7 +2,7 @@
 
 Afternoon fellow crop scientists,    
 
-Recently, I have been asking myself as to whether the racial injustice conversation should be had in the research setting. I am emailing you, as a direct colleague of mine, some answers I have discovered to that question. Some of my words may seem dispassionate, objective, and avoid what is going on in our society as a whole right now, but that is with intent.   
+Recently, I have been asking myself as to whether the racial injustice conversation should be had in the research setting. Below are some answers I have discovered to that question. Some of my words may seem dispassionate, objective, and avoid what is going on in our society as a whole right now, but that is with intent.   
 
 Even though I'm currently not in the room with you and my lab mates, I hope an electronic message can fill in for a discussion I would like to have face to face on race and science. This culture of an open discussion in the lab setting was established for me when I was a masters student. My advisor at the time had brought up in lab meeting about how she experiences imposter syndrome even as an experienced PI. That open vulnerable conversation to the entire lab group (not just behind a closed office door) set an example for me that by speaking openly to our peers directly results in inclusivity and education about a topic.   
 
